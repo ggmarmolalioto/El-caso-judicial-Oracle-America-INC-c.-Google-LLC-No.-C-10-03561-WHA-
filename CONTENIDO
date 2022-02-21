@@ -1,0 +1,178 @@
+CONTENIDO
+
+
+PRÓLOGO
+
+
+
+CAPITULO I. PRELIMINAR
+
+
+
+CAPITULO II. LA TECNOLOGÍA JAVA
+
+La plataforma Java y el lenguaje de programación Java
+
+El principio “write once, run anywhere” (WORA)
+				
+La librería de software estándar de Java. Los paquetes, clases y métodos de Java
+
+
+
+CAPITULO III. LA POSICIÓN DE ORACLE
+
+Los paquetes -programas de computación- pre-escritos de Java 
+
+Licenciamiento de la plataforma Java SE
+
+La especificación de la plataforma Java SE 
+
+Google copió en forma idéntica el código fuente declarado de 37 paquetes de Java SE para introducirlo en la plataforma Android. Google quebró el principio WORA
+
+
+
+CAPITULO IV. LA POSICIÓN DE GOOGLE 
+
+Android la plataforma de código abierto. La Open Handset Alliance (OHA) 
+
+OpenJDK. La implementación de código abierto de la plataforma Java SE. La especificación de la plataforma Java SE.  El TCK y la licencia de la especificación de Java SE 
+
+Apache Harmony. La implementación independiente de la especificación de Java SE por la Fundación de Software Apache 
+
+Apache Harmony y las API de los 37 paquetes de la librería estándar de Java 
+
+Android y la elección de Apache Harmony 
+
+La distribución de Apache Harmony en ausencia del TCK 
+
+GNU ClassPath 
+
+Google no viola ningún acuerdo de licencia relativo a la plataforma Android.  El caso Sun Microsystems, Inc. v. Microsoft Corp., 188 F.3d 1115, 1118 (9th Cir. 1999) no es referenciable
+
+
+
+CAPITULO V. VEREDICTO DEL JURADO Y SENTENCIA DE LA CORTE DE DISTRITO DEL NORTE DE CALIFORNIA
+
+Fundamentos de la sentencia de la Corte de Distrito del Norte de California, juez William Alsup
+
+Implementación independiente por parte de Google
+
+Estructura, secuencia y organización
+
+No importa que tan creativo o imaginativo pueda ser un método de Java, cualquiera tiene derecho a utilizar la misma especificación del método (inputs, outputs, parámetros) siempre y cuando y línea por línea, el código fuente implementado sea diferente
+
+Los métodos de Java como “métodos de operación” podrían ser protegidos bajo el sistema de patentes de invención
+
+Doctrina de la fusión (“merge doctrine”)
+
+Interoperabilidad
+
+Fragmentación (o “balkanization”). Los casos SONY y SEGA
+
+Razones por las cuales el caso American Dental Association (ADA) v. Delta Dental Plans Association (decisión judicial del Circuito Séptimo) no controla el presente caso judicial
+
+Porque no es correcta la visión de Oracle respecto del caso Johnson Controls v. Phoenix Control Sys (Circuito Noveno, del año 1989)
+
+Porcentajes
+
+Elementos particulares del caso
+
+
+
+CAPITULO VI. RECURSO DE APELACIÓN INTERPUESTO POR ORACLE CONTRA LA SENTENCIA DE LA CORTE DE DISTRITO DEL NORTE DE CALIFORNIA RELACIONADA A LA PROTECCIÓN DEL CÓDIGO FUENTE DECLARADO Y DE SU ESTRUCTURA, SECUENCIA Y ORGANIZACIÓN BAJO EL SISTEMA DE DERECHOS DE AUTOR DE EE.UU......................................................................................91
+
+
+
+CAPITULO VII. SENTENCIA I DEL TRIBUNAL DE APELACIONES DEL CIRCUITO FEDERAL DE EE.UU							
+Protección de las API de Java y de su estructura, secuencia y organización (SSO)
+
+Protección bajo el sistema de derechos de autor de EE.UU.
+
+Doctrina de la fusión (“merge doctrine”)
+
+Frases cortas y nombres
+
+Doctrina de “scenes a faire”
+
+La estructura, secuencia y organización de los paquetes de las API de Java
+
+La interoperabilidad alegada por Google no es relevante para el análisis de la protección bajo el sistema de los derechos de autor
+
+Uso justo
+
+
+
+CAPITULO VIII. RECURSO DE APELACIÓN (PETICIÓN I DE WRIT OF CERTIORARI) ANTE LA CORTE SUPREMA DE JUSTICIA DE EE.UU. INTERPUESTO POR GOOGLE CONTRA LA SENTENCIA DEL TRIBUNAL DE APELACIONES DEL CIRCUITO FEDERAL
+
+Argumentos de Google contra la sentencia I del Tribunal de Apelaciones del Circuito Federal
+
+
+
+CAPITULO IX. RECURSO DE APELACIÓN INTERPUESTO POR ORACLE CONTRA LA DECISÓN DEL JURADO Y DE LA CORTE DE DISTRITO RELACIONADOS A LA TEORÍA DE “USO JUSTO” (O LEGITIMO)
+Primer factor. Propósito y el carácter del uso
+
+Segundo factor. La naturaleza de la obra protegido por derechos de autor
+
+Tercer factor. La cantidad y la sustancialidad de la parte utilizada en relación a la obra protegida por derechos de autor en su conjunto
+
+Cuarto factor. El efecto del uso sobre el mercado potencial o el valor de la obra protegida por derechos de autor
+
+
+
+CAPITULO X. SENTENCIA II DEL TRIBUNAL DE APELACIONES DEL CIRCUITO FEDERAL DE EE.UU. RELACIONADO AL USO JUSTO
+
+Argumentos relacionados con el uso justo
+
+Primer factor. El propósito y el carácter del uso
+
+Segundo factor. La naturaleza de la obra protegida por derechos de autor
+
+Tercer factor. La cantidad y la sustancialidad de la parte utilizada en relación a la obra protegida por derechos de autor en su conjunto
+
+Cuarto factor. El efecto del uso sobre el mercado potencial o el valor de la obra protegida por derechos de autor
+
+El balance de los cuatro factores del uso justo
+
+
+
+CAPITULO XI.  RECURSO DE APELACIÓN (PETICIÓN II WRIT OF CERTIORARI) ANTE LA CORTE SUPREMA DE JUSTICIA DE EE.UU. INTERPUESTO POR GOOGLE CONTRA LA SENTENCIA II DEL TRIBUNAL DE APELACIONES DEL CIRCUITO FEDERAL
+
+Argumentos de Google contra la sentencia II del Tribunal de Apelaciones del Circuito Federal
+
+
+
+CAPITULO XII. ARGUMENTOS DE OPOSICIÓN DE ORACLE A LA PETICIÓN DE CONCESIÓN DEL WRIT OF CERTIORARI II PRESENTADO POR GOOGLE
+
+
+
+CAPITULO XIII. SENTENCIA DE LA CORTE SUPREMA DE JUSTICIA DE LOS EE.UU
+
+VOTO DE LA MAYORIA
+
+Segundo factor. Naturaleza de la obra protegida
+
+Primer factor. El propósito y el carácter del uso
+
+Tercer factor. Cantidad y sustancialidad de la parte utilizada en relación a la obra protegida por derechos de autor en su conjunto
+
+Cuarto factor. El efecto del uso sobre el mercado potencial o el valor de la obra protegida por derechos de autor
+
+
+VOTO DE LA MINORIA
+
+Segundo factor. Naturaleza de la obra protegida
+
+Cuarto factor. El efecto del uso sobre el mercado potencial
+
+Primer factor. El propósito y el carácter del uso
+
+Tercer factor. Cantidad y sustancialidad de la parte utilizada en relación a la obra protegida por derechos de autor en su conjunto
+
+
+CAPITULO XIV. LISTADO DE PREGUNTAS NO EXAUSTIVAS, OBJETIVAS, COMO DE MINIMA Y OBLIGATORIAS
+
+
+MAPA DE RESOLUCIONES JUDICIALES
+
+
+ANOTACIONES LECTORES
