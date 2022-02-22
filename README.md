@@ -1,6 +1,6 @@
 # El-caso-judicial-Oracle-America-INC-c.-Google-LLC--No.-C-10-03561-WHA-
 
-El objetivo de este TRABAJO mismo "NO" es brindar opiniones personales u ofrecer una conclusión propia.
+El objetivo de este TRABAJO "NO" es brindar opiniones personales u ofrecer una conclusión propia.
 
 POR EL CONTRARIO, la idea es PONER A DISPOSICIÓN DE CADA LECTOR, ello con independientemente de su jurisdicción, la posibilidad de qué a través de un listado de preguntas LOS MISMOS LECTORES puedan obtener una CONCLUSIÓN PROPIA acerca del caso judicial ORACLE vs. GOOGLE.
 
@@ -12,8 +12,10 @@ Para que ello sea posible tales preguntas debe reunir ciertas carácteristicas, 
 
 A su vez, para obtener una conclusión válida la hipótesis de partida debe ser válida, es decir, deber otorgar “todos” los elementos. 
 
-En este caso tales elementos sería “lo expresado” por cada una de las partes litigantes a través de sus escritos judiciales, y “lo expresado” por los jueces a través de sus sentencias. 
+En este caso tales elementos lo CONSTITUIRÍA: 
 
-También, para lograr dicho objetivo parte del trabajo ha sido recolectar y extraer de todas las presentaciones judiciales (lógicamente de las que se ha podido tener acceso) tales elementos. 
+-“lo expresado” por cada una de las partes litigantes a través de sus escritos judiciales, y 
 
-Y en esa recolección y extracción también se ha tratado como el mayor de los cuidados la objetividad en la selección del material. Es decir, que cada presentación realizada por cada una de las partes posea como contrapartida la presentación de la parte contraria, de manera que no quede argumento sin ser rebatido, sin importar quién argumente o quién rebata.
+-“lo expresado” por los jueces a través de sus sentencias. 
+
+También, para lograr dicho objetivo parte del trabajo ha sido recolectar y extraer de todas las presentaciones judiciales (lógicamente de las que se ha podido tener acceso) tales elementos. Y en esa recolección y extracción también se ha tratado como el mayor de los cuidados la objetividad en la selección del material. Es decir, que cada presentación realizada por cada una de las partes posea como contrapartida la presentación de la parte contraria, de manera que no quede argumento sin ser rebatido, sin importar quién argumente o quién rebata.
