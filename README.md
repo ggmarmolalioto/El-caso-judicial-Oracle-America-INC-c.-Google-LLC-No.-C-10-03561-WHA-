@@ -14,8 +14,8 @@ A su vez, para obtener una conclusión válida la hipótesis de partida debe ser
 
 En este caso tales elementos lo CONSTITUIRÍA: 
 
--“lo expresado” por cada una de las partes litigantes a través de sus escritos judiciales, y 
+- “lo expresado” por cada una de las partes litigantes a través de sus escritos judiciales, y 
 
--“lo expresado” por los jueces a través de sus sentencias. 
+- “lo expresado” por los jueces a través de sus sentencias. 
 
 También, para lograr dicho objetivo parte del trabajo ha sido recolectar y extraer de todas las presentaciones judiciales (lógicamente de las que se ha podido tener acceso) tales elementos. Y en esa recolección y extracción también se ha tratado como el mayor de los cuidados la objetividad en la selección del material. Es decir, que cada presentación realizada por cada una de las partes posea como contrapartida la presentación de la parte contraria, de manera que no quede argumento sin ser rebatido, sin importar quién argumente o quién rebata.
