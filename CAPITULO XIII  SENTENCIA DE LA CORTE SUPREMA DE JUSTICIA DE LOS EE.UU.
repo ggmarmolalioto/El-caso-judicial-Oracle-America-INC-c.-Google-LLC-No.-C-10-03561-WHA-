@@ -1,0 +1,288 @@
+CAPITULO XIII
+
+SENTENCIA DE LA CORTE SUPREMA DE JUSTICIA DE LOS EE.UU.
+
+     La Corte Suprema de Justicia de EE.UU. (SCOTUS), integrada por los jueces [113]  Samuel A. Alito, Clarence Thomas, John G. Roberts, Stephen G. Breyer, Sonia Sotomayor, Brett M. Kavanaugh, Elena Kagan, Neil M. Gorsuch, y Amy Coney Barrett (que no tomó parte en las consideraciones y decisión del caso -tal vez debido a que ocupó su lugar el 27 de Octubre de 2020-) con fecha 5 de Abril de 2021 en una votación dividida de 6 votos (emitieron opinión Breyer, Roberts, Sotomayor, y adhirieron Kagan, Gorbush y Kavanaugh)  contra 2 votos (Thomas emitió en contra, adhiriendo Alito) falló a favor de la empresa Google aplicando la teoría del “uso justo o legítimo” (o en inglés “fair use”). 
+     En su sentencia SCOTUS no trata la cuestión de si los paquetes de las API de Java que conforman la librería estándar de Java, y su estructura, secuencia y organización son protegibles bajo el sistema de derechos de autor de los EE.UU., sino que asumió que la sentencia I dictada el 9 de mayo de 2014 por el Tribunal de Apelaciones del Circuito Federal (Circuito Noveno) de los EE.UU., la cual había reconocido la protección bajo el sistema de derecho de autor de EE.UU. de los paquetes de las API de Java y su estructura, secuencia y organización,  no era necesaria modificarla. 
+     Por lo tanto, la sentencia de SCOTUS no modifica el fallo de del Tribunal de Apelaciones del Circuito Federal en cuanto a la protección de las API de Java y de su estructura, secuencia y organización  bajo derechos de autor, y sólo modifica la sentencia II dictada el 27 de marzo de 2018 por el Tribunal de Apelaciones del Circuito Federal, reversándose la decisión allí establecida, y expresándose por SCOTUS que el uso de las API de Java y su estructura, secuencia y organización  por parte de Google había sido “justo o legítima” ya que Google había tomado solamente aquello que era necesario para garantizar la interoperabilidad.
+     El presente caso se relaciona con dos límites establecidos en la ley de derechos de autor de EE.UU. 
+(i)	El primero de ellos la ley lo establece en su artículo 102, inciso b) Titulo 17 USC y dice que la protección conferida por las leyes de derecho de autor de EE.UU. no se extiende a “cualquier idea, procedimiento, proceso, sistema, método de operación, concepto, principio, o descubrimiento...” 
+
+(ii)	El segundo límite a los derechos de autor está marcado en el artículo 107 del Título 17 USC en el cual se establece que el autor o titular de derechos no puede impedir a otro de efectuar un “uso justo” respecto de la obra protegida por su autor o titular de derechos. 
+     La petición efectuada por Google a la Corte Suprema de Justicia solicita aplicar ambas limitaciones a la copia efectuada por Google en el presente caso.
+     La Corte Suprema de EE.UU. asumió que las líneas copiadas por Google pueden ser protegidas, y al respecto del uso realizado por Google de esas líneas de código, consideró que constituía “uso justo”.
+ 
+VOTO DE LA MAYORIA
+     En el VOTO DE LA MAYORIA liderado por la opinión del Juez BREYER, se dijo al respecto “para los propósitos de exposición se comenzará con el segundo factor”. 
+     Veremos con posterioridad cuando se refiera al voto disidente ¿qué se expresa respecto a este comienzo de análisis por el voto de la mayoría?
+
+
+SEGUNDO FACTOR. NATURALEZA DE LA OBRA PROTEGIDA
+     La API de Java de Sun Microsystems es una “interface de usuario”. Provee una manera a través de la cual los usuarios (aquí los programadores) pueden “manipular y controlar” a los “programas informáticos para que realicen tareas” a través de un menú de comandos. 
+     Así las cosas, las API de Java reflejan la división hecha por Sun Microsystems de posibles tareas que una computadora “podría realizar” dentro de un conjunto actual de tareas que cierto tipo de computadoras “realizará”. 
+     De hecho, Sun Microsystems decidió por ejemplo que una de sus API pudiera llamar a una tarea para que se compare cuál de dos números es el mayor. 
+     Nadie en estos actuados menciona que las decisiones acerca de lo que constituye una tarea sea protegible por derechos de autor, pero, sin embargo, si es argumentable como de protegible, que una decisión de cómo denominar y organizar dichas tareas lo sea, por ejemplo, la decisión de nombrar a cierta tarea como “max” o el lugar de “max” dentro de una clase llamada “Math”. 
+     En su forma de verlo, la Corte Suprema menciona que la tecnología en cuestión posee tres elementos esenciales. 
+(i)	El primero, la API incluye el “código implementado”, el cual instruye a la computadora sobre los pasos que deben ser llevados a cabo para cada tarea. Al respecto, Google escribió su propio “código fuente implementado”, que realizaría cada una de esas tareas que sus API llamarían. 
+
+(ii)	En segundo lugar, las API de Java de Sun Microsystems, asocia a un comando en particular denominados “métodos de llamada” (“method call”), con la llamada de cada tarea. Así java.lang, es parte del comando que llamará al programa que instruye a la computadora de llevar a cabo la operación de “número mayor”. Oracle no argumenta que el uso de esos comandos por parte de los programadores, violen los derechos de autor de Oracle.
+ 
+(iii)	En tercer lugar, las API de Java de Sun Microsystems contienen código, llamado código declarado, que asocia un método de llamada con el “lugar” particular en una computadora que contiene el código implementado que necesita. El código declarado denomina las tareas particulares dentro de la API y organiza tales tareas o métodos, dentro de “clases” y “paquetes”. 
+     Oracle argumenta que Google viola sus derechos de autor en la utilización del código declarado de las API de Java. 
+     El código declarado en cuestión se asemeja a otras obras protegidas en el sentido de que “es parte de un programa de computación”. 
+     Así, el Congreso de los EE.UU. ha establecido que los programas de computación están sujetos a derechos de autor. 
+     Ahora bien, aquel código declarado, difiere de otros tipos de código de computadoras protegible bajo los derechos de autor. 
+     Así, el código declarado:
+ a) se encuentra inextricablemente unido junto con un sistema general, de división de tareas de cómputo, que nadie reclama que está sujeto a derechos de autor. 
+b) también está inextricablemente unido con la idea de organizar esas tareas en clases y paquetes, que dicha idea tampoco es protegible bajo la ley de derechos de autor y también, 
+c) está inextricablemente unido al uso especifico de comandos conocidos por los programadores, llamados en el juicio como métodos de llamadas (en inglés “method calls”), como ser java.lang.Math.max que Oracle no disputa, y a su vez, 
+d) está inextricablemente unido con el código implementado, el cual es protegible por derechos de autor, pero que no ha sido copiado.
+     Entonces, menciona la Corte Suprema, que para escribir la implementación de un programa, conforme surge de las constancias del juicio, se requiere un balance en las consideraciones acerca de que tan rápido una computadora podría ejecutar una tarea determinada o del tamaño de la memoria necesaria requerida para ejecutar esas tareas. 
+     Esto constituye un proceso creativo que fue necesario para desarrollar Android para ser usado no en computadoras de escritorios o en computadoras portátiles, sino en un nuevo contexto, el de los teléfonos móviles inteligentes.
+     El código declarado (que es inseparable de los métodos de llamadas de los programadores) incorporan un diferente tipo de creatividad. 
+     Sun Microsystems en la creación de Java, trato de encontrar nombres para su código declarado que provocara intuitivamente una manera fácil de ser recordado. 
+     La idea era atraer a los programadores para que pudieran aprender el sistema de Java, y así, lograr su desarrollo. 
+     Así se dijo en el juicio, que el código declarado está orientado al usuario (en inglés “user facing”) y debe estar diseñado y organizado de forma tal que sea intuitivo y entendible para que los desarrolladores los puedan invocar. 
+     También conforme constancias del juicio, Sun Microsystems quería lograr “abrir” las API y luego competir en las implementaciones.
+     Todas estas características significan, como parte de la interface de usuario, que el código declarado difiere de alguna manera con otros programas de computadora. 
+     Como otros programas de computadora, es funcional por naturaleza. Pero, a diferencia de otros programas, su uso esta inherentemente unido con ideas no protegibles por derecho de autor (división general de tareas y organización) y nuevas expresiones creativas (código implementado de Android). 
+     Así a diferencia de otros programas, su valor deriva del valor de aquellos que no poseen derechos de autor, es decir, de los programadores, que invierten su propio tiempo y esfuerzo en aprender el sistema de las API. 
+     Y a diferencia de otros programas, su valor recae en sus esfuerzos para alentar a los programadores para aprender y usar el sistema de manera tal que estos usarán (y seguirán haciéndolo) programas relacionados implementados por Sun Microsystems, que Google no ha copiado.          
+     Se expresa por la Corte que, aunque el derecho de autor protege varias formas de escritos, también se ha mencionado la necesidad de reconocer que existen ciertas obras protegidas que están más cerca que otras del núcleo de protección del derecho de autor. 
+     Por lo tanto, por las razones descriptas, el código declarado, como protegible, se encuentra más lejos que otros programas de computación -como el código implementado- del núcleo de protección por los derechos de autor.   
+     Por lo tanto, el segundo factor se inclina por el uso justo. 
+
+
+PRIMER FACTOR. EL PROPÓSITO Y EL CARÁCTER DEL USO
+     En el contexto del uso justo la Corte Suprema ha considerado que el uso al copiar debe agregar algo nuevo, con un propósito y un carácter diferente, alterando la obra protegida, con una nueva expresión, significado o mensaje. 
+     A esto se lo ha denominado como uso “transformativo” describiéndose así, que ese uso -cuando se copia- debe agrega algo nuevo e importante. 
+     Google copió porciones de las API de Java de Sun Microsystems en forma precisa, y lo hizo en parte por las mismas razones que tuvo Sun Microsystems cuando las creó, es decir, permitir a los programadores invocar o llamar a los programas implementados para que cumplirían con determinadas tareas. 
+     Ahora bien, expresa la Corte Suprema que podría decirse que virtualmente todos los usos no autorizados de programas de computación (por ejemplo, para investigación o enseñanza) harían lo mismo, y entonces detenerse en este estadio limitaría severamente el ámbito del uso justo en el contexto funcional de los programas de computación. 
+     Entonces, para determinar si un uso es transformativo se debe ir más lejos y así debe examinarse con mayor detenimiento el propósito y carácter de lo copiado. 
+     En el caso, el uso de Google de las API de Java buscó crear un nuevo producto. 
+     Busco expandir el uso y la utilidad de los teléfonos móviles inteligentes basados en Android. Este nuevo producto, Android, ofrece a los programadores una herramienta altamente creativa e innovadora para el ambiente de los teléfonos móviles inteligentes. 
+     Entonces, en el sentido de que Google usó partes de las API de Java para crear una nueva plataforma que permitiera ser rápidamente usada por los programadores, este uso es consistente con el progreso “creativo” que es el objetivo constitucional del derecho de autor en sí mismo. 
+     El objetivo primario del sistema de derecho de autor no es compensar a los autores por su trabajo, sino “Promover el Progreso de la Ciencia y las Artes aplicadas”. 
+     Por ello, conforme a las constancias del juicio surge que Google limitó el uso de las API de Java a tareas específicas de Android. 
+     También surge que Google copió las API de Java, pero sólo aquellas que eran necesarias para incluir las tareas que serían útiles en los programas para teléfonos móviles inteligentes. 
+     Y también que se lo hizo solo en la medida de lo necesario para permitir a los programadores invocar aquellas tareas, sin descartar la porción del lenguaje de programación con la cual ya estaban familiarizados, evitándose de que tuvieran que aprender uno nuevo. 
+     Por ello, Google a través de Android, proveyó una nueva colección de tareas que operan en un ambiente de computación diferente, y estas tareas son llevadas a cabo a través de la utilización del nuevo código implementado que Google escribió y diseño para poder operar en ese nuevo ambiente. 
+     Conforme a las constancias del juicio a ello se lo denominó “reimplementación”, que sería una suerte de construcción de un sistema que reutiliza las mismas palabras y sintaxis de un sistema existente. 
+     Existen numerosas formas en cuanto a cómo la reimplementación de una interface puede promover el desarrollo de programas de computación. 
+     Así se explicó como las interfaces son necesarias para que dos programas de computación se puedan comunicar entre ellos, de cómo la reutilización de las API es común en la industria, y que la misma Sun Microsystems había usado interfaces preexistentes en la creación de Java. 
+     También que los ejecutivos de Sun Microsystems pensaban que la diseminación del uso del lenguaje de programación Java, incluyéndose el uso en las plataformas de teléfonos móviles inteligentes beneficiaría a Sun Microsystems. 
+     Los Amici (amigos del tribunal) presentados en el juicio apoyando la posición de Google mencionaron estos mismos puntos.
+     Con respecto a las consideraciones de uso comercial y buena fe, la Corte Suprema menciona que no hay duda que un hallazgo de uso no comercial inclina la balanza en favor del uso justo. 
+     Ahora, explica que lo contrario no es necesariamente cierto, ya que en muchos casos que se ha determinado uso justo dicho uso era comercial. Por ejemplo, se menciona que el artículo 107 incluye en su listado como ejemplo a los “reportajes de noticias”, que mayormente son realizados con la finalidad comercial y de obtener ingresos. 
+     Ahora bien, aunque el uso de Google sea comercial ello no es dispositivo del primer factor, y ello particularmente a la luz del rol inherentemente transformativo que jugó la reimplementación del nuevo sistema de Android. 
+     Por otro lado, con respecto a la mala fe dijo la Corte Suprema que con la fuerza en que el resto de los factores se inclinaban hacia la consideración de un uso justo, este punto en particular no era determinante en el contexto del juicio.  
+     Con lo cual la Corte Suprema concluye que el propósito y carácter de la copia realizada por Google fue “transformativo”, y por lo tanto que el factor primero sopesa en favor del uso justo.
+
+
+TERCER FACTOR. CANTIDAD Y SUSTANCIALIDAD DE LA PARTE UTILIZADA EN RELACIÓN A LA OBRA PROTEGIDA POR DERECHOS DE AUTOR EN SU CONJUNTO
+     En el análisis del tercer factor se expresa que si se considerase el código declarado en forma aislada la cantidad copiada por Google sería relevante. 
+     Google copió el código declarado de 37 paquetes de las API de Java en un total aproximado de 11.500 líneas de código. 
+     Estas líneas de código, representa todo el código declarado necesario para llamar o invocar los cientos de diferentes funciones o tareas. 
+     Por el contrario, si se mirase la totalidad de los paquetes de las API de Java que incluye el código declarado más el código implementado por Sun Microsystems que suman un total de 2.86 millones de líneas de código, la cantidad de líneas copiada por Google sería poco representado esas 11.500 líneas un 0,4%. 
+     Por lo tanto, la pregunta es si esas 11.500 líneas de código copiadas por Google deben ser vistas en forma “aislada” o como “un todo”. 
+     En casos anteriores se ha sostenido que una pequeña cantidad copiada podría quedar por fuera del ámbito del uso justo cuando lo copiado constituye el “corazón” de la expresión de la obra original. 
+     Pero también se ha sostenido que una gran cantidad de material copiado podría quedar comprendido dentro del ámbito del uso justo cuando lo copiado captura poco de la expresión de la obra o si lo copiado es central o neurálgico para su propósito. 
+     Así, si se ha copiado una sola oración de una novela, tal copia podría bien ser insustancial. 
+     Pero si esa oración copiada establece una de las historias más cortas del mundo de tal forma que ese supuesto insustancial material copiado es el total de la novela, la cuestión sería muy diferente. (citándose por la Corte Suprema la novela de Augusto Monterroso [114] reconocida como la obra más corta en la historia de la literatura “The Dinousaur, in Complete Works & Others Stories 42 por E. Grossman transl. 1995 que decía en su versión original en castellano “Cuando despertó, el dinosaurio todavía estaba allí” “when he awoke, the dinousar was still there”)
+     Entonces expresa la Corte que de las características de lo copiado por Google sugiere que la manera de enfocar el asunto es mirando las líneas de código que Google no copió. 
+     Entonces, lo copiado por Google no fue porque lo considerase creativo, o por su belleza, o incluso en algún sentido por su propósito. Por el contrario, Google lo copió porque los programadores ya habían aprendido a cómo usar las API de Java, y sería muy difícil, e incluso tal vez prohibitivo, atraer a los programadores para que construyeran o desarrollaron en la plataforma Android sin ellas. 
+     La sustancialidad del factor generalmente pesa a favor del uso justo cuando como en el caso, el monto de lo copiado se encuentra atado a un propósito válido y transformativo. 
+     El objetivo de Google no era solamente hacer que el lenguaje de programación de Java sea el usado en la plataforma Android, sino que, además era permitir a los desarrolladores hacer uso de su conocimiento y experiencia ya ganada utilizando las API de Java cuando estos escribieran nuevos programas para teléfonos móviles inteligentes en la plataforma Android. 
+     Es cierto que Google podría haber creado su propio código declarado, ahora no es menos cierto que podría pensarse que con ello Google no podría haber logrado su objetivo básico. 
+     En este sentido, el código declarado era el necesario para desbloquear las “energías creativas de los programadores”. 
+     Y Google necesitaba de esas energías para crear su propio sistema innovador Android.
+     Por todas estas razones, se entendió que el tercer factor de sustancialidad se inclina a favor del uso justo.
+
+
+CUARTO FACTOR. EL EFECTO DEL USO SOBRE EL MERCADO POTENCIAL O EL VALOR DE LA OBRA PROTEGIDA POR DERECHOS DE AUTOR
+     El cuarto factor se focaliza en el “efecto” que la copia tiene en el mercado o el valor de la obra original. 
+     Ahora, menciona la Corte Suprema que el análisis cuando se trata de programas de computación puede ser más complejo. 
+     En algún punto se requiere que los jueces consideren cuál es el monto de dinero que la obra protegida podría perder. 
+     Entonces, la Corte Suprema en casos anteriores ha sostenido que la copia exacta (en inglés “verbatim”) de la obra original en su totalidad con propósitos comerciales puede producir la sustitución en el mercado de la obra originaria. 
+     Por ejemplo, realizar una película de un libro podría significar una pérdida potencial o presunta para el autor o titular de los derechos de la obra originaria. 
+     Dichas pérdidas se consideran normalmente en conflicto, y no comulgan con los principios básicos establecidos por el sistema de derechos de autor que es proveedor a los autores con derechos exclusivos que estimula la expresión creativa. 
+     Pero, la potencial pérdida de ingresos no lo es todo. 
+     Es decir, no sólo se debe considerar el monto potencial de la pérdida sino también la “fuente de la pérdida”. 
+     Así, en un caso anterior la Corte Suprema sostuvo que una parodia “letal” como podría ser una crítica mordaz en un teatro, puede acabar con la demanda de la obra original. Y este tipo de daño, aun cuando pueda trasladarse directamente a la pérdida de ingresos, no se encuentra reconocida bajo el sistema de derechos de autor.
+     Por otro lado, se debe tener presente el “beneficio público” que la copia podría probablemente producir. 
+     Entonces habría que preguntarse, ¿estos beneficios están relacionados con la preocupación del derecho de autor por la creación de nuevas expresiones? o ¿son o no comparativamente importantes, cuando se los compara con las pérdidas probables de ingresos? 
+     La Corte Suprema menciona que no argumenta que estás preguntas sean siempre relevantes a la hora de realizar el análisis de uso justo, o incluso menos en el ámbito de los programas de computación, o que estás preguntas sean las únicas que la Corte Suprema podría hacerse. 
+     Pero, si afirma que estas preguntas son relevantes en este caso para ayudar a determinar los probables efectos que la reimplementación de Google tiene en el mercado. 
+     Entonces, en relación a la probabilidad de pérdida de ingresos se podría pensar -por el Jurado- que Android no causó daño en el mercado actual o potencial para Java SE. 
+     Y también de que el mismo Sun Microsystems (ahora, Oracle) no habría sido capaz de entrar a estos mercado- actual y potenciales- con éxito, y ello con independencia de si Google hubiese copiado o no las API de Java. 
+     Afirma la Corte Suprema, que conforme surge de la prueba rendida en autos, sin tener en cuenta la tecnología de la plataforma Android para los teléfonos móviles inteligentes, Sun Microsystems estaba muy mal posicionado para tener éxito en el mercado de los teléfonos móviles. 
+     Por otro lado, la prueba mostró que el mercado primario de Sun Microsystems era el de computadoras de escritorios y el de las computadoras portátiles o notebooks. 
+     También surge de la prueba que muchos de los esfuerzos realizados por Sun Microsystems para ingresar al mercado de teléfonos móviles no había tenido éxito. 
+     Antes de Android, en el año 2006 los ejecutivos de Sun Microsystems proyectaron una baja de ingresos en los teléfonos móviles a causa de la tecnología emergente de los teléfonos móviles inteligentes.  
+     Por otro lado, existe constancias en el juicio de las que surgen que los dispositivos que utilizan la plataforma Android son distintos de aquellos que están licenciados con la tecnología de Sun Microsystems. 
+     Así surge de la prueba que la industria en general distingue entre teléfonos móviles inteligentes y “teléfonos móviles con funciones”. 
+     Y respecto de los dispositivos que utilizan la tecnología creada por Sun Microsystems, surge que uno de esos dispositivos no poseía una pantalla táctil, mientas que otros no poseían un teclado QWERTY, y otros como Kindle, si bien utilizaba Java, sus modelos más avanzados como Kindle Fire fueron construidos con el sistema operativo de Android. 
+     De ello surge, que, en lugar de reutilizarse código de computadoras de escritorio y portátiles, la plataforma Android de Google fue parte de un mercado distinto y más avanzado que el mercado del software Java SE. 
+     Tomando todos estos antecedentes en forma conjunta surge que el negocio de teléfonos móviles de Sun Microsystems estaba en declive mientras que el mercado demandaba con mayor exigencia cada vez más de una nueva forma de tecnología de teléfonos móviles inteligentes, que Sun Microsystems nunca había sido capaz de ofrecer.
+     Por otra parte, también surge de las constancias del pleito que Sun Microsystems previó un beneficio como consecuencia de la amplia utilización del lenguaje de programación Java en una nueva plataforma como la de Android. 
+     Así se dijo “una vez que una API comienza a reimplementarse, se sabe que será un éxito”. 
+     Y como hay dos mercados en cuestión, los programadores entrenados en el lenguaje de programación Java en relación al trabajo efectuado en el mercado de los teléfonos móviles inteligentes son capaces de llevar ese aprendizaje al otro mercado, el de las computadoras portátiles. 
+     Si bien Oracle presentó prueba de lo contrario, y además el Tribunal de Apelaciones del Circuito Federal mencionó que el cuarto factor militaba en contra del uso justo, en parte porque Sun Microsystems había intentado entrar en el mercado de Android, lo cierto es que ni de los esfuerzos realizados por Sun Microsystems para licenciar la tecnología, ni de la prueba aportada por Oracle en el juicio se puede contrarrestar la otra prueba que indica que como mínimo hubiera sido difícil para Sun Microsystems lograr entrar al mercado de los teléfonos móviles inteligentes, y todo ello aún en el caso de que Google no hubiese copiado los 37 paquetes de las API de Java.
+     Por otro lado, lo copiado por Google ayudó a Google a obtener una cantidad de ingresos más que importantes con su plataforma Android (aproximadamente unos 42 billones de dólares). 
+     Y, por otro lado, la persecución de los derechos de autor de las API de Java podría darle a Oracle, una parte significativa de esos ingresos. 
+     Cuando una interface, como la de las API o un programa de hojas de cálculo es lanzado al mercado, puede atraer a sus nuevos usuarios porque su expresión es de calidad, como puede serlo una mejor pantalla o que es superior funcionalmente. Con el paso del tiempo, podrían tener valor por razones diferentes, es decir porque sus usuarios incluyendo programadores, también los usan. Es decir, ya han aprendido a como trabajar con ellos. 
+     Entonces, en el juicio existe vasta evidencia de que Google tenía el deseo de utilizar las API de Java. 
+     Ahora bien, la fuente rentable de ingresos de Android está muy relacionado y tiene mucho que ver con la inversión de “terceras partes” (los programadores) en los programas de Java de Sun Microsystems. En consecuencia, no tiene que ver con la inversión de Sun Microsystems en la creación de las API de Java. 
+     No hay razón para pensar que el sistema de derechos de autor de EE.UU. busca proteger la inversión de terceras partes por el aprendizaje logrado de como operar una obra creada.
+     Entonces, permitir la prosecución de los derechos de autor de Oracle podría ir en contra del interés general. 
+     Explica la Corte Suprema, que teniéndose en cuenta los costos y las dificultades de producir API alternativas, y de que estas posean un similar atractivo para los programadores, permitir la prosecución en este caso haría que el código declarado de las API de Java opere como un “cerrojo” limitando el futuro creativo de nuevos programas. 
+     Sólo Oracle tendría la llave. 
+     Sin duda, el resultado podría ser muy beneficioso para Oracle (o de otras compañías que sostengan la protección de las interfaces de computación). 
+     Pero esas ganancias bien podrían fluir de mejoras creativas, nuevas aplicaciones, y nuevos usos desarrollados por usuarios quienes han aprendido a trabajar con tales interfaces. 
+     En este sentido, el “cerrojo” interferiría con los principios básicos del derecho de autor. 
+     Así, la Corte Suprema menciona que ha sostenido en casos anteriores que el intento de monopolizar el mercado haciendo imposible para otros de competir va en contra de los propósitos de la ley de derechos de autor de promover las expresiones creativas.          
+     Después de todo, el derecho de autor provee del incentivo económico para crear y diseminar las ideas, y la reimplementación de una interface de usuario, permite la creación de nuevo código fuente para lograr entrar al mercado de una manera más accesible. 
+     Entones, dada la naturaleza incierta de la habilidad de Sun Microsystems para competir en el mercado de Android, la fuente de sus ingresos perdidos, y el riesgo de la creatividad relacionado con el daño público, tomando todos ellos en conjunto la Corte Suprema expresa que el cuatro factor se inclina favor del uso justo.    
+
+VOTO DE LA MINORIA
+
+     En el VOTO DE LA MINORÍA disintiendo, el Juez THOMAS dijo, y adhiriendo el Juez ALITO:
+     Se menciona que el voto de la mayoría arribó a este resultado improbable en parte porque eludió la primera pregunta que Google solicitó responder a la Corte Suprema en su Petición II de Writ of Certiorari. 
+     La primera pregunta fue: ¿Se encuentra protegido por las leyes de derechos de autor de EE.UU. el código en cuestión? 
+     El voto de la mayoría asumió que sí, sin decidir, que el código estaba protegido. 
+     Pero su análisis, en palabras de Thomas, de uso justo es inconsistente con la protección que la ley de derechos de autor de EE.UU. otorga al código de computadora. 
+     Al eludirse la pregunta de protección de derechos de autor, el voto de la mayoría descartó la mitad del texto relevante de la ley de derechos de autor, y distorsionó su propio análisis de uso justo regulado por el artículo 107, Título 17, USC.
+     El voto de la mayoría concluyó que cada uno de los cuatro factores estaba a favor de Google, confiando en gran parte en la distinción entre “código fuente declarado y código fuente implementado”, una distinción que la ley de derechos de autor de EE.UU. no efectúa. 
+     Así el Congreso de los EE.UU. cuando decidió establecer la protección al código de computadora eligió hacerlo mediante el sistema de derechos de autor, y en esa elección de protección se encuentra incluido el “código fuente declarado”. 
+     Así, la ley define a programa de computación como un conjunto de declaraciones o instrucciones para ser usadas directa o indirectamente en una computadora con el propósito de producir un resultado. 
+     Por lo tanto, el Congreso de los EE.UU. cuando decidió la protección bajo derechos de autor y definió al código de computadora como lo hizo, rechazó cualquier distinción o categorización entre código declarado y código implementado. 
+     El código implementado ordena a una computadora una operación de forma directa, y el código declarado lo hace de manera indirecta. 
+     Entonces, sin duda que la definición legal claramente incluyó al código fuente declarado como conjunto de declaraciones que indirectamente ejecutan funciones de cómputo mediante el código implementado. 
+     Incluso sin un lenguaje expreso en la ley, el código declarado cumple con los estándares de protección exigidos por la ley de derechos de autor. 
+     Las líneas de código declarado en la plataforma Java SE satisfacen estos requisitos. 
+     En primer lugar, está expresada en palabras, números, u otros símbolos verbales o numéricos y es original por cuanto fue creada en forma independiente por Sun Microsystems. 
+     Por otro lado, son originales porque Oracle podría haberlas creadas o escrito, y así expresarlas de diferentes formas. 
+     Google ha sostenido que el código declarado no puede quedar protegido por las leyes de derechos de autor porque constituye un “método de operación” conforme a lo estipulado en el artículo 102 inciso (b) del Título 17 USC. 
+     Este argumento, sostiene el Juez Thomas no es correcto. 
+     Así del voto de la mayoría surge correctamente que el código declarado y el código implementado están inextricablemente unidos. 
+     Ello por cuanto el código declarado define el ámbito de un conjunto de código implementado y provee a los programadores una manera de usarlos mediante un atajo o acceso directo (en inglés “shortcut”). 
+     El código declarado incluye al código implementado, pero el código declarado no funciona por sí mismo. 
+     Lo mismo le pasa al código implementado. 
+     En ausencia del código declarado, los desarrolladores tendrían que escribir cada programa desde cero (en inglés “from scratch”), y posiblemente haría que el desarrollo de programas complejos sea prohibitivo de desarrollo a razón del consumo de tiempo que ello llevaría.
+     En definitiva, está claro que Oracle no puede proteger mediante derechos de autor la idea de usar código declarado, pero si puede reclamar protección bajo el sistema de derechos de autor respecto de la expresión especifica que ha hecho de esa idea y que se la encuentra en la librería estándar de Java
+     Google también ha sostenido que el código declarado no es protegible bajo el sistema de derechos de autor basándose en la doctrina de la fusión (en inglés “merge doctrine”). 
+     Oracle tuvo múltiples maneras de expresar su idea. 
+     A lo sumo, existió una sola manera en la cual Google pudo copiar el código declarado expresado por Oracle, pero existieron innumerables maneras para Oracle de escribir su código declarado. 
+     Por lo tanto, este argumento de Google no puede más que ser rechazado. 
+     El voto de la mayoría de forma muy particular decidió evaluar los factores del uso justo no por su orden secuencial o por su orden de importancia (según los precedentes de la Corte Suprema existen dos factores más importantes [115] que los restantes), sino por el contrario, decidió empezar por el segundo factor que trata sobre la naturaleza de la obra protegida. 
+     Ahora, según el Juez Thomas el voto de la mayoría procedió de esta forma para crear una distinción entre código declarado y código implementado, dándole menor protección al código declarado, y de ahí construir su teoría. 
+     Por ello, dice el Juez Thomas que teniendo en cuenta que el equivocado análisis del voto de la mayoría confió tanto en este factor, él también decidió comenzar por el mismo segundo factor.   
+
+
+SEGUNDO FACTOR. NATURALEZA DE LA OBRA PROTEGIDA
+     Este factor requiere una evaluación respecto del nivel de “creatividad o funcionabilidad” en la obra original. 
+     De modo general se suele decir que este factor favorece el uso justo cuando la obra protegida posee carácter “informativo o funcional”, en lugar de creativo. 
+     Y también, que teniendo en cuenta que el código de computadora es predominantemente funcional este factor también suele favorecer la copia cuando la obra original trata de código de computadora. 
+     Ahora bien, teniendo en cuenta que el sistema de derechos de autor promulga la protección tanto del código declarado como el código implementado, este factor por sí sólo no puede soportar el hallazgo de uso justo. 
+     El voto de la mayoría utilizó este factor para crear una diferencia entre el código declarado y el código implementado, y así remover de protección al código declarado. 
+     Así el voto de la mayoría concluye, que a diferencia del código implementado el código declarado se encuentra más alejado, menos próximo al “núcleo de protección de los derechos de autor”, porque se convierte en valioso sólo cuando terceras partes (programadores) lo valoran y porque está inherentemente unido junto con ideas que no son protegibles bajo el derecho de autor. 
+     Comenta nuevamente el Juez Thomas, que el Congreso de los EE.UU. rechaza esta distinción que haría que el código declarado tuviese una protección precaria o menor. 
+     La ley de derechos de autor protege al código que opera en una computadora con el propósito de obtener un cierto resultado, sea directo (código implementado) sea indirecto (código declarado). 
+     Y en todo caso, si hubiese algo que estaría más cerca del “núcleo del derecho de autor” sería el código declarado. 
+     Así se ha dicho durante el juicio que el código declarado es orientado al usuario y que los desarrolladores ni siquiera pueden ver el código implementado. 
+     El código declarado debe estar diseñado y organizado de manera que sea intuitivo y entendible para los programadores de tal forma que puedan invocarlo. 
+     Aún, dejando de lado todo esto, menciona el Juez Thomas que el voto de la mayoría es insostenible. 
+     El voto de la mayoría dice que el código declarado está inherentemente unido con ideas que no son protegibles bajo el derecho de autor. 
+     Ahora, se pregunta Thomas, ¿acaso un libro no está inherentemente unido a ideas que no están protegidas? 
+     Así en el uso de, capítulos, diálogos, pie de notas.  
+     Esto no hace que los libros estén lejos del núcleo del derecho de autor. 
+     De hecho, el código implementado, el cual en el voto de la mayoría se concede que es protegible, está inherentemente unido “con la división de las tareas de cómputo”, que no es protegible. 
+     En el voto de la mayoría se desprecia al código declarado al sugerirse que éste simplemente es una forma de organizar el código implementado. 
+     No es así. 
+     El código declarado define los subprogramas del código implementado, incluyendo mediante el control de los inputs que ellos pueden procesar. 
+     El código declarado “crea” los métodos de llamadas (en inglés “method calls”).
+     En definitiva, no se puede descartar a una obra como de protegible por la sola mera circunstancia de que se encuentra asociada o ligada a ideas que no son protegibles. 
+     Mientras las ideas no pueden ser protegidas por el derecho de autor, la expresión de esas ideas si se protegen. 
+     El código declarado es como los programadores acceden al código implementado pre-escrito. 
+     Por ello el valor del código implementado es directamente proporcional a como los programadores valoran el código declarado asociado. 
+
+
+CUARTO FACTOR. EL EFECTO DEL USO SOBRE EL MERCADO POTENCIAL
+     Sin lugar a dudas, el cuarto factor constituye el elemento individual más importante en el análisis de uso justo. 
+     Expresa el Juez Thomas que la evidencia en el juicio que surge del daño actual y potencial a causa de lo copiado por Google, es abrumadora. 
+     Al copiar el código de Oracle y luego desarrollar y lanzar Android, Google arruinó el mercado potencial de Oracle en menos de dos años. 
+     En primer lugar, Google eliminó las razones por las cuales los fabricantes podrían querer pagar por instalar Java en sus dispositivos. 
+     Mientras que los ingresos de Oracle se generan por cobrarles a los fabricantes de dispositivos por instalar Java en sus aparatos fabricados, Google obtiene sus ingresos principalmente a través de sus ventas de publicidad. 
+     Su estrategia al lanzar Android fue para ofrecerlo sin costo a los fabricantes de dispositivos y así utilizar a Android como vehículo para recolectar datos de consumidores y así entregar publicidad basada en comportamiento. 
+     En definitiva, teniendo presente que había disponible un producto sin costo, “gratis”, que incluía el código de Oracle, los fabricantes de dispositivos no vieron muchas razones para seguir pagándole a Oracle por embeber Java SE en sus dispositivos. 
+     Por ejemplo, antes de que Google hiciera disponible Android, Amazon pagaba a Oracle por una licencia por incluir Java SE en sus dispositivos Kindle. 
+     Luego de que Google liberará Android al mercado, Amazon utilizó el argumento de que Android era gratuito para obtener un descuento de Oracle del 97, 5%. 
+     De igual forma, de la prueba rendida en el juicio surge que Samsung tenía un contrato con Oracle de USD 40 millones de dólares. Después de Android ese mismo contrato fue de USD 1 millón de dólares. 
+     Google menciona que Amazon usaba una plataforma distinta de la plataforma Java SE, la cual era la plataforma Java Micro Edition (ME). Esta diferencia es irrelevante, ya que Java Micro Edition es un conjunto de Java SE. 
+     Google copió código de ambas plataformas. 
+     El voto de la mayoría no lo disputa, ni siquiera lo menciona. 
+     Thomas, menciona que sin duda el daño fue enorme.
+     Por otro lado, Google interfirió con las oportunidades de Oracle de licenciar la plataforma Java para los desarrolladores de sistemas operativos para dispositivos móviles. 
+     Antes de que Google copiara el código de Oracle, en casi todos los teléfonos móviles del mercado se encontraba Java SE. 
+     El código de Oracle sin duda fue extraordinariamente valioso para cualquiera que quisiera desarrollar teléfonos móviles inteligentes, y eso explica porque Google trato unas cuatro veces de obtener una licencia de Oracle. 
+     El voto de la mayoría recalca sobre esto, que Google busco obtener una licencia de Oracle, pero de otro tipo. 
+     Pero eso no cambia las cosas. 
+     Ambas partes estuvieron de acuerdo que Oracle podía entrar al mercado actual de Google licenciando su código declarado. 
+     Entonces, al copiar el código de Oracle y lanzar Android, Google eliminó la oportunidad de Oracle de licenciar su código para tal uso. 
+     El voto de la mayoría descarta este daño diciendo que se podría haber concluido que Oracle no hubiera sido capaz de entrar al mercado moderno de los teléfonos móviles inteligentes de una manera exitosa. 
+     Ahora, que Oracle por sí mismo pudiese haber entrado o no a tal mercado, constituye la mitad de la película. 
+     Ello porque cuando se analiza el mercado potencial que los creadores de una obra original probablemente desarrollarían, no sólo se mira lo que ellos podrían desarrollar por sí mismos, sino también aquello que podría desarrollarse a través del modelo de licenciamiento a terceros para que lo realicen. 
+     Es decir, desarrollarlo de manera indirecta con una red de distribuidores autorizados por Oracle. 
+     Es indiscutible que Oracle podría haber licenciado a terceros para que estos desarrollasen la tecnología de Oracle en el nuevo mercado de teléfonos móviles inteligentes. 
+     Nuevamente, que Oracle no lo hubiese podido hacer por sí sólo, en forma directa, no significa que no hubiese podido hacerlo de manera indirecta, licenciando o autorizando a otros para hacerlo.
+     Dice Thomas a su vez, que el voto de la mayoría incapaz de discutir seriamente que las acciones de Google causaron un efecto desastroso en el mercado potencial de Oracle, cambia el curso y afirma que promover la protección del derecho de autor podría dañar al público por darle a Oracle el poder de limitar el futuro de la creatividad de los programas de Android. 
+     Ahora, por un lado, este caso sólo involucra las versiones de Android hasta noviembre de 2014. 
+     Desde esa fecha Google ha publicado seis versiones. 
+     Y sólo el 7,7% de los dispositivos activos de Android contienen las versiones anteriores al 2014. 
+     La preocupación del voto de la mayoría acerca del posible vendor lock-in de parte de Oracle tendría más sentido se si estuviera discutiendo acerca de las versiones actuales en uso de Android o de las que estarían en uso. 
+     No hace demasiado sentido cuando se trata de versiones que están a punto de ser obsoletas. 
+     A su vez, es especulativo. 
+     En primer lugar, Oracle nunca tuvo en sus manos el vendor lock-in. 
+     El voto de la mayoría se olvida que Apple y Microsoft crearon su propio sistema operativo para teléfonos móviles sin usar el código declarado de Oracle. 
+     En segundo lugar, Oracle siempre hizo disponible el código declarado disponible bajo una licencia de software libre y código abierto (GPLv2). 
+     El voto de la mayoría expresa preocupación en relación a que Oracle pueda abusar de sus derechos de autor (en las versiones obsoletas de Android) y realizar un intento de monopolizar el mercado. 
+     Ahora, menciona el Juez Thomas, que fue Google quién recientemente fue condenado a una multa de USD 5 billones por cometer prácticas ilegales en relación con Android y violar leyes antimonopólicas. 
+     Entonces, es Google quién controla el sistema operativo para teléfonos móviles más usado en el mundo. 
+     Si el voto de la mayoría está preocupado en relación a las conductas monopólicas, debería considerar si Google es la gran amenaza.
+     Si ahora las compañías pueden libremente copiar código declarado cuando sea más conveniente que escribir el suyo propio, dudarán lógicamente de gastar los recursos que Oracle gastó. 
+     Al copiar el código de Oracle, Google diezmo el mercado de Oracle y creó un sistema operativo para dispositivos móviles con 2.5 billones de dispositivos, obteniendo ganancias por más de decenas de billones de dólares cada año. 
+     Si estos efectos sobre el potencial mercado de Oracle, favorecen a Google, dice Thomas algo está muy mal en nuestro análisis de uso justo. 
+     El juez Thomas, entiende que este factor también favorece a Oracle.     
+
+
+PRIMER FACTOR. EL PROPÓSITO Y EL CARÁCTER DEL USO
+     Este factor constituye el segundo factor más importante. 
+     Como se mencionó anteriormente este factor incluye si el uso efectuado es de naturaleza comercial o es con fines educativos sin ánimo de lucro. 
+     Este factor también requiere analizar si el uso es “transformativo”. 
+     Sólo en el año 2015, explica Thomas, el año anterior al juicio de uso justo, Google obtuvo una ganancia de USD 18 Billones (o USD 18.000 millones lo que es lo mismo) en relación a Android. 
+     Sin duda que el uso de Google del código declarado de propiedad de Oracle, si no es decisivo por lo menos pesa muy fuerte en contra del uso justo. 
+     El voto de la mayoría intentar minimizar este abrumador uso comercial sosteniendo que el uso comercial no necesariamente juega en contra del uso justo. 
+     Es cierto, expresa el Juez Thomas, el uso comercial a veces se ve superado por un uso que es lo suficientemente transformativo. Ahora, no se puede ignorar el propósito de Google de suplantar la valiosa plataforma comercial de Oracle con la suya propia. 
+     Generalmente no podría encontrarse uso justo si el uso del copista no es transformativo. 
+     Una obra es transformativa si agrega algo nuevo, con un propósito diferente, alterando la primera expresión, significado o mensaje. 
+     Esta pregunta es guiada por los ejemplos provistos en el artículo 107, Titulo 17 USC, cuando incluye como ejemplos, y de manera simplemente enunciativa, a las críticas, enseñanza, educación, becas, investigación, etc. 
+     Google, en su reutilización del código de Oracle no efectúo ninguno de ellos, como tampoco uso el código de Oracle para enseñar, o efectuar ingeniería inversa o para asegurar la compatibilidad entre sistemas. 
+     Por el contrario, Google utilizó el código declarado para los mismos exactos propósitos que Oracle.
+     Por estas razones, se entendió que este factor se inclina por la inexistencia de uso justo.
+
+
+TERCER FACTOR. CANTIDAD Y SUSTANCIALIDAD DE LA PARTE UTILIZADA, EN RELACIÓN A LA OBRA PROTEGIDA POR DERECHOS DE AUTOR EN SU CONJUNTO
+     En general a mayor cantidad en uso o copiada, menor la probabilidad de uso justo. 
+     Pero aún, así, si el copista toma una pequeña parte, copiando el “corazón” o “puntos centrales” de una obra, ello pesa en contra de un uso justo, a menos que no se haya tomado más de lo necesario por el copista para lograr su uso transformativo. 
+     Google no ha disputado la conclusión del Tribunal de Apelaciones del Circuito Federal cuando concluyó que Google había copiado el corazón o la parte central de la obra protegida de Oracle. 
+     El código declarado es lo que atraída a los programadores a la plataforma Java y por ello Google estaba tan interesado en ello. 
+     Que Google haya copiado exacto (en inglés “verbatim”) el código de Oracle, pesa en contra del uso justo. 
+     El voto de la mayoría expresa que Google tomo no más que lo necesario para crear nuevos productos. 
+     Esta conclusión es errónea, porque el uso de Google no es transformativo. 
+     A su vez, aunque el uso de Google fuera transformativo, el voto de la mayoría concluye que Google sólo copió una pequeña porción de la obra original. Señala así el voto de la mayoría que las 11.500 líneas de código declarado copiado por Google, constituye solamente “una fracción” del código de la plataforma Java. 
+     El problema con esta visión es que el denominador correcto no es “todo el código” de la plataforma Java SE, sino “sólo” el código declarado. 
+     Por ello, este factor pesa en contra del uso justo.
+     Concluye el Juez Thomas que tres de los cuatro factores pesan decididamente en contra de Google. 
+     Y que la naturaleza de la obra protegida, el único factor que tal vez podría favorecer a Google, por sí sólo no puede lograr una determinación de uso justo, porque sostener ello sería contrariar los principios que el Congreso de los EE.UU. tomó en cuenta al determinar la protección bajo derechos de autor del código declarado. 
+     Finaliza diciendo Thomas, que el voto de la mayoría propone dejar “para otro día” la cuestión de si el código declarado se encuentra protegido o no por el derecho de autor. 
+     La única razón aparente para ello, es que no pueden cuadrar su análisis de uso justo con el hecho de que el código declarado es protegible bajo los derechos de autor. 
