@@ -1,3 +1,4 @@
+![El caso judicial Oracle America, INC contra Google, LLC No  C 10-03561 WHA (domingo 1)](https://user-images.githubusercontent.com/33959642/155154882-26daf8ff-0dd9-4d84-b81a-fab0314777a5.png)
 # El-caso-judicial-Oracle-America-INC-c.-Google-LLC--No.-C-10-03561-WHA-
 
 El objetivo de este TRABAJO "NO" es brindar opiniones personales u ofrecer una conclusión propia.
