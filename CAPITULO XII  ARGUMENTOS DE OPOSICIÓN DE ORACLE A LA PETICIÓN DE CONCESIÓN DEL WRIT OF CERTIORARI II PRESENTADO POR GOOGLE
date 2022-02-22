@@ -1,0 +1,218 @@
+CAPITULO XII
+
+ARGUMENTOS DE OPOSICIÓN DE ORACLE A LA PETICIÓN DE CONCESIÓN DEL WRIT OF CERTIORARI II PRESENTADO POR GOOGLE
+
+Habiéndosele corrido traslado a Oracle de los argumentos de la Petición II de “Writ of Certiorari” presentado por Google, Oracle con fecha 27 de marzo de 2019 presentó su escrito de oposición.
+     
+     Oracle manifiesta que la primera mitad de la Petición II de Writ of Certiorari de Google, ya ha sido rechazada por la Corte Suprema de EE.UU. 
+     
+     Respecto de la segunda mitad Oracle menciona que no existe conflicto de interpretación entre los distintos Circuitos de Apelaciones como expresa Google, en relación a la interpretación del artículo 102 del Título 17 USC. 
+     
+     En forma previa en este mismo caso Google presentó una Petición I de Writ of Certiorari   en relación a si el código fuente de los programas de computación propiedad de Oracle se encontraban protegido bajo las leyes de derechos de autor. 
+     
+     La Corte Suprema en el año 2015 invitó al Procurador General de los EE.UU. a dar su opinión al respecto, y éste dijo que el código de Oracle estaba protegido por las leyes de derechos de autor, además de mencionar que el argumento de Google en relación a la división de interpretación entre los Circuitos no tenía mérito alguno, por lo tanto, recomendó a la Corte Suprema no revisar el caso. 
+     
+     Posteriormente la Corte Suprema denegó la Petición I de Writ of Certiorari de Google. 
+     
+     Google, ahora intenta hacer la misma pregunta a la Corte Suprema dándole los mismos argumentos. 
+     
+     Pero, Google no ha identificado que algo haya cambiado. 
+     
+     Por lo tanto, sostiene Oracle que la Petición II de Writ of Certiorari de Google debe ser rechazada.
+
+Teniendo en cuenta ello, Oracle menciona que las preguntas que la Corte Suprema debería responder son las siguientes:  
+1) ¿La ley de derechos de autor de EE.UU. protege el código fuente de los programas de computación de Oracle que Google admitió que eran originales y creativos, y que Oracle podría haberlos escritos en una gran cantidad de maneras diferentes para ejecutar las mismas funciones?
+2) ¿Fue correcta la decisión del Tribunal de Apelaciones del Circuito Federal en cuanto sostuvo que: 
+(a) no constituía uso justo o legítimo como una cuestión de derecho (en inglés “as a matter of law”) que Google copiara el código fuente de Oracle en una plataforma comercial (Android) en competencia con la plataforma Java con el propósito de atraer a los programadores de Java, y que, 
+(b) Google podría haberla escrito sin copiarla de Sun Microsystems/Oracle, y que, 
+(c) la conducta de Google al copiar causó daños sustanciales en el mercado actual y potencial para las obras protegidas de Oracle?  
+
+Oracle sostiene que la decisión del Tribunal de Apelaciones del Circuito Federal fue correcta porque aplicó la doctrina del derecho de autor establecida y acordada en los EE.UU. 
+     
+     Oracle pasó años desarrollando Java y gasto cientos de millones de dólares desarrollando una obra exitosa como la plataforma Java. 
+     
+     Google rechazó el ofrecimiento de licenciamiento ofrecido por Oracle, y en su lugar, copió sin autorización de Oracle las porciones de código más importantes de ella para introducirla en su plataforma Android en competencia con la plataforma Java con el propósito de atraer a los programadores aficionados, fanáticos o fans de la plataforma Java de Oracle. 
+     Naturalmente ello, causó un daño incalculable en el mercado para Oracle.
+     
+     Sin importar todo esto, Google menciona que la copia realizada debe ser permitida para una cierta categoría de código fuente, la cual describe Google como “líneas de código de computadora que permite a los desarrolladores operar el código de la librería pre-escrita usado para ejecutar tareas particulares”. 
+     
+     Por otro lado, Google confirmó en el juicio que a propósito construyó su plataforma Android para ser incompatible con la plataforma Java. 
+     
+     Por ello, no tiene sentido analizar en el caso las implicancias de la interoperabilidad.  
+     
+     Por otro lado, Google no ha citado durante todo el trámite del juicio ningún caso judicial en el cual alguna vez se haya sostenido que copiar semejante cantidad de líneas de código como su estructura, secuencia y organización en otra obra en competencia, pueda constituir uso justo. 
+     
+     Oracle creó y continúa desarrollando la plataforma Java 2 Edición Estándar o Java SE o plataforma Java. 
+     
+     La plataforma Java es una de las obras de computación más importantes y revolucionarias de la industria de software. 
+     
+     Java hace que sea fácil desarrollar y hacer correr aplicaciones conocidas o populares (“apps”) escritas en el lenguaje de programación Java.  
+     
+     Dos características fueron las que contribuyeron a la popularidad de la plataforma Java. 
+     
+     La primera fue, que, a diferencia de otras plataformas, Java permitía a los programadores de aplicaciones escribir programas que pudieran correr en diferentes equipos de computación/sistemas operativos, sin tenerse la necesidad de rescribir los programas. 
+     
+     De ahí el principio “write once, run anywhere”. 
+     
+     En segundo lugar, la plataforma Java contiene miles de programas pre-escritos (incluidos dentro de la librería estándar de Java), con lo cual los programadores pueden utilizar estos programas pre-escritos por Oracle con la finalidad de escribir sus propios programas en lugar de tener que escribir ellos mismos dichas funciones desde cero. 
+     
+     Por su parte, cada uno de estos programas posee un código fuente declarado y un código fuente implementado. 
+     
+     El código declarado es como el título de un capítulo y las oraciones temáticas de una obra literaria, así introduce nombres, y describe cada uno de los programas pre-escritos para ayudar a los programadores a aprender y recordar “¿qué es lo que hacen esos programas pre-escritos?” 
+Entonces: 
+
+a)	programa de Oracle incluido dentro de la librería de software estándar de Java o librería de clases de Java (Java Class): 
+
+Librería de clases Java ----URLConnection
+
+b)	código fuente declarado por Oracle del programa URLConnection:
+
+Public   URLConnection   openConnection() throws java.io.IO.Exception
+
+c)	programador que escribiendo código en el lenguaje de programación Java quiere utilizar el programa pre-escrito de Oracle URLConnection incluido en la librería de software estándar de Java (y no desea escribir desde cero dicho código fuente con dicha funcionalidad) para que su propio programa desarrollado en lenguaje Java pueda conectarse a la red internet. Para ello, este programador debe invocar el código fuente declarado por Oracle, escribiendo “su propio código fuente” dentro de su programa, tipeando el comando abreviado establecido por Oracle:
+
+New URL(´http//www.bankofamerica.com´).open Connection().
+
+d)	Cuando el programa comienza a correr la plataforma Java reconoce el código declarado y así invoca el correspondiente código fuente implementado para realizar la conexión con www.bankofamerica.com
+
+Por otro lado, contrario a la analogía expuesta por Google, el código fuente declarado es mucho más expresivo que las letras de un “teclado”.  
+
+En primer lugar, cada letra de teclado es un carácter singular, mientras que el código fuente declarado puede ser extremadamente extenso y expresivo:
+
+Public abstract void verify (PublicKey key, String sigProvider) 
+throws CertificateException,No-SuchAlgorithmException, 
+InvalidkeyException,NosuchProviderexception,SignatureException
+
+En segundo lugar, mientras que “ASDFG” no expresa absolutamente nada a nadie, el código fuente declarado de Oracle cumple con las siguientes premisas: 
+(i)	comunicar a los programadores que es lo que hace cada programa, 
+(ii)	establecer cómo se relacionan con otros programas, y, 
+(iii)	establecer que es necesario hacer para que el programa funcione. 
+     
+     En tercer lugar, en relación a la “complejidad”, no hay punto de comparación entre la relación entre las 26 teclas [de un teclado QWERTY] entre sí y la organización de la plataforma Java entre sus más de 30.000 programas.
+     
+     En relación a las formas de licenciamiento de Java, es crucial mencionar una distinción -que Google omite mencionar en sus presentaciones- entre:
+ 1) “programadores de “apps” quienes sólo utilizan la plataforma Java para crear o desarrollar sus aplicaciones. Estas aplicaciones corren en tabletas y teléfonos móviles inteligentes. Oracle ofrece a los programadores de aplicaciones una licencia sin costo alguno, y 
+2) los “desarrolladores de plataformas” quién copian la plataforma Java para comercializarla en sus propias plataformas.
+     
+     Oracle recupera su inversión en la plataforma Java principalmente licenciando a: 
+1) fabricantes de hardware o dispositivos que quieren incorporar el programa de software de la plataforma Java en sus propios dispositivos (PC´s, tabletas, teléfonos) para correr la gran variedad y cantidad de aplicaciones desarrolladas por los programadores de aplicaciones, 
+2) desarrollares de plataforma en competencia que quieren utilizar los programas de Oracle para comercializarlos en sus propias plataformas. Entonces, cualquier desarrollador de plataforma que no quiera tomar una licencia de Oracle está en su derecho y libertad de desarrollar su propia plataforma con idénticas funciones sin copiar la plataforma Java. Así lo han hecho Apple y Microsoft. 
+     
+     Pero si una empresa que es un desarrollar de plataforma quiere copiar o adaptar la plataforma Java, Oracle exige y requiere que se lo haga tomando la licencia respectiva. 
+     
+     Y a su vez, si la empresa desarrolladora de plataforma quiere mantener sus modificaciones “propietarias”, pues entonces debe tomar una licencia comercial de Oracle, y pagar a Oracle las tarifas correspondientes. 
+     
+     Y, por otro lado, a estas empresas con licencias comerciales, para preservar el “write once, run anywhere” Oracle les exige que cumplan con los requerimientos de compatibilidad (TCK).
+     
+     Por otro lado, la opción de código abierto denominada OpenJDK está disponible, y puede utilizarse todos y cada uno de los paquetes de las API de Java sujeto a las condiciones de la licencia GPLv2.
+     
+     Bajo este esquema de licenciamiento, Java se convirtió en la plataforma líder para desarrollar y hacer correr aplicaciones en teléfonos móviles. 
+     
+     Antes de Android cada una de las compañías que quería utilizar la plataforma Java tomaba una licencia comercial. 
+     
+     Entre ellos estuvieron los fabricantes de teléfonos inteligentes como Blackberry, Nokia y Danger. 
+     
+     Por otro lado, compañías como IBM y Oracle (antes de adquirir a Sun Microsystems) que deseaban copiar sólo el código fuente declarado y la estructura secuencia y organización, también tomaron una licencia comercial. 
+     
+     Por otro lado, la primera pregunta presentada por Google a la Corte Suprema es si ¿la protección de derechos de autor se extiende a las interfaces de software? 
+     
+     El término “interfaces de software” es un término inventado por Google para su Petición II de Writ of Certiorari, el cual no se encuentra definido en la ley de derechos de autor de EE.UU., en las constancias del juicio, en las opiniones del Tribunal de Apelaciones del Circuito Federal, y en ninguno de los casos citados por Google. 
+     
+     Es tan insignificante o sin sentido como preguntar si la protección de los derechos de autor se extiende a la “interface verbal”. 
+     
+     Para saber si el derecho de autor se extiende a una obra en particular, uno necesita ser preciso acerca de que obra se trata. 
+     
+     En el presente juicio la obra protegida en cuestión es de un conjunto intrincado de 37 paquetes de miles de programas de computación y que constituye uno de los programas de computación de plataformas más creativos y más populares que hayan sido escritos. 
+     
+     Así, Google copió 11.500 líneas de código fuente declarado, cada una consistente en palabras y símbolos que expresan y comunican cierta información al programador, como así también Google copió la organización de los programas de Oracle. 
+     
+     Entonces, la cuestión es sí tal obra ¿está totalmente despojada de la protección de los derechos de autor? 
+     
+     Como lo ha expuesto el Procurador General de los EE.UU. en el año 2015 en su opinión recomendado a la Corte Suprema la denegación de Petición I de Writ of Certiorari de Google, no hay nada en el código fuente declarado de Oracle en cuestión que lo haga materialmente diferente de otro tipo de código fuente de un programa de computación, y Google no ha identificado conflicto de autoridad acerca de la protección bajo derechos de autor de los programas de computación, de su código fuente o de su estructura, secuencia y organización.   
+      
+      Google menciona que existe una suerte de división entre los diferentes Circuitos de Apelación de los Estados Unidos en cuanto a la interpretación y aplicación del artículo 102, inciso b) relacionado al “código de computadora”, y su relación entre el artículo 102 inciso a) y en artículo 102 inciso b). 
+     
+     Oracle menciona que no hay división, que no hay tal misterio y, por lo tanto, los fundamentos del Tribunal de Apelaciones del Circuito Federal son correctos en este aspecto.
+     
+     Oracle menciona que la Petición II de Writ of Certiorari presentada por Google posee un error fundamental. 
+     
+     La pregunta realizada por Google a la Corte Suprema en relación a la “protección bajo derechos de autor” se focaliza exclusivamente acerca del código fuente declarado, de lo que Google llamó en su escrito “interfaces de software”. 
+     
+     Ahora bien, dicha pregunta no se extiende a la parte del fallo del Tribunal de Apelaciones del Circuito Federal que reconoció la protección bajo el sistema de derechos de autor a la estructura, secuencia y organización de las API. 
+     
+     De hecho, la petición de Google nunca hace referencia a la protección de la estructura y organización. 
+     
+     La única mención que realiza Google en relación a la estructura y organización es la afirmación que el código declarado “incorpora” la estructura y organización de los paquetes de API. 
+     
+     Pero Google no disputa que la estructura y organización tiene derecho a la protección bajo derechos de autor con independencia del código fuente declarado. 
+     
+     Google hubiera sido igualmente responsable, aunque no hubiese copiado ni una sola línea de código declarado si sólo hubiera copiado o duplicado, como lo hizo, la estructura y organización de los paquetes de las API.
+     
+     Por otro lado, Google menciona, como lo hizo en su petición I anterior, que la Corte Suprema debe revisar la decisión del Tribunal de Apelaciones del Circuito Federal para “evitar el devastador impacto en el desarrollo de software”. 
+     
+     Si eso hubiese sido cierto, sería esperable que Google hubiese reunido y acompañado prueba de la supuesta devastación en estos cuatro años desde que la Corte Suprema denegó la primera petición de Writ of Certiorari de Google en el año 2015. 
+     
+     Pero lo único que ha ofrecido Google son conjeturas de sus abogados, lo mismo que de todos sus Amicis (amigos del tribunal), muchos de los cuales promulgan estar a favor de una protección legal más débil para el software. 
+     
+     Google no menciona nada que sugiera que los programadores han abandonado el desarrollo de software mediante la reutilización de bloques de código, o que se ha dejado de hacer los programas interoperables. 
+     
+     Por el contrario, la innovación del software ha prosperado. 
+     
+     Véase el documento llamado “The Growing $ 1 Trillion Economic Impact of Software” (sept. 2017) en http://tinyurl.com/y77xjgke 
+     
+     Google menciona que el fallo del Tribunal de Apelaciones del Circuito Federal es inconsistente con la “ley establecida” (en inglés “settled law”) en los EE.UU., práctica y expectativas ¿Qué ley? 
+     
+     Una línea ininterrumpida de casos judiciales, han reconocido la protección bajo el sistema de derechos de autor de EE.UU. a código original con menor grado de creatividad que las API de Java y se ha dispuesto que la copia de código no es justa cuando se la incorpora a un productor competidor. 
+     
+     Ni Google ni sus Amicis (amigos del tribunal) han citado caso judicial alguno -de ningún Circuito- en donde se haya declarado que es legal copiar semejante cantidad de código (y su estructura y organización) y que es legal usarla con el mismo propósito y función de la obra originaria (Java) en una plataforma en competencia (Android). 
+     
+     Por otro lado, ¿Qué práctica establecida? 
+     
+     En su petición I anterior, Google ofreció ejemplos de supuestas prácticas comerciales de copiar software sin restricciones o en forma libre. 
+     
+     Oracle los refutó, demostrando que ello constituía una prerrogativa o decisión a instancia de: 
+(i)	el uso autorizado o licenciado, por ejemplo, bajo una licencia de código abierto, o 
+(ii)	de material que no tenía protección bajo el sistema de derechos de autor. 
+     
+     Google y sus Amicis (amigos del tribunal) declaran erróneamente “a quién esta decisión afecta”. 
+     
+     Este caso se trata de que Google copió sin autorización una obra protegida por el sistema de derechos de autor de EE.UU., de Oracle. 
+     
+     Los “programadores de apps” no se encuentran afectados por esta decisión. 
+     
+     De hecho, estos programadores son libres de escribir cualquier programa que ellos deseen utilizando los programas pre-escritos por Oracle disponibles en los paquetes de las API de Java, y sin costo alguno. 
+     
+     La decisión sólo requiere a los “desarrollares de plataformas” usualmente corporaciones con tremenda cantidad de recursos como Google, tomar una licencia para incorporar Java dentro de un producto comercial substituto (Android).          
+      
+      Por otro lado, Google y sus Amicis (amigos del tribunal) exageran el ámbito del fallo del Tribunal de Apelaciones del Circuito Federal, ya que se da la impresión de que el fallo del Tribunal de Apelaciones del Circuito Federal se refiere o abarca a que cualquier cosa que pueda ser etiquetado como “interface” está protegida bajo el sistema de derechos de autor y no puede ser copiado, y ello, no es así, ya que no se dijo ello por el Tribunal de Apelaciones del Circuito Federal. 
+     
+     Por ello, de nuevo, Google quiere capitalizar las imprecisiones de sus propios términos utilizados “interfaces de software”.
+     
+     No hay una ley o disposición legal para “interfaces de software”. 
+     
+     Como sucede con cualquier tipo de obra, que una interface de software posea protección bajo derechos de autor o que pueda ser copiada justamente o legítimamente depende “de que es y de cómo es usada”.
+     
+     La decisión del Tribunal de Apelaciones del Circuito Federal se refirió a la plataforma de software en particular de Oracle, que posee miles de programas con una estructura más que compleja- y al uso en particular que Google hacía de ella. 
+     
+     Por otro lado, algunas interfaces son simplemente una cadena de caracteres no protegibles, careciendo de originalidad y expresión. 
+     
+     Otras pueden ser más expresivas, pero, sin embargo, puede ser considerado justo copiarlas para los propósitos correctos, como por ejemplo la investigación. 
+     
+     Ahora bien, para la mayoría de las interfaces, la pregunta casi nunca surge, ya que como describen los Amicis (amigos del tribunal), teniendo en cuenta los fuertes incentivos que existen en el mercado, las compañías permiten reutilizar libremente u ofrecer términos de licenciamiento flexibles para que terceros pueden “crear o desarrollar productos interoperables, o que, puedan interoperar con los productos de esas compañías, -que son los titulares de derechos de esas interfaces-. 
+     
+     Ahora bien, este es “su derecho”, su decisión, pero eso no significa que ello borre los derechos legales de otras compañías que desean comercializar sus obras protegidas de una manera diferente.
+     
+     Por todas estas razones, Oracle sostiene que la petición de Google debe ser denegada.
+
+
+
+
+
+
+
+
+
+
+
+
+
