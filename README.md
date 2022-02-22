@@ -7,8 +7,8 @@ POR EL CONTRARIO, la idea es PONER A DISPOSICIÓN DE CADA LECTOR, ello con indep
 Para que ello sea posible tales preguntas debe reunir ciertas carácteristicas, y estas son:
 
 - “no exhaustivas", 
--"objetivas", 
--"como de mínima" y "obligatorias”.  
+- "objetivas", 
+- "como de mínima" y "obligatorias”.  
 
 A su vez, para obtener una conclusión válida la hipótesis de partida debe ser válida, es decir, deber otorgar “todos” los elementos. 
 
