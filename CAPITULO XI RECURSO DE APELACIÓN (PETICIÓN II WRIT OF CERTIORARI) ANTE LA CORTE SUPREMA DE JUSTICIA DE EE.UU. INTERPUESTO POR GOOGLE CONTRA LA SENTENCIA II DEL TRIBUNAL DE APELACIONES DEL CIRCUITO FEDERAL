@@ -1,0 +1,60 @@
+CAPITULO XI
+
+RECURSO DE APELACIÓN (PETICIÓN II WRIT OF CERTIORARI) ANTE LA CORTE SUPREMA DE JUSTICIA DE EE.UU. INTERPUESTO POR GOOGLE CONTRA LA SENTENCIA II DEL TRIBUNAL DE APELACIONES DEL CIRCUITO FEDERAL
+
+Google apeló la sentencia del Tribunal de Apelaciones del Circuito Federal presentado su Petición II de Write of Certiorari con fecha 24 de enero de 2019 ante la Corte Suprema de los EE.UU., la cual fue respondida por Oracle con fecha 27 de marzo de 2019 y posteriormente, nuevamente Google con fecha 10 de abril de 2019 respondió las respuestas de Oracle.
+
+Por otra parte, la Corte Suprema de Justicia solicitó la opinión del Abogado General de los Estados Unidos, y con fecha 27 de septiembre de 2019, el Abogado General de EE.UU., Noel J. Francisco, emitió opinión expresando a la Corte Suprema de Justicia que en su visión la petición presentada por Google debía ser denegada [108]. 
+
+Posteriormente el 15 de noviembre de 2019 la Corte Suprema de Justicia decidió aceptar la Petición II de Writ of Certiorari presentada por Google. 
+
+Concedido el mismo, Google abrió el debate presentando sus fundamentos del Writ of Certiorari con fecha 6 de enero de 2020 [109]. 
+ 
+Oracle hizo lo suyo con fecha 12 de febrero de 2020 [110] solicitando se confirme la sentencia del Tribunal de Apelaciones del Circuito Federal.
+
+Posteriormente a ello, fueron presentadas diferentes opiniones de los Amicus Curiae (amigos del tribunal), y en octubre de 2020 se escucharon los argumentos orales de las partes ante los jueces de la Corte Suprema de Justicia de EE.UU. 
+
+De esta forma la causa quedó en orden para dictarse sentencia por la Corte Suprema de Justicia de EE.UU.
+ 
+
+ARGUMENTOS DE GOOGLE CONTRA LA SENTENCIA II DEL TRIBUNAL DE APELACIONES DEL CIRCUITO FEDERAL
+
+     En su Petición II de Writ of Certiorari Google expresa a la Corte Suprema que el presente caso presenta dos cuestiones: 
+(i)	la primera, concerniente a la protección por derechos de autor, y 
+(ii)	la segunda, relacionada al uso justo de las interfaces de software. 
+     La primera pregunta que Google realiza es si la protección de los derechos de autor de EE.UU. se extiende a las interfaces de software, y, en segundo lugar, si el uso de esas interfaces de software [111] por Google en un nuevo contexto de creación de un programa de computación (plataforma Android) constituye uso justo. 
+     Menciona Google que Sun Microsystems originariamente desarrolló la plataforma Java la cual incluye el lenguaje de programación Java, y que las interfaces de software en cuestión son parte de las API del lenguaje de programación Java. 
+     Así, Sun Microsystems alentó a los desarrolladores de Java a aprender el lenguaje de programación Java promocionando el uso de las interfaces de software o declaraciones de las API de Java para acceder al código pre-escrito de la librería estándar de Java para así llevar a cabo determinadas funciones. 
+     Las interfaces de software, por lo tanto, facilitaron el desarrollo de programas en el lenguaje de programación Java.
+     Google equipara la relación entre el código declarado y el código implementado con la interacción entre un teclado y un programa de procesador de texto. 
+     Cuando se desea escribir y se tipea una letra en particular se causa que la letra tipeada se escriba en un programa de procesador de texto. 
+     Entonces de igual forma el desarrollador invoca una función particular mediante el uso del código declarado para hacer correr el código implementado. 
+     Entonces, permitiéndole a los programadores el acceso a la librería de funciones pre-escritas de una manera estándar, las API de Java facilitan la creación de programas en el lenguaje Java para diferentes plataformas, así como lo hace el estándar de teclado QWERTY que facilita la creación de documentos permitiendo la eficiencia del tipeado sin importar el programa de procesador de texto que se esté utilizando. 
+     Con lo cual lo único que un desarrollador necesita hacer para invocar un método de Java es usar los comandos abreviados (en inglés “shorthand commands”) que derivan del mismo código fuente declarado del método de Java. 
+     Google entendió que los desarrolladores de aplicaciones querrían utilizar todo el conocimiento previo obtenido al respecto del lenguaje de programación Java al desarrollar nuevas aplicaciones en la plataforma Android en lenguaje Java. 
+     Entonces, ello implicaba “todo el conocimiento adquirido” en relación al código fuente declarado de los métodos de Java (API) y a los comandos abreviados respectivos para invocarlos. 
+     Por lo tanto, para que estos comandos abreviados conocidos por los programadores de Java en oportunidad de desarrollar programas en la plataforma Java, pudieran ser aprovechados por ellos en el desarrollo de aplicaciones en la plataforma Android, Google tuvo que replicar exactamente la sintáxis del código declarado y la estructura de las API. 
+     Cualquier cambio, o modificación que Google hubiese realizado en el código fuente declarado, hubiera tenido como consecuencia directa que los desarrolladores se hubiesen visto impedido de poder utilizar esos “comandos abreviados”, por ende, esto los hubiera forzado a aprender nuevos comandos abreviados para cada una de las funciones que conocían. 
+     Es decir, si Google hubiera utilizado diferentes interfaces (código fuente declarado) en Android, los desarrolladores tendrían que haber aprendido las nuevas interfaces o código declarado para operar los métodos pre-escritos que ellos ya conocían del lenguaje de programación Java. 
+     Por tanto, Google utilizó las mismas declaraciones para ciertos métodos de los 37 paquetes de las API de Java. 
+     Por otro lado, para cada uno de esos métodos, Google escribió su propio código fuente implementado adaptándolo para acomodarlo a los desafíos del nuevo entorno de teléfonos móviles inteligentes. 
+     De lo contrario, los desarrolladores habrían quedado atrapados dentro de la plataforma Java (la cual es controlada por Oracle) y además hubieran sido impedidos de reutilizar su propio código fuente, o del conocimiento familiar de las interfaces y comandos abreviados, en la plataforma Android o en cualquier otra plataforma de desarrollo.   
+     A su vez, prohibir a Google el uso de las declaraciones o interfaces de las API de Java permitiría a Oracle acumular poder de mercado a través del derecho de autor, bloqueando a los desarrolladores que han invertido en aprender el lenguaje de programación Java y haciendo a ellos difícil usar sus cualidades para programar en nuevas plataformas. 
+     Por el contrario, que Oracle posea el control significaría el bloqueo de la competencia entre plataformas de desarrollo al acceso por parte de los desarrolladores entrenados en el lenguaje de programación Java. 
+     Teniendo en cuenta que las interfaces son centrales para que los desarrolladores puedan operar entre programas, ejercer el control sobre las interfaces, hace nacer barreras que atentan contra la competencia e innovación.  
+     Por su parte Google menciona que el Tribunal de Apelaciones del Circuito Federal ha cometido serios errores en su análisis de uso justo, y por ello solicita a la Corte Suprema reversar el fallo. 
+     Manifiesta, que el error más grave que ha cometido el Tribunal de Apelaciones del Circuito Federal al realizar el análisis del “uso transformativo” fue centrar su análisis únicamente en el material que Google había reusado (las declaraciones de las API de Java) y evaluar si el material en sí mismo se transformaba en la nueva obra (Android). 
+     En su lugar habría que haberse focalizado en la “nueva obra” como un todo, preguntándose si la nueva obra agrega algo nuevo -a la obra protegida- con nuevos propósitos o diferente carácter. 
+     La nueva obra creada por Google (Android) y el uso de las declaraciones de las API de Java son transformativas. 
+     Google creó una nueva plataforma para teléfonos móviles inteligentes. 
+     Por el contrario, Java SE fue diseñada para computadoras de escritorios y servidores. 
+     La nueva plataforma Android tuvo que acomodar ciertas limitaciones, como capacidad de memoria y vida útil de la batería, que no eran aplicables a Java SE. 
+     A su vez, como la plataforma Android debía ser desarrollada para el entorno de los teléfonos móviles inteligentes, Google tuvo que desarrollar todo su código implementado para Android, incluyendo el código implementado para las declaraciones de las API de Java. 
+     Por ello, Google creó una nueva librería de software para Android, incluyendo nuevas declaraciones y código implementado para las funciones necesarias para operar en los teléfonos móviles inteligentes, en pantallas táctiles, web-browsing y location awareness.
+     Por otro lado, en relación al análisis del cuarto factor, el Tribunal de Apelaciones del Circuito Federal concluyó que el uso de las declaraciones de las API de Java por parte Google causaban daño al mercado actual de Oracle, ya que Java SE había sido usado supuestamente en el mercado de telefonía móvil antes del nacimiento de Android. 
+     Incluso dijo el Tribunal de Apelaciones del Circuito Federal, que, aunque no hubiera habido daño actual existía de cualquier manera daño potencial al mercado de Oracle porque los teléfonos móviles inteligentes constituían un mercado tradicional, razonable, o probable para ser desarrollo para Java SE. 
+       
+     Google afirma que el Tribunal de Apelaciones del Circuito Federal llego a dicha conclusión porque reviso y reverso en forma incorrecta la decisión de determinación de hechos implícitos del Jurado. 
+
+     Por ello su decisión respecto de este factor es incorrecta.
+
