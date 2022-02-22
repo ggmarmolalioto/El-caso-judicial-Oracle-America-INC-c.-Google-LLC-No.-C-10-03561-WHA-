@@ -1,6 +1,6 @@
 # El-caso-judicial-Oracle-America-INC-c.-Google-LLC--No.-C-10-03561-WHA-
 
-El objetivo de este TRABAJO mismo NO es brindar opiniones personales u ofrecer una conclusión propia.
+El objetivo de este TRABAJO mismo "NO" es brindar opiniones personales u ofrecer una conclusión propia.
 
 POR EL CONTRARIO, la idea es PONER A DISPOSICIÓN DE CADA LECTOR, ello con independientemente de su jurisdicción, la posibilidad de qué a través de un listado de preguntas LOS MISMOS LECTORES puedan obtener una CONCLUSIÓN PROPIA acerca del caso judicial ORACLE vs. GOOGLE.
 
