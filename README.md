@@ -22,4 +22,5 @@ En este caso tales elementos lo CONSTITUIRÍA:
 También, para lograr dicho objetivo parte del trabajo ha sido recolectar y extraer de todas las presentaciones judiciales (lógicamente de las que se ha podido tener acceso) tales elementos. Y en esa recolección y extracción también se ha tratado como el mayor de los cuidados la objetividad en la selección del material. Es decir, que cada presentación realizada por cada una de las partes posea como contrapartida la presentación de la parte contraria, de manera que no quede argumento sin ser rebatido, sin importar quién argumente o quién rebata.
 
 
-![El caso judicial Oracle America, INC contra Google, LLC No  C 10-03561 WHA readme](https://user-images.githubusercontent.com/33959642/155196485-f732b0d1-c199-45b6-bc6b-20cfbdf87a0f.png)
+![El caso judicial Oracle America, INC contra Google, LLC No  C 10-03561 WHA (domingo 2)](https://user-images.githubusercontent.com/33959642/155196708-e6283ac8-13f1-40ba-8bab-932e42ffb131.png)
+
