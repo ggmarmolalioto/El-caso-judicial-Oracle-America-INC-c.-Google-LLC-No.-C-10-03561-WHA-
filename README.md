@@ -1,4 +1,4 @@
-![El caso judicial Oracle America, INC contra Google, LLC No  C 10-03561 WHA (domingo 1)](https://user-images.githubusercontent.com/33959642/155154882-26daf8ff-0dd9-4d84-b81a-fab0314777a5.png)
+
 # El-caso-judicial-Oracle-America-INC-c.-Google-LLC--No.-C-10-03561-WHA-
 
 El objetivo de este TRABAJO "NO" es brindar opiniones personales u ofrecer una conclusión propia.
@@ -20,3 +20,5 @@ En este caso tales elementos lo CONSTITUIRÍA:
 - “lo expresado” por los jueces a través de sus sentencias. 
 
 También, para lograr dicho objetivo parte del trabajo ha sido recolectar y extraer de todas las presentaciones judiciales (lógicamente de las que se ha podido tener acceso) tales elementos. Y en esa recolección y extracción también se ha tratado como el mayor de los cuidados la objetividad en la selección del material. Es decir, que cada presentación realizada por cada una de las partes posea como contrapartida la presentación de la parte contraria, de manera que no quede argumento sin ser rebatido, sin importar quién argumente o quién rebata.
+
+![El caso judicial Oracle America, INC contra Google, LLC No  C 10-03561 WHA readme](https://user-images.githubusercontent.com/33959642/155196485-f732b0d1-c199-45b6-bc6b-20cfbdf87a0f.png)
