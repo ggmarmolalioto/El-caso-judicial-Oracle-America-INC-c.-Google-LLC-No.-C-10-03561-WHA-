@@ -1,7 +1,8 @@
+PROYECTO SELMA  
+
+El presente trabajo es parte del Proyecto SELMA. SELMA es la denominación que utilizo para desarrollar y hostear proyectos personales de investigación (i.e especificaciones de lenguaje de programación, estandares abiertos, fallos judiciales, privacidad, propiedad intelectual, etc.). El litigio **"Oracle America, INC c. Google, LLC  No. C-10-03561-WHA** constituye parte de un proyecto de investigación relacionado a programas de computación, propiedad intelectual. 
 
 # El-caso-judicial-Oracle-America-INC-c.-Google-LLC--No.-C-10-03561-WHA-
-
-El presente trabajo es la versión **open source** del libro: El caso judicial **"Oracle America, INC c. Google, LLC  No. C-10-03561-WHA**
 
 El trabajo se licencia bajo los terminos CC Attribution ShareAlike 4.0 International Public License
 
