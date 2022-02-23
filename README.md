@@ -1,10 +1,10 @@
 # EL PROYECTO SELMA. THE OPEN SOURCE BOOK: El-caso-judicial-Oracle-America-INC-c.-Google-LLC--No.-C-10-03561-WHA-
 
-El presente trabajo se licencia bajo los terminos CC Attribution ShareAlike 4.0 International Public License
+El presente trabajo se licencia bajo los terminos **CC Attribution ShareAlike 4.0 International Public License**
 
 En el repositorio denominado  LICENSE se pueden ver los terminos de la licencia aplicable al contenido de cada uno de los capitulos y secciones que componen el libro https://github.com/ggmarmolalioto/El-caso-judicial-Oracle-America-INC-c.-Google-LLC--No.-C-10-03561-WHA-/blob/main/LICENSE%20CC-Attribution-ShareAlike%204.0%20International%20Public%20License 
 
-¿Que significa que el trabajo sea **¿Open source?**
+# ¿Que significa que el trabajo sea **¿Open source?**
 
 En realidad la terminología se corresponde a un tipo de licenciamiento relacionado con programas de software, pero en el caso puntual de este trabajo, es una suerte de denominación generica, ya que lógicamente no hay líneas de codigo, queriendose hacer referencia a que las lineas escritas que conforman cada uno de los capitulos del libro están disponibles no sólo para sean leidas, estudiadas, revisadas, reproducidas, distribuidas SINO QUE ADEMAS se pueden modificar y logicamente distribuir dichas modificaciones, y crear obras derivadas de la misma. 
 
