@@ -3,7 +3,9 @@
 
 El presente trabajo es la versión **open source** del libro: El caso judicial **"Oracle America, INC c. Google, LLC  No. C-10-03561-WHA**
 
-El trabajo se licencia bajo los terminos CC ShareAlike  International Public License https://github.com/ggmarmolalioto/El-caso-judicial-Oracle-America-INC-c.-Google-LLC--No.-C-10-03561-WHA-/blob/main/LICENSE%20CC-ShareAlike%204.0%20International%20Public%20License
+El trabajo se licencia bajo los terminos CC Attribution ShareAlike 4.0 International Public License
+
+En el repositorio denominado  LICENSE se pueden ver los terminos de la licencia aplicable al contenido de cada uno de los capitulos y secciones que componen el libro https://github.com/ggmarmolalioto/El-caso-judicial-Oracle-America-INC-c.-Google-LLC--No.-C-10-03561-WHA-/blob/main/LICENSE%20CC-Attribution-ShareAlike%204.0%20International%20Public%20License 
 
 Que significa que el trabajo sea ¿Open source?
 
