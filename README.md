@@ -6,7 +6,9 @@ En el repositorio denominado  LICENSE se pueden ver los terminos de la licencia 
 
 # ¿Que significa que el trabajo sea **¿Open source?**
 
-En realidad la terminología se corresponde a un tipo de licenciamiento relacionado con programas de software, pero en el caso puntual de este trabajo, es una suerte de denominación generica, ya que lógicamente no hay líneas de codigo, queriendose hacer referencia a que las lineas escritas que conforman cada uno de los capitulos del libro están disponibles no sólo para sean leidas, estudiadas, revisadas, reproducidas, distribuidas SINO QUE ADEMAS se pueden modificar y logicamente distribuir dichas modificaciones, y crear obras derivadas de la misma. 
+En realidad la terminología se corresponde a un tipo de licenciamiento relacionado con programas de computación, pero la verdad es que también se aplica a la propia documentación del programa, con lo cual no es tan extraño utilizar esta terminología o licencias para un trabajo literario, documentación o inclusive un libro. 
+
+Si bien en el presente trabajo lógicamente no hay líneas de codigo fuente escritas, lo que se quiere significar es que (1) el contenido (líneas escritas) que conforma cada uno de los capitulos del libro, su indice, y mapa de reslocuiones judiciales están disponibles para sean reproducidas, modificadas y distribuidas con o sin modificación bajo los mismos términos de la licencia CC Attribution Share Alike 4.0, pero además (2) se crea un proyecto colaborativo que comienza como un aporte inicial (todos los respositorios que contienen el libro El-caso-judicial-Oracle-America-INC-c.-Google-LLC--No.-C-10-03561-WHA) para que a través de un proceso de aporte de contribuciones de terceros interesados se conforme un nuevo trabajo o versión del libro El-caso-judicial-Oracle-America-INC-c.-Google-LLC--No.-C-10-03561-WHA 
 
 # Contribuciones al proyecto
 
