@@ -14,11 +14,15 @@ Mediante dicho acuerdo se regulan los derechos y obligaciones de quién contribu
 
 Si las solicitudes de modificación son aceptadas, dicha modificaciones se incorporararán a la versión open source del presente trabajo, y también podrían ser incorporadas a nuevas versiones del libro Oracle America, INC c. Google, LLC  No. C-10-03561-WHA (con licencia CC BY-NC-ND 4.0  Atribución/Reconocimiento-NoComercial-SinDerivados 4.0 Licencia Pública Internacional) 
 
+#Objetivo del trabajo 
+
 El objetivo de este TRABAJO **NO** es brindar opiniones personales u ofrecer una conclusión propia.
 
 POR EL CONTRARIO, la idea es PONER A DISPOSICIÓN DE CADA LECTOR, ello con independientemente de su jurisdicción, la posibilidad de qué a través de un listado de preguntas LOS MISMOS LECTORES puedan obtener una CONCLUSIÓN PROPIA acerca del caso judicial ORACLE vs. GOOGLE.
 
-Para que ello sea posible tales preguntas debe reunir ciertas carácteristicas, y estas son:
+#Caracteristicas de las Preguntas
+
+Para que ello sea posible tales **preguntas** debe reunir ciertas carácteristicas, y estas son:
 
 - “no exhaustivas", 
 - "objetivas", 
