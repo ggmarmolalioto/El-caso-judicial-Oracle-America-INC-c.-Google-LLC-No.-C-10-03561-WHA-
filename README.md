@@ -8,13 +8,19 @@ En el repositorio denominado  LICENSE se pueden ver los terminos de la licencia 
 
 En realidad la terminología se corresponde a un tipo de licenciamiento relacionado con programas de software, pero en el caso puntual de este trabajo, es una suerte de denominación generica, ya que lógicamente no hay líneas de codigo, queriendose hacer referencia a que las lineas escritas que conforman cada uno de los capitulos del libro están disponibles no sólo para sean leidas, estudiadas, revisadas, reproducidas, distribuidas SINO QUE ADEMAS se pueden modificar y logicamente distribuir dichas modificaciones, y crear obras derivadas de la misma. 
 
-Las contribuciones al presente trabajo estan sujeta a un Acuerdo de Contribución, mediante el cual antes de iniciar un "pull request" o "sugerencia de modificación" debe suscribir. 
+# Contribuciones al proyecto
 
-Mediante dicho acuerdo se regulan los derechos y obligaciones de quién contribuye y del autor del proyecto que ha dado inicio al presente proyecto.
+Las contribuciones al presente proyecto están sujetas a un **Acuerdo de Contribución** (Contribution Agreement), el cual debe ser suscripto o aceptado antes de iniciar una  **"pull request"** o **"sugerencia de modificación"**. El proceso de suscripción o aceptación se encuentra más adelante. 
 
-Si las solicitudes de modificación son aceptadas, dicha modificaciones se incorporararán a la versión open source del presente trabajo, y también podrían ser incorporadas a nuevas versiones del libro Oracle America, INC c. Google, LLC  No. C-10-03561-WHA (con licencia CC BY-NC-ND 4.0  Atribución/Reconocimiento-NoComercial-SinDerivados 4.0 Licencia Pública Internacional) 
+# ¿Para que es el Acuerdo de Contribución?
+Mediante dicho acuerdo se regulan los derechos y obligaciones de quién realiza una contribución y el autor que ha dado inicio al presente proyecto.
 
-# Objetivo del trabajo 
+# Aceptación de solicitudes de contribución
+Si las solicitudes de contribución son aceptadas, las mismas se incorporararán a la versión open source del presente trabajo. También, podrían ser incorporadas a nuevas versiones del trabajo "El caso judicial Oracle America, INC c. Google, LLC  No. C-10-03561-WHA" sea a su versión CC BY-NC-ND 4.0  Atribución/Reconocimiento-NoComercial-SinDerivados, como a su versión comercial estándar con reserva de derechos de autor. En cualquier caso, si se decidiera incorporar cualquier contribución de terceros a
+la versión CC BY-NC-ND 4.0 o en a la versión comercial los avisos de atribución de los diferentes autores serán incorporados con la expresa mención de contribución. (i.e.
+contribución realizada por "Perez, Juan, copyright 2022, Capitulo XIX, pregunta 35 ".....", aceptada con fecha, repositorio, commmit nro.XXX)  
+
+# Objetivo del trabajo de colaboración 
 
 El objetivo de este TRABAJO **NO** es brindar opiniones personales u ofrecer una conclusión propia.
 
