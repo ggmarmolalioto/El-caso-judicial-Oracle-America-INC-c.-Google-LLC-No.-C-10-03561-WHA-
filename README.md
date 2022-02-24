@@ -2,7 +2,7 @@
 
 El presente trabajo (que comprende el repositorio y todos los commits que lo componen) se licencia bajo los terminos **CC Attribution ShareAlike 4.0 International Public License** (aka CC BY SA 4.0)
 
-En el repositorio existe un commint denominado LICENSE en donde se pueden ver los terminos de la licencia aplicable a los distintos capitulos que componen el libro https://github.com/ggmarmolalioto/El-caso-judicial-Oracle-America-INC-c.-Google-LLC--No.-C-10-03561-WHA-/blob/main/LICENSE%20CC-Attribution-ShareAlike%204.0%20International%20Public%20License 
+En el repositorio existe un commint denominado LICENSE en donde se pueden ver los terminos de la licencia aplicable a los distintos capitulos que componen este proyecto  https://github.com/ggmarmolalioto/El-caso-judicial-Oracle-America-INC-c.-Google-LLC--No.-C-10-03561-WHA-/blob/main/LICENSE%20CC-Attribution-ShareAlike%204.0%20International%20Public%20License 
 
 # Compatibilidad con la Licencia GNU GPL v3
 
