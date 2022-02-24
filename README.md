@@ -1,8 +1,14 @@
 # EL PROYECTO SELMA. THE OPEN SOURCE BOOK: El-caso-judicial-Oracle-America-INC-c.-Google-LLC--No.-C-10-03561-WHA-
 
-El presente trabajo se licencia bajo los terminos **CC Attribution ShareAlike 4.0 International Public License**
+El presente trabajo se licencia bajo los terminos **CC Attribution ShareAlike 4.0 International Public License** (aka CC BY SA 4.0)
 
 En el repositorio denominado  LICENSE se pueden ver los terminos de la licencia aplicable al contenido de cada uno de los capitulos y secciones que componen el libro https://github.com/ggmarmolalioto/El-caso-judicial-Oracle-America-INC-c.-Google-LLC--No.-C-10-03561-WHA-/blob/main/LICENSE%20CC-Attribution-ShareAlike%204.0%20International%20Public%20License 
+
+# Compatibilidad con la Licencia GNU GPL v3
+
+Teniendo en cuenta que la licencia CC BY SA 4.0 determina que la licencia GNU GPL v3 es una "licencia compatible" -véase https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses-, cualquier modificación al presente trabajo (contenido de los repositorios) puede ser licenciado bajo los términos de la licencia GNU GPL v3. Ahore, tengase presente que la compatibilidad es de CC BY SA 4.0 hacia GNU GPL v3, pero no de GNU GPL v3 a CC BY SA 4.0, esto se denomina *"one-way compatibility"* A su vez, CC BY SA 4.0 sólo menciona como compatible a la versión GNU GPL v3 y NO a "cualquier version posterior". Entonces lo que puede hacerse es que la licencia GNU GPL v3 en su sección 14 establece una suerte de *proxy* lo que implica   
+
+CC BY-SA 4.0 is one-way compatible with the GNU GPL version 3: this means you may license your modified versions of CC BY-SA 4.0 materials under GNU GPL version 3, but you may not relicense GPL 3 licensed works under CC BY-SA 4.0.
 
 # ¿Que significa que el trabajo sea **¿Open source?**
 
