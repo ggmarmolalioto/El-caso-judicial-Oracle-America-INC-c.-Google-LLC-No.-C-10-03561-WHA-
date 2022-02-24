@@ -118,7 +118,7 @@ Si, claro con el debido reconocimiento de atribución a los autores de tales mej
 
 El Acuerdo de Contribución permite gestionar los derechos y obligaciones de las partes. Mediante dicho acuerdo se establece que existe una titularidad compartida en las mejoras, de manera tal que SELMA se pueda gestionar correctamente. Ello no quita que los diferente autores preserven sus derechos en relación a su mejora aportada al proyecto SELMA.  
 
-Logicamente, antes de que las mejoras sean incorporadas al proyecto SELMA se debe pasar el proceso de revisión y aprobación, es decir, que no cualquier cambio sugerido a través de un pull request es incorporado. Ello es lógico, es igual en cualquier proyecto. 
+Logicamente, antes de que las mejoras sean incorporadas al proyecto SELMA se debe pasar el proceso de revisión y aprobación, es decir, que no cualquier cambio sugerido a través de un pull request es incorporado. Ello es lógico, y es igual en cualquier proyecto. 
 
 El compromiso del proyecto SELMA es que siempre SELMA será open source, con lo cual siempre todas las mejoras introducidas estarán disponibles para ser reproducidas, modificadas y distribuidas bajo la licencia CC BY SA 4.0. 
 
