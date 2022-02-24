@@ -54,9 +54,23 @@ contribución realizada por "Perez, Juan, copyright 2022, Capitulo XIX, pregunta
 
 # Objetivo del trabajo de colaboración del Proyecto SELMA 
 
-El objetivo de este TRABAJO **NO** es brindar opiniones personales u ofrecer una conclusión propia.
+El Proyecto SELMA por el momnento se conforma del repositorio "El caso judicial Oracle America, INC c. Google, LLC  No. C-10-03561-WHA" bajo licenia CC BY-NC-ND 4.0 Atribución/Reconocimiento-NoComercial-SinDerivados. Como se menciono anteriormente, el objetivo del proyecto es difundir el conocimiento de un tema particular relacionado a código de programas de computación, y que comienza con un caso judicial el de Oracle vs Google, pero no se agota en él, ya que existen otros casos judiciales relacionados, que posiblemente se aborden en un futuro cercano.    
 
-POR EL CONTRARIO, la idea es PONER A DISPOSICIÓN DE CADA LECTOR, ello con independientemente de su jurisdicción, la posibilidad de qué a través de un listado de preguntas LOS MISMOS LECTORES puedan obtener una CONCLUSIÓN PROPIA acerca del caso judicial ORACLE vs. GOOGLE.
+# Objetivo del Libro o Articulo publicado bajo licencia Comercial y CC CC BY-NC-ND 4.0 Atribución/Reconocimiento-NoComercial-SinDerivados 4.0 Licencia Pública Internacional —
+
+La primera versión del libro se publicó en Amazon en julio de 2021 con una licencia comercial con derechos reservados. 
+
+La segunda edición del libro se publicó en Marzo de 2022 y posee dos licencias: a) comercial con derechos reservados (Amazon) y  b) CC CC BY-NC-ND 4.0 Atribución/Reconocimiento-NoComercial-SinDerivados 4.0 Licencia Pública Internacional (online en distintos sitios).
+
+Desde que se anunció la primera publicación se hizo mención a que el contenido del libro sería hecho disponible en los repositorios de GITHUB bajo una licencia que permitiera difundir el conocimiento y promover la participación para ampliar el trabajo originario. El objetivo propuesto no iba de la mano con los requerimientos de cesión de derechos de las tradicionales editoriales jurídicas, con lo cual la publicación debería ser autónoma y autosuficiente para mantener el compromiso originario y dar forma al proyecto SELMA.
+
+Así entonces, el objetivo del libro **NO** fue brindar opiniones personales u ofrecer una conclusión propia. 
+
+El libro no tiene que ver con mi opinión, sino con lo que mi pequeño aporte puede producir en los lectores.
+
+Entonces, la idea siempre fue PONER A DISPOSICIÓN DE CADA LECTOR la posibilidad de qué a través de un listado de preguntas uasdas como una suerte de guía ellos mismos pudieran sacar su propia conclusión respecto del caso judicial en particular. Por ejemplo, ¿un método para operar puede ser original y creativo, sujeto a protección, o por el sólo hecho de constituir un metodo para operar no posee protección?. 
+
+La idea también fue buscar que las preguntas sean agnosticas a una determinada jurisdicción. Es decir, paises miembros de Berna y demas tratados internacionales reconociendo la protección de los programas de computación, en su formato fuente-objeto que mirada han puesto sobre el tipo de lineas de codigo que se ha discutido en el caso Oracle v Google? Piensese que las lineas de codigo en Java, C++, C, Fortran, etc son independientes de una jurisdicción, es decir se escriben igual, despues cabra el analisis línea por línea de porque si o porque no dichas líneas son protegidas.  
 
 # Caracteristicas de las Preguntas
 
