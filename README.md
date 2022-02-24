@@ -15,7 +15,7 @@ Open Source tiene dos aristas: por un lado constituye un proceso de desarrollo d
 
 En nuestro caso, **OPEN SOURCE** significa un modelo colaborativo de desarrollo del Proyecto **SELMA**, si bien no háy código involucrado, el sistema de trabajo que se utiliza es el mismo. 
 
-Por otro lado, la *contribución incial* (que lo constituye el repositorio con todos los capitulos que conforman el libro) se licencia bajo **CC BY SA 4.0 y GPL v3**. 
+Por otro lado, la *contribución incial* (que lo constituye el repositorio con todos los capitulos) se licencia bajo **CC BY SA 4.0 y GPL v3**. 
 
 Desde este punto de vista también el presente trabajo es *Open Source*. 
 
