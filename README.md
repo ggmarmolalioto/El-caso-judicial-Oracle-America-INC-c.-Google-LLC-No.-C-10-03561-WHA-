@@ -17,7 +17,7 @@ En este caso **Open Source** significa un modelo de colaboración para el desarr
 
 Si bien no háy código involucrado, el sistema de trabajo que se utiliza es similar. 
 
-Por otro lado, la *contribución inicial* que esta constituída por el repositorio con todos sus commits) se licencia bajo **CC BY SA 4.0 y GPL v3**. 
+Por otro lado, la *contribución inicial* que esta constituída por el repositorio con todos sus commits se licencia bajo **CC BY SA 4.0 y GPL v3**. 
 
 Entonces, desde este punto de vista también el presente trabajo es *Open Source*. 
 
@@ -25,7 +25,7 @@ Téngase presente que las licencias FOSS (Free Open Source Software) no sólo se
 
 Por otro lado, inclusive en los distintos proyectos *open source*, en el cual se utilizan Contratos de Contribución ("Contributor Agreeemnt") con la finalidad de gestionar las aportaciones de terceros (personas fisicas o empresas) a un proyecto, no sólo se refieren a código de computadora sino también a aportes a la sección de (i) documentación, (ii) especificaciones, (iii) graficos, etc., con lo cual en estos casos la contribución no son líneas de código. Por lo tanto, no es extraño utilizar esta terminología de *open source* para documentación en general o inclusive para un trabajo literario. 
 
-Entonces, mediante el licenciamiento de este trabajo bajo la CC BY SA 4.0: su contenido que es cada uno de los capitulos del libro (70 commints aprox hasta la fecha) está disponible para ser **reproducido, modificado y distribuido con o sin modificación sujeto a los mismos términos de la licencia CC Attribution Share Alike 4.0,** . 
+Entonces, mediante el licenciamiento de este trabajo bajo la CC BY SA 4.0 (70 commints aprox. hasta la fecha) está disponible para ser **reproducido, modificado y distribuido con o sin modificación sujeto a los mismos términos de la licencia CC Attribution Share Alike 4.0,** . 
 
 Por otra parte, se crea un *proyecto colaborativo* **PROYECTO SELMA** que comienza con una contribución inicial que son todos los *commits* que conforman el respositorio *"El caso judicial Oracle America, INC-c.Google-LLC-No.C-10-03561-WHA* para que a través de un proceso de contribuciones de terceros interesados (i.e. abogados de cualquier jurisdicción, programadores, traductores, cualquier interesado, etc.) se produzcan mejoras del libro *El caso judicial Oracle America INC c. Google LLC No.-C-10-03561* y de dicha forma se constituiría una nueva versión, ya con la participación de todos los involucrados. 
 
