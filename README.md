@@ -125,5 +125,6 @@ El compromiso del proyecto SELMA es que siempre SELMA será open source, con lo 
 
 
 
-![El caso judicial Oracle America, INC contra Google, LLC No  C 10-03561 WHA (domingo 2)](https://user-images.githubusercontent.com/33959642/155196708-e6283ac8-13f1-40ba-8bab-932e42ffb131.png)
+![El caso judicial Oracle America, INC contra Google, LLC No  C 10-03561 WHA (CC BY SA 4 0)](https://user-images.githubusercontent.com/33959642/155597547-8c4bf3eb-9c54-49cc-a03d-4be406ad3bde.png)
+
 
