@@ -54,23 +54,30 @@ contribución realizada por "Perez, Juan, copyright 2022, Capitulo XIX, pregunta
 
 # Objetivo del trabajo de colaboración del Proyecto SELMA 
 
-El Proyecto SELMA por el momnento se conforma del repositorio "El caso judicial Oracle America, INC c. Google, LLC  No. C-10-03561-WHA" bajo licenia CC BY-NC-ND 4.0 Atribución/Reconocimiento-NoComercial-SinDerivados. Como se menciono anteriormente, el objetivo del proyecto es difundir el conocimiento de un tema particular relacionado a código de programas de computación, y que comienza con un caso judicial el de Oracle vs Google, pero no se agota en él, ya que existen otros casos judiciales relacionados, que posiblemente se aborden en un futuro cercano.    
+El Proyecto SELMA por el momnento se conforma del repositorio *"El caso judicial Oracle America, INC c. Google, LLC  No. C-10-03561-WHA"* bajo licencia CC BY-SA 4.0. 
 
-# Objetivo del Libro o Articulo publicado bajo licencia Comercial y CC CC BY-NC-ND 4.0 Atribución/Reconocimiento-NoComercial-SinDerivados 4.0 Licencia Pública Internacional —
+Como se menciono anteriormente, el objetivo del proyecto es difundir el conocimiento de un tema particular relacionado a código de programas de computación, y que comienza con el caso judicial Oracle vs Google, pero no se agota en él, ya que existen otros casos judiciales relacionados, que posiblemente se aborden en un futuro cercano.    
+
+# Objetivo del Libro *"El caso judicial Oracle America, INC-c.Google-LLC-No.C-10-03561-WHA"* publicado bajo licencia comercial y CC BY-NC-ND 4.0
 
 La primera versión del libro se publicó en Amazon en julio de 2021 con una licencia comercial con derechos reservados. 
 
-La segunda edición del libro se publicó en Marzo de 2022 y posee dos licencias: a) comercial con derechos reservados (Amazon) y  b) CC CC BY-NC-ND 4.0 Atribución/Reconocimiento-NoComercial-SinDerivados 4.0 Licencia Pública Internacional (online en distintos sitios).
+La segunda edición del libro se publicó en Marzo de 2022 y posee dos licencias: **a)** comercial con derechos reservados (Amazon) y  **b)** CC CC BY-NC-ND 4.0 Atribución/Reconocimiento-NoComercial-SinDerivados 4.0 Licencia Pública Internacional.
 
 Desde que se anunció la primera publicación se hizo mención a que el contenido del libro sería hecho disponible en los repositorios de GITHUB bajo una licencia que permitiera difundir el conocimiento y promover la participación para ampliar el trabajo originario. El objetivo propuesto no iba de la mano con los requerimientos de cesión de derechos de las tradicionales editoriales jurídicas, con lo cual la publicación debería ser autónoma y autosuficiente para mantener el compromiso originario y dar forma al proyecto SELMA.
 
-Así entonces, el objetivo del libro **NO** fue brindar opiniones personales u ofrecer una conclusión propia. 
+Entonces el objetivo del libro **NO** es brindar opiniones personales u ofrecer una conclusión propia. 
 
-El libro no tiene que ver con mi opinión, sino con lo que mi pequeño aporte puede producir en los lectores.
+El libro no tiene que ver con mi opinión, sino con lo que mi aporte eventualmente puede producir en los lectores.
 
-Entonces, la idea siempre fue PONER A DISPOSICIÓN DE CADA LECTOR la posibilidad de qué a través de un listado de preguntas uasdas como una suerte de guía ellos mismos pudieran sacar su propia conclusión respecto del caso judicial en particular. Por ejemplo, ¿un método para operar puede ser original y creativo, sujeto a protección, o por el sólo hecho de constituir un metodo para operar no posee protección?. 
+Entonces, la idea siempre fue PONER A DISPOSICIÓN DE CADA LECTOR la posibilidad de qué a través de un listado de preguntas los mismos lectores pudieran sacar su propia conclusión respecto del caso judicial en particular. 
 
-La idea también fue buscar que las preguntas sean agnosticas a una determinada jurisdicción. Es decir, paises miembros de Berna y demas tratados internacionales reconociendo la protección de los programas de computación, en su formato fuente-objeto que mirada han puesto sobre el tipo de lineas de codigo que se ha discutido en el caso Oracle v Google? Piensese que las lineas de codigo en Java, C++, C, Fortran, etc son independientes de una jurisdicción, es decir se escriben igual, despues cabra el analisis línea por línea de porque si o porque no dichas líneas son protegidas.  
+Por ejemplo, ¿un método para operar puede ser original y creativo, sujeto a protección, o por el sólo hecho de constituir un metodo para operar no posee protección?. 
+
+La idea también fue buscar que las preguntas sean agnosticas a una determinada jurisdicción. 
+
+Es decir, paises miembros de Berna y demas tratados internacionales reconociendo la protección de los programas de computación, en su formato fuente-objeto, ¿que mirada han puesto sobre el tipo de lineas de codigo que se ha discutido en el caso Oracle v Google? Piensese que las lineas de codigo en Java, C++, C, Fortran, etc son independientes de cualquier jurisdicción, es decir, la especificación del lenguaje es la misma, despues cabra el analisis línea por línea de porque si o porque no dichas líneas son protegidas en un país o en otro, pero esa mirada no tiene que ver con las reglas del lenguaje de programación.
+
 
 # Caracteristicas de las Preguntas
 
@@ -89,6 +96,32 @@ En este caso tales elementos lo CONSTITUIRÍA:
 - “lo expresado” por los jueces a través de sus sentencias. 
 
 También, para lograr dicho objetivo parte del trabajo ha sido recolectar y extraer de todas las presentaciones judiciales (lógicamente de las que se ha podido tener acceso) tales elementos. Y en esa recolección y extracción también se ha tratado como el mayor de los cuidados la objetividad en la selección del material. Es decir, que cada presentación realizada por cada una de las partes posea como contrapartida la presentación de la parte contraria, de manera que no quede argumento sin ser rebatido, sin importar quién argumente o quién rebata.
+
+# ¿Cuál es la diferencia entre el material bajo licencia comercial y bajo licencia CC BY-NC-ND 4.0 y el Proyecto SELMA bajo licencia CC BY SA 4.0?
+
+El material publicado en julio de 2021 es una versión obsoleta que ya no está disponible. 
+
+El trabajo de cambios y edición dió origen a la nueva versión del material publicado en marzo 2021 bajo la licencia comercial y CC BY NC-ND 4.0 
+
+Tanto la nueva versión comercial, como la versión CC BY NC-ND 4.0 y la versión CC BY SA 4.0 poseen el mismo contenido al 1 de marzo de 2022.
+
+Digamos que la versión comercial y la versión CC BY NC-ND 4.0 es la versión individual, sobre la cual conservo todos los derechos como autor. 
+
+Es una versión que podría volver a modificar o no, pero de nuevo es una versión individual, personal que fue la base para fundar el proyecto SELMA.
+
+La versión CC BY SA 4.0 es la version comunitaria, mediante la cual se puede participar mediante el Proyecto SELMA o simplemente se pueden ejercer acciones de reproducción, modificación y distribución sujeto a los térmnos de la licencia CC BY SA 4.0
+
+# ¿Las mejoras introducidas en SELMA bajo el sistema de contribuciones al proyecto, podrían ser incorporadas a la versión comercial y a la versión CC BY NC-ND 4.0?
+
+Si, claro con el debido reconocimiento de atribución a los autores de tales mejoras. 
+
+El Acuerdo de Contribución permite gestionar los derechos y obligaciones de las partes. Mediante dicho acuerdo se establece que existe una titularidad compartida en las mejoras, de manera tal que SELMA se pueda gestionar correctamente. Ello no quita que los diferente autores preserven sus derechos en relación a su mejora aportada al proyecto SELMA.  
+
+Logicamente, antes de que las mejoras sean incorporadas al proyecto SELMA se debe pasar el proceso de revisión y aprobación, es decir, que no cualquier cambio sugerido a través de un pull request es incorporado. Ello es lógico, es igual en cualquier proyecto. 
+
+El compromiso del proyecto SELMA es que siempre SELMA será open source, con lo cual siempre todas las mejoras introducidas estarán disponibles para ser reproducidas, modificadas y distribuidas bajo la licencia CC BY SA 4.0. 
+
+
 
 
 ![El caso judicial Oracle America, INC contra Google, LLC No  C 10-03561 WHA (domingo 2)](https://user-images.githubusercontent.com/33959642/155196708-e6283ac8-13f1-40ba-8bab-932e42ffb131.png)
