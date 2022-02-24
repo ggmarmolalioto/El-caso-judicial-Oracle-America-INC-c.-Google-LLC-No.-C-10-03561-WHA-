@@ -1,28 +1,32 @@
 CAPITULO XIV 
+
 LISTADO DE PREGUNTAS NO EXAUSTIVAS, OBJETIVAS, COMO DE MINIMA Y OBLIGATORIAS
 
-     Como se ha mencionado al inicio de este trabajo el objetivo del mismo no es brindar opiniones personales. 
+Como se ha mencionado al inicio de este trabajo el objetivo del mismo no es brindar opiniones personales. 
 
-     Muy por el contrario, el objetivo que se intenta con este trabajo es poner a disposición de cada lector, independientemente de su jurisdicción, la posibilidad de qué a través de un listado de preguntas con las características de “no exhaustivas, objetivas, como de mínima y obligatorias” puedan los lectores obtener una conclusión propia acerca del caso judicial relatado. 
+Muy por el contrario, el objetivo que se intenta con este trabajo es poner a disposición de cada lector, independientemente de su jurisdicción, la posibilidad de qué a través de un listado de preguntas con las características de “no exhaustivas, objetivas, como de mínima y obligatorias” puedan los lectores obtener una conclusión propia acerca del caso judicial relatado. 
 
-     Para obtener una conclusión válida la/s hipótesis de partida debe otorgar “todos” los elementos, en este caso, tal elemento lo constituiría “lo expresado” por cada una de las partes a través de sus escritos judiciales, y “lo expresado” por los jueces a través de sus sentencias, en él pleito. 
+Para obtener una conclusión válida la/s hipótesis de partida debe otorgar “todos” los elementos, en este caso, tal elemento lo constituiría “lo expresado” por cada una de las partes a través de sus escritos judiciales, y “lo expresado” por los jueces a través de sus sentencias, en él pleito. 
 
-     Para lograr dicho objetivo, parte del trabajo minucioso que se ha tratado realizar ha sido recolectar y extraer de todas las presentaciones judiciales, lógicamente de las que se ha podido tener acceso- tales elementos. Y en esa recolección y extracción también se ha tratado como mayor cuidado la objetividad en la selección del material, es decir, que cada presentación presentada por una de las partes posee como contrapartida la presentación de la parte contraria, de manera que no quede argumento sin ser rebatido, sin importar quién argumente o quién rebata.
+Para lograr dicho objetivo, parte del trabajo minucioso que se ha tratado realizar ha sido recolectar y extraer de todas las presentaciones judiciales, 
+lógicamente de las que se ha podido tener acceso- "tales elementos". 
 
-     Entonces, por ejemplo, constituye un hecho probado en el juicio que Google basó Android en la implementación independiente de la especificación de las API de Java realizado por la Fundación de Software Apache [116]. 
+Y en esa recolección y extracción también se ha tratado como el mayor de los cuidados la objetividad en la selección del material, es decir, que cada presentación realizada por una de las partes posee como contrapartida la presentación de la contraparte.
 
-     Es decir, Google no copió el código fuente declarado “directamente” de Java SE de Oracle, ni siquiera lo hizo de la versión open-source de Java, Open JDK, sino como se expresa de la Fundación Apache. 
+Entonces, por citar un ejemplo de lo constituye un hecho objetivo: quedo probado en el juicio que Google basó Android en la implementación independiente de la especificación de las API de Java realizado por la Fundación de Software Apache [116] , es decir, Google no tomó el código fuente declarado “directamente” de Java SE propiedad de Sun/Oracle, ni siquiera lo hizo de la versión open-source (GPLv2) de Java, llamada Open JDK, sino como surge de la causa judicial, Google lo hizo del proyecto Harmony de la Fundación Apache. 
 
-     A su vez, también constituye un hecho probado en el juicio que la implementación de la especificación de las API de Java de Sun/Oracle por parte de la Fundación Apache nunca obtuvieron la aprobación del test de compatibilidad de Java o TCK de Sun/Oracle.  
+A su vez, también constituye un hecho objetivo probado en el juicio que la implementación de la especificación de las API de Java de Sun/Oracle por parte de la Fundación Apache nunca obtuvieron la aprobación del test de compatibilidad de Java o TCK de Sun/Oracle.  
+  
+Como se expresa tales hechos fueron probados en el juicio, y como tales son objetivos cuando se lo expone en el presente trabajo. 
 
-    Tales hechos fueron probados en el juicio, y como tales son objetivos cuando se lo expone. 
+Así entonces, todo lo narrado en los capítulos anteriores no es más que la “extracción real de lo dicho por las partes y jueces en el juicio”, las partes han hablado a través de sus presentaciones judiciales y argumentos orales, y los jueces lo han hecho a través de sus sentencias. 
 
-     Así entonces, todo lo narrado en los capítulos anteriores no es más que la “extracción real de lo dicho por las partes y jueces en el juicio”, las partes han hablado a través de sus presentaciones judiciales y argumentos orales, y los jueces lo han hecho a través de sus sentencias. 
-
-      A su vez, la terminología de “no exhaustivas” posee el significado que podrían agregarse otras preguntas para cumplir con la finalidad propuesta. No hay duda de ello. Y por su parte, el requisito de “no exhaustivas” se relaciona con el requisito de “de mínima y obligatorias”, con el cual quiere significarse que como mínimo ciertas preguntas de base deben existir, pero también porque de los hechos narrados es imposible no efectuarse ciertas preguntas, por ello lo de “obligatorias”. 
-
-     Finalmente, el requisito de “objetivas” la misma palabra lo indica, las preguntas son abstractas, agnósticas, independientes a la posición que cada una de las partes ha tomado en el pleito en relación a lo que considera protegible por derechos de autor de EE.UU., y ninguna pregunta intenta favorecer o perjudicar a ninguna parte litigante. 
-
+ A su vez, la terminología de “no exhaustivas” posee el significado que otras preguntas podrían agregarse al listado realizado No hay duda de ello. 
+ 
+Por su parte, el requisito de “no exhaustivas” se relaciona con el requisito de “de mínima y obligatorias”, con el cual se quiere significar que como mínimo ciertas preguntas de base deben existir, pero también porque de los hechos narrados es técnicamente imposible no efectuarse ciertas preguntas, por ello lo de “obligatorias”. 
+ 
+Finalmente, el requisito de “objetivas” la misma palabra lo indica, las preguntas son abstractas, agnósticas, independientes a la posición que cada una de las partes ha tomado en el pleito en relación a lo que cada una de ellas considera como protegible por el sistema de derechos de autor de EE.UU. y en su caso las limitaciones que corresponde o no aplicar. 
+     
      Este juicio ha sido muy particular, porque su disputa no sólo ha sido vertida por las partes en los estrados judiciales, sino también que se ha dado por terceros en los medios de comunicación, sobre todo en la red internet. 
 
      Así existe una gran cantidad de información relacionado al caso, no sólo desde lo judicial sino también desde lo técnico y comercial, comentado por distintas partes con distintos intereses y motivaciones. 
