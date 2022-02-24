@@ -80,7 +80,7 @@ La idea también fue buscar que las preguntas sean agnosticas a una determinada 
 Es decir, paises miembros de Berna y demas tratados internacionales reconociendo la protección de los programas de computación, en su formato fuente-objeto, ¿que mirada han puesto sobre el tipo de lineas de codigo que se ha discutido en el caso Oracle v Google? Piensese que las lineas de codigo en Java, C++, C, Fortran, etc son independientes de cualquier jurisdicción, es decir, la especificación del lenguaje es la misma, despues cabra el analisis línea por línea de porque si o porque no dichas líneas son protegidas en un país o en otro, pero esa mirada no tiene que ver con las reglas del lenguaje de programación.
 
 
-# Caracteristicas de las Preguntas
+# Caracteristicas de las Preguntas formuladas en el CAPITULO XIV
 
 Para que ello sea posible tales **preguntas** debe reunir ciertas carácteristicas, y estas son:
 
