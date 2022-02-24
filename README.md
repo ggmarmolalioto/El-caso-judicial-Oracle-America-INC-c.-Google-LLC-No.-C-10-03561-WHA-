@@ -15,19 +15,19 @@ En realidad la terminología se corresponde a un tipo de licenciamiento relacion
 
 Si bien en el presente trabajo lógicamente no hay líneas de codigo fuente escritas, lo que se quiere significar es que (1) el contenido (líneas escritas) que conforma cada uno de los capitulos del libro, su indice, y mapa de reslocuiones judiciales están disponibles para sean reproducidas, modificadas y distribuidas con o sin modificación bajo los mismos términos de la licencia CC Attribution Share Alike 4.0, pero además (2) se crea un proyecto colaborativo que comienza como un aporte inicial (todos los respositorios que contienen el libro El-caso-judicial-Oracle-America-INC-c.-Google-LLC--No.-C-10-03561-WHA) para que a través de un proceso de aporte de contribuciones de terceros interesados se conforme un nuevo trabajo o versión del libro El-caso-judicial-Oracle-America-INC-c.-Google-LLC--No.-C-10-03561-WHA 
 
-# Contribuciones al proyecto
+# Contribuciones al Proyecto SELMA
 
 Las contribuciones al presente proyecto están sujetas a un **Acuerdo de Contribución** (Contribution Agreement), el cual debe ser suscripto o aceptado antes de iniciar una  **"pull request"** o **"sugerencia de modificación"**. El proceso de suscripción o aceptación se encuentra más adelante. 
 
-# ¿Para que es el Acuerdo de Contribución?
+# ¿Para que es el Acuerdo de Contribución al Proyecto SELMA?
 Mediante dicho acuerdo se regulan los derechos y obligaciones de quién realiza una contribución y el autor que ha dado inicio al presente proyecto.
 
-# Aceptación de solicitudes de contribución
+# Aceptación de solicitudes de contribución al Proyecto SELMA
 Si las solicitudes de contribución son aceptadas, las mismas se incorporararán a la versión open source del presente trabajo. También, podrían ser incorporadas a nuevas versiones del trabajo "El caso judicial Oracle America, INC c. Google, LLC  No. C-10-03561-WHA" sea a su versión CC BY-NC-ND 4.0  Atribución/Reconocimiento-NoComercial-SinDerivados, como a su versión comercial estándar con reserva de derechos de autor. En cualquier caso, si se decidiera incorporar cualquier contribución de terceros a
 la versión CC BY-NC-ND 4.0 o en a la versión comercial los avisos de atribución de los diferentes autores serán incorporados con la expresa mención de contribución. (i.e.
 contribución realizada por "Perez, Juan, copyright 2022, Capitulo XIX, pregunta 35 ".....", aceptada con fecha, repositorio, commmit nro.XXX)  
 
-# Objetivo del trabajo de colaboración 
+# Objetivo del trabajo de colaboración del Proyecto SELMA 
 
 El objetivo de este TRABAJO **NO** es brindar opiniones personales u ofrecer una conclusión propia.
 
