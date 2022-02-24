@@ -1,4 +1,4 @@
-# EL PROYECTO SELMA. THE OPEN SOURCE BOOK: El-caso-judicial-Oracle-America-INC-c.-Google-LLC--No.-C-10-03561-WHA-
+# El Proyecto Open Source SELMA: *"El caso judicial Oracle America, INC c. Google, LLC No.-C-10-03561-WHA"*-
 
 El presente trabajo (que comprende el repositorio y todos los commits que lo componen) se licencia bajo los terminos **CC Attribution ShareAlike 4.0 International Public License** (aka CC BY SA 4.0)
 
