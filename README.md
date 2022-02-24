@@ -13,15 +13,17 @@ Teniendo en cuenta que la licencia CC BY SA 4.0 determina que la licencia GNU GP
 
 Open Source tiene dos aristas: por un lado constituye un proceso de desarrollo de software y por otro lado, es un modelo de licenciamiento.
 
-En nuestro caso, **OPEN SOURCE** significa un modelo colaborativo de desarrollo del Proyecto **SELMA**, si bien no háy código involucrado, el sistema de trabajo que se utiliza es el mismo. 
+En este caso **Open Source** significa un modelo de colaboración para el desarrollo de un proyecto bajo **SELMA**. 
 
-Por otro lado, la *contribución incial* (que lo constituye el repositorio con todos los capitulos) se licencia bajo **CC BY SA 4.0 y GPL v3**. 
+Si bien no háy código involucrado, el sistema de trabajo que se utiliza es similar. 
 
-Desde este punto de vista también el presente trabajo es *Open Source*. 
+Por otro lado, la *contribución inicial* que esta constituída por el repositorio con todos sus commits) se licencia bajo **CC BY SA 4.0 y GPL v3**. 
 
-Por último, téngase presente que las licencias FOSS (Free Open Source Software) no sólo se utilizan para licenciar programas de computación, sino también se las utiliza para la misma documentación del programa. Es decir, la licencia aplica a "todo". 
+Entonces, desde este punto de vista también el presente trabajo es *Open Source*. 
 
-Incluso en los distintos proyectos open source los contratos por los cuales se gestionan las contribuciones o aportaciones de terceros (personas fisicas o empresas) a un proyecto (*Contributor Agreement*) no sólo se refieren a código, sino también a aportes a la sección de documentación, de especificaciones, de graficos, etc., con lo cual en estos casos la contribución no son líneas de codigo. Con lo cual no es extraño utilizar esta terminología de *open source* para documentación en general o inclusive un trabajo literario. 
+Téngase presente que las licencias FOSS (Free Open Source Software) no sólo se utilizan para licenciar software, sino también se las utiliza para licenciar la misma documentación del programa. Es decir, la licencia aplica a "todo". 
+
+Por otro lado, inclusive en los distintos proyectos *open source*, en el cual se utilizan Contratos de Contribución ("Contributor Agreeemnt") con la finalidad de gestionar las aportaciones de terceros (personas fisicas o empresas) a un proyecto, no sólo se refieren a código de computadora sino también a aportes a la sección de (i) documentación, (ii) especificaciones, (iii) graficos, etc., con lo cual en estos casos la contribución no son líneas de código. Por lo tanto, no es extraño utilizar esta terminología de *open source* para documentación en general o inclusive para un trabajo literario. 
 
 Entonces, mediante el licenciamiento de este trabajo bajo la CC BY SA 4.0: su contenido que es cada uno de los capitulos del libro (70 commints aprox hasta la fecha) está disponible para ser **reproducido, modificado y distribuido con o sin modificación sujeto a los mismos términos de la licencia CC Attribution Share Alike 4.0,** . 
 
