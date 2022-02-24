@@ -9,7 +9,7 @@ En el repositorio existe un commint denominado LICENSE en donde se pueden ver lo
 Teniendo en cuenta que la licencia CC BY SA 4.0 determina que la licencia GNU GPL v3 es una "licencia compatible" -véase https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses-, cualquier modificación al presente trabajo ( es decir al contenido del repositorio) podría licenciarse bajo los términos de la licencia GNU GPLv3. Ahora bien, téngase presente que la compatibilidad es desde CC BY SA 4.0 hacia GNU GPL v3, pero no desde  GNU GPL v3 hacia CC BY SA 4.0. Esto es lo que se conoce compatibilidad en sentido único. Por otro lado, la licencia CC BY SA 4.0 menciona como compatible a la versión GNU GPL v3 y NO a "cualquier version posterior". Por lo que en todo caso, y teniendo presente lo dispuesto en la sección 14 de la licencia GNU GPL v3 se podría establecer a una licencia Creative Commons como *proxy*. Para más detalle a este respecto véase en el siguiente link https://wiki.creativecommons.org/wiki/ShareAlike_compatibility:_GPLv3#Option_to_comply_with_later_versions    
 
 
-# ¿Que significa que el Proyecto SELMA sea ¿Open Source?
+# ¿Que significa que el Proyecto SELMA sea Open Source?
 
 Open Source tiene dos aristas: por un lado constituye un proceso de desarrollo de software y por otro lado, es un modelo de licenciamiento.
 
