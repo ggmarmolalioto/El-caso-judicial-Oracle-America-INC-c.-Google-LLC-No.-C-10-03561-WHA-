@@ -1,4 +1,4 @@
-# El caso judicial Oracle America, INC c. Google, LLC No.-C-10-03561-WHA"
+# El caso judicial Oracle America, INC c. Google, LLC No. C-10-03561-WHA"
 
 El presente trabajo es un proyecto **Open Source** y se licencia bajo los terminos **CC Attribution ShareAlike 4.0 International Public License** (aka CC BY SA 4.0)
 
@@ -8,7 +8,17 @@ https://github.com/ggmarmolalioto/El-caso-judicial-Oracle-America-INC-c.-Google-
 
 # Compatibilidad con la Licencia GNU GPL v3
 
-Teniendo en cuenta que la licencia CC BY SA 4.0 determina que la licencia GNU GPL v3 es una "licencia compatible" -véase https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses-, cualquier modificación al presente trabajo ( es decir al contenido del repositorio) podría licenciarse bajo los términos de la licencia GNU GPLv3. Ahora bien, téngase presente que la compatibilidad es desde CC BY SA 4.0 hacia GNU GPL v3, pero no desde  GNU GPL v3 hacia CC BY SA 4.0. Esto es lo que se conoce compatibilidad en sentido único. Por otro lado, la licencia CC BY SA 4.0 menciona como compatible a la versión GNU GPL v3 y NO a "cualquier version posterior". Por lo que en todo caso, y teniendo presente lo dispuesto en la sección 14 de la licencia GNU GPL v3 se podría establecer a una licencia Creative Commons como *proxy*. Para más detalle a este respecto véase en el siguiente link https://wiki.creativecommons.org/wiki/ShareAlike_compatibility:_GPLv3#Option_to_comply_with_later_versions    
+Teniendo en cuenta que la licencia CC BY SA 4.0 determina que la licencia GNU GPL v3 es una *"licencia compatible"* -véase https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses-, cualquier modificación al presente trabajo podría licenciarse bajo los términos de la licencia GNU GPLv3. 
+
+Téngase presente que la *compatibilidad* es desde la licencia CC BY SA 4.0 hacia la licencia GNU GPL v3, pero no al revés. 
+
+Lo anterior es lo que se denomina *compatibilidad en sentido único*. 
+
+Por otro lado, la licencia CC BY SA 4.0 menciona como compatible a la versión **GNU GPL v3** y no así a "cualquier version posterior (de la **v3**)". 
+
+Por lo que en todo caso, y teniendo presente lo dispuesto en la sección 14 de la licencia GNU GPL v3 se podría establecer a una licencia Creative Commons como *proxy*. 
+
+Para más detalle al respecto véase el siguiente link https://wiki.creativecommons.org/wiki/ShareAlike_compatibility:_GPLv3#Option_to_comply_with_later_versions    
 
 
 # ¿Que significa que sea un proyecto *open source*?
