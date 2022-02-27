@@ -1,4 +1,4 @@
-# El caso judicial Oracle America, INC c. Google, LLC No. C-10-03561-WHA"
+# THE COMMONS PROJECT: "El caso judicial Oracle America, INC c. Google, LLC No. C-10-03561-WHA"
 
 El presente trabajo es un proyecto **Open Source** y se licencia bajo los terminos **CC Attribution ShareAlike 4.0 International Public License** (aka CC BY SA 4.0)
 
@@ -135,15 +135,22 @@ Es una versión que podría volver a modificar o no, pero de nuevo es una versi�
 
 La versión CC BY SA 4.0 es la version comunitaria, mediante la cual se puede participar mediante el Proyecto SELMA o simplemente se pueden ejercer acciones de reproducción, modificación y distribución sujeto a los térmnos de la licencia CC BY SA 4.0
 
-# ¿Las mejoras introducidas en SELMA bajo el sistema de contribuciones al proyecto, podrían ser incorporadas a la versión comercial y a la versión CC BY NC-ND 4.0?
 
-Si, claro con el debido reconocimiento de atribución a los autores de tales mejoras. 
+# ¿Las solicitudes de cambios (pull request) que sean aceptadas e introducidas al Proyecto bajo el sistema de contribuciones, podrían posteriormente ser incorporadas a la versión comercial y a la versión CC BY NC-ND 4.0 del libro?
 
-El Acuerdo de Contribución permite gestionar los derechos y obligaciones de las partes. Mediante dicho acuerdo se establece que existe una titularidad compartida en las mejoras, de manera tal que SELMA se pueda gestionar correctamente. Ello no quita que los diferente autores preserven sus derechos en relación a su mejora aportada al proyecto SELMA.  
+Si claro, con el debido reconocimiento de atribución a los autores de tales mejoras. 
 
-Logicamente, antes de que las mejoras sean incorporadas al proyecto SELMA se debe pasar el proceso de revisión y aprobación, es decir, que no cualquier cambio sugerido a través de un pull request es incorporado. Ello es lógico, y es igual en cualquier proyecto. 
+El Acuerdo de Contribución permite gestionar los derechos y obligaciones de las partes. 
 
-El compromiso del proyecto SELMA es que siempre SELMA será open source, con lo cual siempre todas las mejoras introducidas estarán disponibles para ser reproducidas, modificadas y distribuidas bajo la licencia CC BY SA 4.0. 
+Mediante dicho acuerdo se establece que existe una titularidad compartida en las mejoras, de manera tal que el Proyecto se pueda gestionar correctamente. 
+
+Ello no implica que los diferentes autores preserven sus derechos en relación a su contribución aportada al Proyecto.  
+
+Logicamente, antes de que las mejoras sean incorporadas al Proyecto se debe pasar el proceso de revisión y aprobación, es decir, que no cualquier modificaicón sugerida (pull request) es incorporado al Proyecto. 
+
+Ello es lógico, y es igual en cualquier proyecto *open source*. 
+
+El compromiso del Proyecto es que el mismo siempre será *open source*, con lo cual, todas las contribuciones acepatdas e introducidas al Proyecto estarán disponibles para ser reproducidas, modificadas y distribuidas bajo la licencia CC BY SA 4.0. 
 
 
 
