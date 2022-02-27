@@ -47,12 +47,6 @@ Por otra parte, se crea un *proyecto colaborativo* que comienza con una contribu
 
 Las contribuciones pueden ser de las más variadas: por ejemplo se podrían submitir solicitudes de cambios (a través de pull request) para incorporar: **(1)** nuevas preguntas al listado de las 30 ya existentes o mejorar las ya existentes, **(2)** nuevos CAPITULOS, por ejemplo las opiniones brindadas en el 2015 y en el 2019 por los distintos Procuradores Generales de EE.UU (bajo la administración de Obama y Trump) cuando ambos rechazaron la Petición I y II de Writ of Certiorari presentada por Google (la última siendo aceptada por la Corte Suprema de EE.UU y que dió origen a la sentencia definitiva de SCOTUS en abril de 2021), **(3)** modificaciones de posibles errores en general o mejoras de expresión para su entendimiento, **(4)** agregados de notas de referencia, **(5)** mejoramiento de la estructura de los capitulos o de su indice, etc.
 
- 
-
- 
-
-En el trámite del juicio Google entiende que este "tipo de código" constituyen interfaces de software, y por ende que no son protegibles bajo el sistema de derechos de autor de EE.UU. Oracle no piensa lo mismo, y si bien entiende que cierto tipo de código fuente (declarado) podría contituir una interface de software y por ende, no estaría protegida, lo cierto es que para Oracle los metodos de Java que conforman los 37 paquetes de la libreria estandar de Java, que es parte de la Plataforma Java no constituyen interfaces de software en "absoluto", y por ende que merecen la protección bajo derechos de autor conforme a la ley de EE.UU. Digamos que para Google, las interfaces de software no estan protegidas por derechos de autor, y las API de Java en su visión constituyen una interface de software, constituyendo ellas simplemente un "metodo para operar", y por ende excluido de protección legal. Para Oracle, las API de Java no son interfaces de software, pero reconoce que hay stuaciones que un "determinado tipo de codigo" podría poseer ciertas caracteristicas que lo podría caracterizar como interface de software, y por lo tanto, no sería protegible por derechos de autor de EE.UU.  
-
 
 
 # Contribuciones al Proyecto
