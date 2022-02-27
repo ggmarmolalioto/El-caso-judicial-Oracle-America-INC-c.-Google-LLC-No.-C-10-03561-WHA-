@@ -142,11 +142,11 @@ Si claro, con el debido reconocimiento de atribución a los autores de tales mej
 
 El Acuerdo de Contribución permite gestionar los derechos y obligaciones de las partes. 
 
-Mediante dicho acuerdo se establece que existe una titularidad compartida en las mejoras, de manera tal que el Proyecto se pueda gestionar correctamente. 
+Mediante dicho acuerdo se establece que existe una **titularidad compartida** en las contribuciones al Proyecto, de manera tal que el Proyecto se pueda gestionar correctamente. 
 
-Ello no implica que los diferentes autores preserven sus derechos en relación a su contribución aportada al Proyecto.  
+Ello implica que si bien los autores de dichas contribuciones ceden sus derechos patrimoniales al Proyecto, los diferentes autores continuán preservando sus derechos de autor en relación a su contribución aportada al Proyecto.  
 
-Logicamente, antes de que las mejoras sean incorporadas al Proyecto se debe pasar el proceso de revisión y aprobación, es decir, que no cualquier modificaicón sugerida (pull request) es incorporado al Proyecto. 
+La contribución realizada por un tercero es independiente a la decisión de incoproración de dicha contribución al Proyecto. Logicamente, antes de que cualquier sugerencia de modificación (pull request) o contribución sea incorporada al Proyecto, se debe pasar por un proceso de revisión y aprobación de cada Contribución.
 
 Ello es lógico, y es igual en cualquier proyecto *open source*. 
 
