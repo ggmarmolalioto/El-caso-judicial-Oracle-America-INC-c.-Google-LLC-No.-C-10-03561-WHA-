@@ -23,9 +23,9 @@ Para más detalle al respecto véase el siguiente link https://wiki.creativecomm
 
 # ¿Que significa que sea un proyecto *open source*?
 
-Open Source tiene dos aristas: por un lado constituye un proceso de desarrollo de software y por otro lado, es un modelo de licenciamiento.
+*Open Source* tiene dos aristas: por un lado constituye un proceso de desarrollo de software y por otro lado, es un modelo de licenciamiento.
 
-En este caso **open source** significa un modelo de colaboración para el desarrollo del proyecto. 
+En este caso *Open Source* significa un modelo de colaboración para el desarrollo del proyecto. 
 
 Si bien no háy código involucrado, el sistema de trabajo que se utiliza es similar. 
 
@@ -33,9 +33,15 @@ Por otro lado, la *contribución inicial* que esta constituída por el repositor
 
 Entonces, desde este punto de vista también el presente trabajo es *Open Source*. 
 
-Téngase presente que las licencias FOSS (Free Open Source Software) no sólo se utilizan para licenciar software, sino también se las utiliza para licenciar la misma documentación del programa. Es decir, la licencia aplica a "todo". Así en distintos proyectos *open source*, en el cual se utilizan Contratos de Contribución ("Contributor Agreeemnt") con la finalidad de gestionar las aportaciones de terceros (personas fisicas o empresas) a un proyecto, no sólo se refieren a código de computadora sino también a aportes a la sección de (i) documentación, (ii) especificaciones, (iii) graficos, etc., con lo cual en estos casos la contribución no son líneas de código. Por lo tanto, no es extraño utilizar esta terminología de *open source* para documentación en general o inclusive para un trabajo literario. 
+Téngase presente que las licencias FOSS (Free Open Source Software) no sólo se utilizan para licenciar software, sino también se las utiliza para licenciar la misma documentación del programa. 
 
-Entonces, mediante el licenciamiento de este trabajo bajo la CC BY SA 4.0 está disponible para ser **reproducido, modificado y distribuido con o sin modificación sujeto a los mismos términos de la licencia CC Attribution Share Alike 4.0,** . 
+Es decir, la licencia aplica a "todo". 
+
+Así en distintos proyectos *open source*, en el cual se utilizan contratos de contribución ("contributor agreeemnt") con la finalidad de gestionar las aportaciones de terceros (personas fisicas o empresas) a tal proyecto, la licencia que cubre las contribuciones recibidas y la licencia que cubre el proyecto como un todo, no sólo se refiere al código de computadora, sino también a la (i) documentación del porgrama, (ii) a las especificaciones, (iii) graficos, etc.. Con lo cual en estos casos la contribución no son líneas de código. 
+
+Por lo tanto, no es extraño utilizar la terminología de *open source* para documentación en general. 
+
+Entonces, mediante el licenciamiento de este trabajo bajo la CC BY SA 4.0 el mismo está disponible para ser **reproducido, modificado y distribuido con o sin modificación sujeto a los mismos términos de la licencia CC Attribution Share Alike 4.0,** . 
 
 Por otra parte, se crea un *proyecto colaborativo* que comienza con una contribución inicial que son todos los *commits* que conforman el respositorio *"El caso judicial Oracle America, INC c.Google, LLC No.C-10-03561-WHA* para que a través de un proceso de contribuciones de terceros interesados se produzcan mejoras a través de solicitudes de cambios (pull request) al libro *El caso judicial Oracle America INC c. Google LLC No.-C-10-03561* y de dicha forma se constituiría nuevas posibles versiones, ya con la participación de todos los involucrados. 
 
