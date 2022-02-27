@@ -1,4 +1,4 @@
-# THE COMMON PROJECT: "El caso judicial Oracle America, INC c. Google, LLC No. C-10-03561-WHA"
+# El Proyecto Comunnitario: "El caso judicial Oracle America, INC c. Google, LLC No. C-10-03561-WHA"
 
 El presente trabajo es un proyecto **Open Source** y se licencia bajo los terminos **CC Attribution ShareAlike 4.0 International Public License** (aka CC BY SA 4.0)
 
