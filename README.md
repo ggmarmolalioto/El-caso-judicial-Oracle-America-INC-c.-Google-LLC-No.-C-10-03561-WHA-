@@ -121,7 +121,8 @@ En este caso tales elementos lo CONSTITUIRÍA:
 
 También, para lograr dicho objetivo parte del trabajo ha sido recolectar y extraer de todas las presentaciones judiciales (lógicamente de las que se ha podido tener acceso) tales elementos. Y en esa recolección y extracción también se ha tratado como el mayor de los cuidados la objetividad en la selección del material. Es decir, que cada presentación realizada por cada una de las partes posea como contrapartida la presentación de la parte contraria, de manera que no quede argumento sin ser rebatido, sin importar quién argumente o quién rebata.
 
-# ¿Cuál es la diferencia entre el material bajo licencia comercial y bajo licencia CC BY-NC-ND 4.0 y el Proyecto SELMA bajo licencia CC BY SA 4.0?
+
+# ¿Cuál es la diferencia del material bajo licencia comercial, bajo licencia CC BY-NC-ND 4.0 vs. el Proyecto bajo licencia CC BY SA 4.0?
 
 El material publicado en julio de 2021 es una versión obsoleta que ya no está disponible. 
 
@@ -133,7 +134,7 @@ Digamos que la versión comercial y la versión CC BY NC-ND 4.0 es la versión i
 
 Es una versión que podría volver a modificar o no, pero de nuevo es una versión individual, personal que fue la base para fundar el proyecto SELMA.
 
-La versión CC BY SA 4.0 es la version comunitaria, mediante la cual se puede participar mediante el Proyecto SELMA o simplemente se pueden ejercer acciones de reproducción, modificación y distribución sujeto a los térmnos de la licencia CC BY SA 4.0
+La versión CC BY SA 4.0 es la version comunitaria, mediante la cual se puede participar mediante el Proyecto o simplemente se pueden ejercer acciones de reproducción, modificación y distribución sujeto a los términos de la licencia CC BY SA 4.0
 
 
 # ¿Las solicitudes de cambios (pull request) que sean aceptadas e introducidas al Proyecto bajo el sistema de contribuciones, podrían posteriormente ser incorporadas a la versión comercial y a la versión CC BY NC-ND 4.0 del libro?
@@ -144,15 +145,9 @@ El Acuerdo de Contribución permite gestionar los derechos y obligaciones de las
 
 Mediante dicho acuerdo se establece que existe una **titularidad compartida** en las contribuciones al Proyecto, de manera tal que el Proyecto se pueda gestionar correctamente. 
 
-Ello implica que si bien los autores de dichas contribuciones ceden sus derechos patrimoniales al Proyecto, los diferentes autores continuán preservando sus derechos de autor en relación a su contribución aportada al Proyecto.  
-
-La contribución realizada por un tercero es independiente a la decisión de incoproración de dicha contribución al Proyecto. Logicamente, antes de que cualquier sugerencia de modificación (pull request) o contribución sea incorporada al Proyecto, se debe pasar por un proceso de revisión y aprobación de cada Contribución.
-
-Ello es lógico, y es igual en cualquier proyecto *open source*. 
-
+Ello implica que si bien los autores de dichas contribuciones conceden sobre sus derechos patrimoniales un derecho perpetuo, irrevocable, no exclusivo al Proyecto, los diferentes autores continuán preservando sus derechos de autor en relación a su contribución aportada al Proyecto. La contribución realizada por un tercero es independiente a la decisión de incorporar dicha contribución al Proyecto. Antes de que cualquier sugerencia de modificación (pull request) o contribución sea incorporada al Proyecto, se debe pasar por un proceso de revisión y aprobación de cada Contribución realizada. 
+ 
 El compromiso del Proyecto es que el mismo siempre será *open source*, con lo cual, todas las contribuciones acepatdas e introducidas al Proyecto estarán disponibles para ser reproducidas, modificadas y distribuidas bajo la licencia CC BY SA 4.0. 
-
-
 
 
 ![El caso judicial Oracle America, INC contra Google, LLC No  C 10-03561 WHA (CC BY SA 4 0)](https://user-images.githubusercontent.com/33959642/155597547-8c4bf3eb-9c54-49cc-a03d-4be406ad3bde.png)
