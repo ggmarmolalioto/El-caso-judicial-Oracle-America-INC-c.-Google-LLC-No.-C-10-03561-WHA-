@@ -6,6 +6,15 @@ En el repositorio existe un *commint* denominado LICENSE en donde se pueden ver 
 
 https://github.com/ggmarmolalioto/El-caso-judicial-Oracle-America-INC-c.-Google-LLC--No.-C-10-03561-WHA-/blob/main/LICENSE%20CC-Attribution-ShareAlike%204.0%20International%20Public%20License 
 
+En el trámite del juicio Google entiende que un tipo de código fuente denominado en el juicio como "código fuente declarado" constituye una "interface de software", y por ende, que no es protegible bajo el sistema de derechos de autor de EE.UU. 
+
+Oracle no opina lo mismo, y si bien entiende que cierto tipo de código fuente (declarado) podría contituir una interface de software y por ende, no quedar protegida, lo cierto es que para Oracle los metodos de Java que conforman los 37 paquetes de la libreria estandar de Java, que son parte de la Plataforma Java no constituyen interfaces de software en "absoluto" y por lo tanto que merecen la protección bajo derechos de autor conforme a la ley de EE.UU. 
+
+Digamos que para Google, las interfaces de software no estan protegidas por derechos de autor, y las API de Java en su visión constituyen una interface de software, constituyendo ellas simplemente un "metodo para operar", y por ende excluido de protección legal. 
+
+Para Oracle, las API de Java no son interfaces de software, pero reconoce que hay situaciones que un "determinado tipo de codigo" podría poseer ciertas caracteristicas que lo podría caracterizar como interface de software, y por lo tanto, no sería protegible por derechos de autor de EE.UU. 
+
+
 # Compatibilidad con la Licencia GNU GPL v3
 
 Teniendo en cuenta que la licencia CC BY SA 4.0 determina que la licencia GNU GPL v3 es una *"licencia compatible"* -véase https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses-, cualquier modificación al presente trabajo podría licenciarse bajo los términos de la licencia GNU GPLv3. 
