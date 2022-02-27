@@ -1,33 +1,33 @@
-# El Proyecto Open Source SELMA: *"El caso judicial Oracle America, INC c. Google, LLC No.-C-10-03561-WHA"*-
+# El caso judicial Oracle America, INC c. Google, LLC No.-C-10-03561-WHA"
 
-El presente trabajo (que comprende el repositorio y todos los commits que lo componen) se licencia bajo los terminos **CC Attribution ShareAlike 4.0 International Public License** (aka CC BY SA 4.0)
+El presente trabajo es un proyecto **Open Source** y se licencia bajo los terminos **CC Attribution ShareAlike 4.0 International Public License** (aka CC BY SA 4.0)
 
-En el repositorio existe un commint denominado LICENSE en donde se pueden ver los terminos de la licencia aplicable a los distintos capitulos que componen este proyecto  https://github.com/ggmarmolalioto/El-caso-judicial-Oracle-America-INC-c.-Google-LLC--No.-C-10-03561-WHA-/blob/main/LICENSE%20CC-Attribution-ShareAlike%204.0%20International%20Public%20License 
+En el repositorio existe un *commint* denominado LICENSE en donde se pueden ver los terminos de la licencia aplicable a los distintos capitulos que componen este proyecto 
+
+https://github.com/ggmarmolalioto/El-caso-judicial-Oracle-America-INC-c.-Google-LLC--No.-C-10-03561-WHA-/blob/main/LICENSE%20CC-Attribution-ShareAlike%204.0%20International%20Public%20License 
 
 # Compatibilidad con la Licencia GNU GPL v3
 
 Teniendo en cuenta que la licencia CC BY SA 4.0 determina que la licencia GNU GPL v3 es una "licencia compatible" -véase https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses-, cualquier modificación al presente trabajo ( es decir al contenido del repositorio) podría licenciarse bajo los términos de la licencia GNU GPLv3. Ahora bien, téngase presente que la compatibilidad es desde CC BY SA 4.0 hacia GNU GPL v3, pero no desde  GNU GPL v3 hacia CC BY SA 4.0. Esto es lo que se conoce compatibilidad en sentido único. Por otro lado, la licencia CC BY SA 4.0 menciona como compatible a la versión GNU GPL v3 y NO a "cualquier version posterior". Por lo que en todo caso, y teniendo presente lo dispuesto en la sección 14 de la licencia GNU GPL v3 se podría establecer a una licencia Creative Commons como *proxy*. Para más detalle a este respecto véase en el siguiente link https://wiki.creativecommons.org/wiki/ShareAlike_compatibility:_GPLv3#Option_to_comply_with_later_versions    
 
 
-# ¿Que significa que el Proyecto SELMA sea Open Source?
+# ¿Que significa que sea un proyecto *open source*?
 
 Open Source tiene dos aristas: por un lado constituye un proceso de desarrollo de software y por otro lado, es un modelo de licenciamiento.
 
-En este caso **Open Source** significa un modelo de colaboración para el desarrollo de un proyecto bajo **SELMA**. 
+En este caso **open source** significa un modelo de colaboración para el desarrollo del proyecto. 
 
 Si bien no háy código involucrado, el sistema de trabajo que se utiliza es similar. 
 
-Por otro lado, la *contribución inicial* que esta constituída por el repositorio con todos sus commits se licencia bajo **CC BY SA 4.0 y GPL v3**. 
+Por otro lado, la *contribución inicial* que esta constituída por el repositorio se licencia bajo **CC BY SA 4.0**. 
 
 Entonces, desde este punto de vista también el presente trabajo es *Open Source*. 
 
-Téngase presente que las licencias FOSS (Free Open Source Software) no sólo se utilizan para licenciar software, sino también se las utiliza para licenciar la misma documentación del programa. Es decir, la licencia aplica a "todo". 
+Téngase presente que las licencias FOSS (Free Open Source Software) no sólo se utilizan para licenciar software, sino también se las utiliza para licenciar la misma documentación del programa. Es decir, la licencia aplica a "todo". Así en distintos proyectos *open source*, en el cual se utilizan Contratos de Contribución ("Contributor Agreeemnt") con la finalidad de gestionar las aportaciones de terceros (personas fisicas o empresas) a un proyecto, no sólo se refieren a código de computadora sino también a aportes a la sección de (i) documentación, (ii) especificaciones, (iii) graficos, etc., con lo cual en estos casos la contribución no son líneas de código. Por lo tanto, no es extraño utilizar esta terminología de *open source* para documentación en general o inclusive para un trabajo literario. 
 
-Por otro lado, inclusive en los distintos proyectos *open source*, en el cual se utilizan Contratos de Contribución ("Contributor Agreeemnt") con la finalidad de gestionar las aportaciones de terceros (personas fisicas o empresas) a un proyecto, no sólo se refieren a código de computadora sino también a aportes a la sección de (i) documentación, (ii) especificaciones, (iii) graficos, etc., con lo cual en estos casos la contribución no son líneas de código. Por lo tanto, no es extraño utilizar esta terminología de *open source* para documentación en general o inclusive para un trabajo literario. 
+Entonces, mediante el licenciamiento de este trabajo bajo la CC BY SA 4.0 está disponible para ser **reproducido, modificado y distribuido con o sin modificación sujeto a los mismos términos de la licencia CC Attribution Share Alike 4.0,** . 
 
-Entonces, mediante el licenciamiento de este trabajo bajo la CC BY SA 4.0 (70 commints aprox. hasta la fecha) está disponible para ser **reproducido, modificado y distribuido con o sin modificación sujeto a los mismos términos de la licencia CC Attribution Share Alike 4.0,** . 
-
-Por otra parte, se crea un *proyecto colaborativo* **PROYECTO SELMA** que comienza con una contribución inicial que son todos los *commits* que conforman el respositorio *"El caso judicial Oracle America, INC-c.Google-LLC-No.C-10-03561-WHA* para que a través de un proceso de contribuciones de terceros interesados (i.e. abogados de cualquier jurisdicción, programadores, traductores, cualquier interesado, etc.) se produzcan mejoras al libro *El caso judicial Oracle America INC c. Google LLC No.-C-10-03561* y de dicha forma se constituiría nuevas versiones, ya con la participación de todos los involucrados. 
+Por otra parte, se crea un *proyecto colaborativo* que comienza con una contribución inicial que son todos los *commits* que conforman el respositorio *"El caso judicial Oracle America, INC c.Google, LLC No.C-10-03561-WHA* para que a través de un proceso de contribuciones de terceros interesados se produzcan mejoras a través de solicitudes de cambios (pull request) al libro *El caso judicial Oracle America INC c. Google LLC No.-C-10-03561* y de dicha forma se constituiría nuevas posibles versiones, ya con la participación de todos los involucrados. 
 
 Las contribuciones pueden ser de las más variadas: por ejemplo se podrían submitir solicitudes de cambios (a través de pull request) para incorporar: **(1)** nuevas preguntas al listado de las 30 ya existentes o mejorar las ya existentes, **(2)** nuevos CAPITULOS, por ejemplo las opiniones brindadas en el 2015 y en el 2019 por los distintos Procuradores Generales de EE.UU (bajo la administración de Obama y Trump) cuando ambos rechazaron la Petición I y II de Writ of Certiorari presentada por Google (la última siendo aceptada por la Corte Suprema de EE.UU y que dió origen a la sentencia definitiva de SCOTUS en abril de 2021), **(3)** modificaciones de posibles errores en general o mejoras de expresión para su entendimiento, **(4)** agregados de notas de referencia, **(5)** mejoramiento de la estructura de los capitulos o de su indice, etc.
 
