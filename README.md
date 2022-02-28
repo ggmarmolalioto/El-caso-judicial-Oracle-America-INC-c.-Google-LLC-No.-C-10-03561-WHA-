@@ -52,34 +52,34 @@ Por lo tanto, no es extraño utilizar la terminología de *open source* para doc
 
 Entonces, mediante el licenciamiento de este trabajo bajo la CC BY SA 4.0 el mismo está disponible para ser **reproducido, modificado y distribuido con o sin modificación sujeto a los mismos términos de la licencia CC Attribution Share Alike 4.0,** . 
 
-Por otra parte, se crea un *proyecto colaborativo* que comienza con una contribución inicial que son todos los *commits* que conforman el respositorio *"El caso judicial Oracle America, INC c.Google, LLC No.C-10-03561-WHA* para que a través de un proceso de contribuciones de terceros interesados se produzcan mejoras a través de solicitudes de cambios (pull request) al libro *El caso judicial Oracle America INC c. Google LLC No.-C-10-03561* y de dicha forma se constituiría nuevas posibles versiones, ya con la participación de todos los involucrados. 
-
-Las contribuciones pueden ser de las más variadas: por ejemplo se podrían submitir solicitudes de cambios (a través de pull request) para incorporar: **(1)** nuevas preguntas al listado de las 30 ya existentes o mejorar las ya existentes, **(2)** nuevos CAPITULOS, por ejemplo las opiniones brindadas en el 2015 y en el 2019 por los distintos Procuradores Generales de EE.UU (bajo la administración de Obama y Trump) cuando ambos rechazaron la Petición I y II de Writ of Certiorari presentada por Google (la última siendo aceptada por la Corte Suprema de EE.UU y que dió origen a la sentencia definitiva de SCOTUS en abril de 2021), **(3)** modificaciones de posibles errores en general o mejoras de expresión para su entendimiento, **(4)** agregados de notas de referencia, **(5)** mejoramiento de la estructura de los capitulos o de su indice, etc.
+Por otra parte, se crea un *proyecto colaborativo* que comienza con una contribución inicial que son todos los *commits* que conforman el respositorio *"El caso judicial Oracle America, INC c.Google, LLC No.C-10-03561-WHA* para que a través de un proceso de contribuciones de terceros interesados se produzcan mejoras a través de solicitudes de cambios (pull request) al libro *El caso judicial Oracle America INC c. Google LLC No.-C-10-03561* y de dicha forma se constituiría nuevas posibles versiones, ya con la participación de todos los involucrados.  Las contribuciones pueden ser de las más variadas: por ejemplo se podrían submitir solicitudes de cambios: **(1)** para incorporar nuevas preguntas al listado de las 30 ya existentes o mejorarlas las ya existentes, **(2)** para incorporar nuevos CAPITULOS. Por ejemplo, se podrían incorporar las opiniones brindadas en el 2015 y en el 2019 por los distintos Procuradores Generales de EE.UU (bajo la administración de Obama y Trump) cuando ambos rechazaron la Petición I y II de Writ of Certiorari presentada por Google (la última siendo aceptada por la Corte Suprema de EE.UU y que dió origen a la sentencia definitiva de SCOTUS en abril de 2021), **(3)** para sugerir  modificaciones de posibles errores en general o para sugerir mejoras de expresión, **(4)** agregados de notas de referencia, **(5)** mejoramiento de la estructura de los capitulos o de su indice, etc.
 
 
 
 # Contribuciones al Proyecto
 
-Las contribuciones al presente proyecto están sujetas a un **Acuerdo de Contribución** (Contribution Agreement), el cual debe ser suscripto o aceptado antes de iniciar una  **"pull request"** o **"sugerencia de modificación"**. El proceso de suscripción o aceptación se encuentra más adelante. 
+Las contribuciones al presente proyecto están sujetas a un **Acuerdo de Contribución** (Contribution Agreement), el cual debe ser suscripto o aceptado antes de iniciar una  **"pull request"** o **"sugerencia de modificación"**. El proceso de suscripción o aceptación se encuentra más adelante. En acuerdo de contribución puede verse en el repositorio "Acuerdo de Contribución" (Contributor License Agreement).
 
 
 # ¿Para que es el Acuerdo de Contribución al Proyecto?
 
-Mediante dicho acuerdo se regulan los derechos y obligaciones de quién realiza una contribución y el autor que ha dado inicio al presente proyecto.
+Mediante dicho acuerdo se regulan los derechos y obligaciones de quién realiza una contribución y el autor que ha dado inicio al presente Proyecto Comunitario de Colaboración.
 
 
 # Aceptación de solicitudes de contribución al Proyecto
 
-Si las solicitudes de contribución son aceptadas, las mismas se incorporararán a la versión open source del presente trabajo. También, podrían ser incorporadas a nuevas versiones del trabajo "El caso judicial Oracle America, INC c. Google, LLC  No. C-10-03561-WHA" sea a su versión CC BY-NC-ND 4.0  Atribución/Reconocimiento-NoComercial-SinDerivados, como a su versión comercial estándar con reserva de derechos de autor. En cualquier caso, si se decidiera incorporar cualquier contribución de terceros a
-la versión CC BY-NC-ND 4.0 o en a la versión comercial los avisos de atribución de los diferentes autores serán incorporados con la expresa mención de contribución. (i.e.
-contribución realizada por "Perez, Juan, copyright 2022, Capitulo XIX, pregunta 35 ".....", aceptada con fecha, repositorio, commmit nro.XXX) 
+Si las solicitudes de contribución son aceptadas, las mismas se incorporararán a la versión open source del presente trabajo. 
+
+También, podrían ser incorporadas a nuevas versiones del trabajo "El caso judicial Oracle America, INC c. Google, LLC  No. C-10-03561-WHA" sea a su versión CC BY-NC-ND 4.0  Atribución/Reconocimiento-NoComercial-SinDerivados, como a su versión comercial estándar con reserva de derechos de autor. 
+
+En cualquier caso, si se decidiera incorporar cualquier contribución de terceros a la versión CC BY-NC-ND 4.0 o en a la versión comercial los avisos de atribución de los diferentes autores serán incorporados con la expresa mención de contribución aportada. (**i.e. contribución realizada por "XXX, Copyright 2022, al Capitulo XIX, incorporación al commint 0036545: pregunta 35 ".....", aceptación XXX con fecha XXX, repositorio, commmit nro.XXX**) 
 
 
-# Objetivo del trabajo de colaboración del Proyecto 
+# Objetivo del Proyecto 
 
-El Proyecto SELMA por el momnento se conforma del repositorio *"El caso judicial Oracle America, INC c. Google, LLC  No. C-10-03561-WHA"* bajo licencia CC BY-SA 4.0. 
+El Proyecto por el momnento se conforma del repositorio *"El caso judicial Oracle America, INC c. Google, LLC  No. C-10-03561-WHA"* bajo licencia CC BY-SA 4.0. 
 
-Como se menciono anteriormente, el objetivo del proyecto es difundir el conocimiento de un tema particular relacionado a código de programas de computación, y que comienza con el caso judicial Oracle vs Google, pero no se agota en él, ya que existen otros casos judiciales relacionados, que posiblemente se aborden en un futuro cercano.
+Como se menciono anteriormente el objetivo del Proyecto es difundir el conocimiento de un tema particular relacionado a código de programas de computación a través del tratamiento de casos judiciales, y que comienza con el caso judicial Oracle vs Google, pero no se agota en él, ya que existen otros casos judiciales relacionados, que posiblemente se aborden en un futuro cercano.
 
 
 # Objetivo del Libro *"El caso judicial Oracle America, INC-c.Google-LLC-No.C-10-03561-WHA"* publicado bajo licencia comercial y CC BY-NC-ND 4.0
@@ -88,22 +88,20 @@ La primera versión del libro se publicó en Amazon en julio de 2021 con una lic
 
 La segunda edición del libro se publicó en Marzo de 2022 y posee dos licencias: **a)** comercial con derechos reservados (Amazon) y  **b)** CC CC BY-NC-ND 4.0 Atribución/Reconocimiento-NoComercial-SinDerivados 4.0 Licencia Pública Internacional.
 
-Desde que se anunció la primera publicación se hizo mención a que el contenido del libro sería hecho disponible en los repositorios de GITHUB bajo una licencia que permitiera difundir el conocimiento y promover la participación para ampliar el trabajo originario. El objetivo propuesto no iba de la mano con los requerimientos de cesión de derechos de las tradicionales editoriales jurídicas, con lo cual la publicación debería ser autónoma y autosuficiente para mantener el compromiso originario y dar forma al proyecto SELMA.
+Desde que se anunció la primera publicación se hizo mención a que el contenido del libro sería hecho disponible en los repositorios de GITHUB bajo una licencia que permitiera difundir el conocimiento y promover la participación para ampliar el trabajo originario. 
+
+El objetivo propuesto no iba de la mano con los requerimientos de cesión de derechos de las tradicionales editoriales jurídicas, con lo cual la publicación debería ser autónoma y autosuficiente para mantener el compromiso originario y dar forma al Proyecto Comunitario.
 
 Entonces el objetivo del libro **NO** es brindar opiniones personales u ofrecer una conclusión propia. 
 
-El libro no tiene que ver con mi opinión, sino con lo que mi aporte eventualmente puede producir en los lectores.
-
 Entonces, la idea siempre fue PONER A DISPOSICIÓN DE CADA LECTOR la posibilidad de qué a través de un listado de preguntas los mismos lectores pudieran sacar su propia conclusión respecto del caso judicial en particular. 
-
-Por ejemplo, ¿un método para operar puede ser original y creativo, sujeto a protección, o por el sólo hecho de constituir un metodo para operar no posee protección?. 
 
 La idea también fue buscar que las preguntas sean agnosticas a una determinada jurisdicción. 
 
-Es decir, paises miembros de Berna y demas tratados internacionales reconociendo la protección de los programas de computación, en su formato fuente-objeto, ¿que mirada han puesto sobre el tipo de lineas de codigo que se ha discutido en el caso Oracle v Google? Piensese que las lineas de codigo en Java, C++, C, Fortran, etc son independientes de cualquier jurisdicción, es decir, la especificación del lenguaje es la misma, despues cabra el analisis línea por línea de porque si o porque no dichas líneas son protegidas en un país o en otro, pero esa mirada no tiene que ver con las reglas del lenguaje de programación.
+Es decir, los paises miembros de la Convención de Berna y demas tratados internacionales reconociendo la protección de los programas de computación, en su formato fuente-objeto, **¿que mirada han puesto sobre el tipo de lineas de codigo que se ha discutido en el caso Oracle v Google?** 
 
 
-# Caracteristicas de las Preguntas formuladas en el CAPITULO XIV
+# Caracteristicas de las *preguntas* formuladas en el CAPITULO XIV
 
 Para que ello sea posible tales **preguntas** debe reunir ciertas carácteristicas, y estas son:
 
