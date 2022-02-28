@@ -74,7 +74,7 @@ El mismo será cargado en uno de los repositorios del Proyecto.
 
 Si las solicitudes de contribución son aceptadas, las mismas se incorporararán a la versión open source del presente trabajo. 
 
-También, podrían ser incorporadas a nuevas versiones del trabajo "El caso judicial Oracle America, INC c. Google, LLC  No. C-10-03561-WHA" sea a su versión CC BY-NC-ND 4.0  Atribución/Reconocimiento-NoComercial-SinDerivados, como a su versión comercial estándar con reserva de derechos de autor. 
+También, las solicitudes de cambios aceptadas e incorporadas al Proyecto, podrían ser incorporadas a nuevas versiones a crearse del trabajo "El caso judicial Oracle America, INC c. Google, LLC  No. C-10-03561-WHA" sea a su versión CC BY-NC-ND 4.0  Atribución/Reconocimiento-NoComercial-SinDerivados, como a su versión comercial estándar con reserva de derechos de autor. **De la misma manera cualquiera podría tomar parte o todo el repositorio con o sin modificaciones y crear nuevas versiones derivadas con la única condición de que dichas versiones utilizen la licencia CC BY SA o GPL v3**. Es decir, cualquiera puede bifucar este Proyecto Comunitario y crear versiones derivadas.  
 
 En cualquier caso, si se decidiera incorporar cualquier contribución de terceros a la versión CC BY-NC-ND 4.0 o en a la versión comercial los avisos de atribución de los diferentes autores serán incorporados con la expresa mención de contribución aportada. (**i.e. contribución realizada por "XXX, Copyright 2022, al Capitulo XIX, incorporación al commint 0036545: pregunta 35 ".....", aceptación XXX con fecha XXX, repositorio, commmit nro.XXX**) 
 
