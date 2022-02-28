@@ -161,6 +161,6 @@ Ello implica que si bien los autores de dichas contribuciones conceden sobre sus
 El compromiso del Proyecto es que el mismo siempre será *open source*, con lo cual, todas las contribuciones acepatdas e introducidas al Proyecto estarán disponibles para ser reproducidas, modificadas y distribuidas bajo la licencia CC BY SA 4.0. 
 
 
-![El caso judicial Oracle America, INC contra Google, LLC No  C 10-03561 WHA (CC BY SA 4 0)](https://user-images.githubusercontent.com/33959642/155597547-8c4bf3eb-9c54-49cc-a03d-4be406ad3bde.png)
+
 
 
