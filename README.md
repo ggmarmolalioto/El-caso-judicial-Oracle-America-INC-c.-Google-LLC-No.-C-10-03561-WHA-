@@ -132,19 +132,19 @@ Es decir, que cada presentación realizada por cada una de las partes posea como
 
 
 
-# ¿Cuál es la diferencia del material bajo licencia comercial, bajo licencia CC BY-NC-ND 4.0 vs. el Proyecto bajo licencia CC BY SA 4.0?
+# ¿Cuál es la diferencia entre el a) material bajo licencia comercial, b) material bajo licencia CC BY-NC-ND 4.0 y el c) el material del Proyecto bajo licencia CC BY SA 4.0?
 
-El material publicado en julio de 2021 es una versión obsoleta que ya no está disponible. 
+El material publicado en julio de 2021 es la primer version original que ya no es mantenida, es decir, que no recibirá ediciones o mejoras. 
 
-El trabajo de cambios y edición dió origen a la nueva versión del material publicado en marzo 2021 bajo la licencia comercial y CC BY NC-ND 4.0 
+El trabajo de cambios y edición dió origen a la nueva versión del material publicado en marzo 2021 bajo (i)licencia comercial y (ii) CC BY NC-ND 4.0 
 
 Tanto la nueva versión comercial, como la versión CC BY NC-ND 4.0 y la versión CC BY SA 4.0 poseen el mismo contenido al 1 de marzo de 2022.
 
-Digamos que la versión comercial y la versión CC BY NC-ND 4.0 es la versión individual, sobre la cual conservo todos los derechos como autor. 
+Digamos que la versión comercial y la versión CC BY NC-ND 4.0 es la *versión individual*, sobre la cual conservo todos los derechos como autor. 
 
-Es una versión que podría volver a modificar o no, pero de nuevo es una versión individual, personal que fue la base para fundar el proyecto SELMA.
+Ambas constituyen una versión que podría volver a modificar o no. Lo importante es que fue la base para fundar el Proyecto comunitario.
 
-La versión CC BY SA 4.0 es la version comunitaria, mediante la cual se puede participar mediante el Proyecto o simplemente se pueden ejercer acciones de reproducción, modificación y distribución sujeto a los términos de la licencia CC BY SA 4.0
+La versión CC BY SA 4.0 es la version comunitaria, mediante la cual se puede A) participar en el Proyecto o B) simplemente se pueden ejercer acciones de reproducción, modificación y distribución sujeto a los términos de la licencia CC BY SA 4.0
 
 
 
