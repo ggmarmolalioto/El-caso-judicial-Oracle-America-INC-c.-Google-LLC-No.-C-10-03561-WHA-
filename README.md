@@ -23,6 +23,7 @@ Por lo que en todo caso, y teniendo presente lo dispuesto en la sección 14 de l
 Para más detalle al respecto véase el siguiente link https://wiki.creativecommons.org/wiki/ShareAlike_compatibility:_GPLv3#Option_to_comply_with_later_versions    
 
 
+
 # ¿Que significa que sea un proyecto *open source*?
 
 *Open Source* tiene dos aristas: por un lado constituye un proceso de desarrollo de software y por otro lado, es un modelo de licenciamiento.
@@ -39,7 +40,7 @@ Téngase presente que las licencias FOSS (Free Open Source Software) no sólo se
 
 Es decir, la licencia aplica a "todo". 
 
-Así en distintos proyectos *open source*, en el cual se utilizan contratos de contribución ("contributor agreeemnt") con la finalidad de gestionar las aportaciones de terceros (personas fisicas o empresas) a tal proyecto, la licencia que cubre las contribuciones recibidas y la licencia que cubre el proyecto como un todo, no sólo se refiere al código de computadora, sino también a la (i) documentación del porgrama, (ii) a las especificaciones, (iii) graficos, etc.. Con lo cual en estos casos la contribución no son líneas de código. 
+Así en distintos proyectos *open source*, en el cual se utilizan contratos de contribución con la finalidad de gestionar las aportaciones de terceros (personas fisicas o empresas) a tal proyecto, la licencia que cubre las contribuciones recibidas y la licencia que cubre el proyecto como un todo, no sólo se refiere al código de computadora, sino también a la (i) documentación del porgrama, (ii) a las especificaciones, (iii) graficos, etc. Con lo cual en estos casos la contribución no son líneas de código. 
 
 Por lo tanto, no es extraño utilizar la terminología de *open source* para documentación en general. 
 
@@ -51,12 +52,22 @@ Por otra parte, se crea un *proyecto colaborativo* que comienza con una contribu
 
 # Contribuciones al Proyecto
 
-Las contribuciones al presente proyecto están sujetas a un **Acuerdo de Contribución** (Contribution Agreement), el cual debe ser suscripto o aceptado antes de iniciar una  **"pull request"** o **"sugerencia de modificación"**. El proceso de suscripción o aceptación se encuentra más adelante. En acuerdo de contribución puede verse en el repositorio "Acuerdo de Contribución" (Contributor License Agreement).
+Las contribuciones al presente proyecto están sujetas a un **Acuerdo de Contribución**, el cual debe ser suscripto o aceptado antes de iniciar una  *"pull request"* o *"sugerencia de modificación"*. En acuerdo de contribución puede verse en el repositorio "Acuerdo de Contribución" ("Contributor License Agreement").
+
 
 
 # ¿Para que es el Acuerdo de Contribución al Proyecto?
 
 Mediante dicho acuerdo se regulan los derechos y obligaciones de quién realiza una contribución y el autor que ha dado inicio al presente Proyecto Comunitario de Colaboración.
+
+
+
+# Proceso de aceptación del Acuerdo de Contribución
+
+El proceso de aceptación por el momento es remitir por correo electrónico el Acuero de Contribución firmado. 
+
+El mismo será cargado en uno de los repositorios del Proyecto. 
+
 
 
 # Aceptación de solicitudes de contribución al Proyecto
@@ -68,11 +79,13 @@ También, podrían ser incorporadas a nuevas versiones del trabajo "El caso judi
 En cualquier caso, si se decidiera incorporar cualquier contribución de terceros a la versión CC BY-NC-ND 4.0 o en a la versión comercial los avisos de atribución de los diferentes autores serán incorporados con la expresa mención de contribución aportada. (**i.e. contribución realizada por "XXX, Copyright 2022, al Capitulo XIX, incorporación al commint 0036545: pregunta 35 ".....", aceptación XXX con fecha XXX, repositorio, commmit nro.XXX**) 
 
 
+
 # Objetivo del Proyecto 
 
 El Proyecto por el momnento se conforma del repositorio *"El caso judicial Oracle America, INC c. Google, LLC  No. C-10-03561-WHA"* bajo licencia CC BY-SA 4.0. 
 
 Como se menciono anteriormente el objetivo del Proyecto es difundir el conocimiento de un tema particular relacionado a código de programas de computación a través del tratamiento de casos judiciales, y que comienza con el caso judicial Oracle vs Google, pero no se agota en él, ya que existen otros casos judiciales relacionados, que posiblemente se aborden en un futuro cercano.
+
 
 
 # Objetivo del Libro *"El caso judicial Oracle America, INC-c.Google-LLC-No.C-10-03561-WHA"* publicado bajo licencia comercial y CC BY-NC-ND 4.0
@@ -92,6 +105,7 @@ Entonces, la idea siempre fue PONER A DISPOSICIÓN DE CADA LECTOR la posibilidad
 La idea también fue buscar que las preguntas sean agnosticas a una determinada jurisdicción. 
 
 Es decir, los paises miembros de la Convención de Berna y demas tratados internacionales reconociendo la protección de los programas de computación, en su formato fuente-objeto, **¿que mirada han puesto sobre el tipo de lineas de codigo que se ha discutido en el caso Oracle v Google?** 
+
 
 
 # Caracteristicas de las *preguntas* formuladas en el CAPITULO XIV
@@ -117,6 +131,7 @@ Y en esa recolección y extracción también se ha tratado como el mayor de los 
 Es decir, que cada presentación realizada por cada una de las partes posea como contrapartida la presentación de la parte contraria. Por ej. Cuando Google presentó su Writ of Certiorari II, existe la presentación realizada por Oracle dando sus contra-argumentos de porque debia ser rechzado el Writ II de Google, como también está la nueva presentación hecha por Google dando sus respuestas a lo expuesto por Oracle. 
 
 
+
 # ¿Cuál es la diferencia del material bajo licencia comercial, bajo licencia CC BY-NC-ND 4.0 vs. el Proyecto bajo licencia CC BY SA 4.0?
 
 El material publicado en julio de 2021 es una versión obsoleta que ya no está disponible. 
@@ -130,6 +145,7 @@ Digamos que la versión comercial y la versión CC BY NC-ND 4.0 es la versión i
 Es una versión que podría volver a modificar o no, pero de nuevo es una versión individual, personal que fue la base para fundar el proyecto SELMA.
 
 La versión CC BY SA 4.0 es la version comunitaria, mediante la cual se puede participar mediante el Proyecto o simplemente se pueden ejercer acciones de reproducción, modificación y distribución sujeto a los términos de la licencia CC BY SA 4.0
+
 
 
 # ¿Las solicitudes de cambios (pull request) que sean aceptadas e introducidas al Proyecto bajo el sistema de contribuciones, podrían posteriormente ser incorporadas a la versión comercial y a la versión CC BY NC-ND 4.0 del libro?
