@@ -117,7 +117,11 @@ En este caso tales elementos lo CONSTITUIRÍA:
 
 - “lo expresado” por los jueces a través de sus sentencias. 
 
-También, para lograr dicho objetivo parte del trabajo ha sido recolectar y extraer de todas las presentaciones judiciales (lógicamente de las que se ha podido tener acceso) tales elementos. Y en esa recolección y extracción también se ha tratado como el mayor de los cuidados la objetividad en la selección del material. Es decir, que cada presentación realizada por cada una de las partes posea como contrapartida la presentación de la parte contraria, de manera que no quede argumento sin ser rebatido, sin importar quién argumente o quién rebata.
+También, para lograr dicho objetivo parte del trabajo ha sido recolectar y extraer de todas las presentaciones judiciales (lógicamente de las que se ha podido tener acceso) tales elementos. 
+
+Y en esa recolección y extracción también se ha tratado como el mayor de los cuidados la objetividad en la selección del material. 
+
+Es decir, que cada presentación realizada por cada una de las partes posea como contrapartida la presentación de la parte contraria. Por ej. Cuando Google presentó su Writ of Certiorari II, existe la presentación realizada por Oracle dando sus contra-argumentos de porque debia ser rechzado el Writ II de Google, como también está la nueva presentación hecha por Google dando sus respuestas a lo expuesto por Oracle. 
 
 
 # ¿Cuál es la diferencia del material bajo licencia comercial, bajo licencia CC BY-NC-ND 4.0 vs. el Proyecto bajo licencia CC BY SA 4.0?
