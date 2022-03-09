@@ -1,4 +1,4 @@
-# El Proyecto Comunitario: "El caso judicial Oracle America, INC c. Google, LLC No. C-10-03561-WHA"
+# El proyecto comunitario: "El caso judicial Oracle America, INC c. Google, LLC No. C-10-03561-WHA"
 
 El presente trabajo es un proyecto **Open Source** y se licencia bajo los terminos **CC Attribution ShareAlike 4.0 International Public License** (aka CC BY SA 4.0)
 
@@ -26,7 +26,7 @@ Para más detalle al respecto véase el siguiente link https://wiki.creativecomm
 
 # ¿Que significa que sea un proyecto *open source*?
 
-*Open Source* tiene dos aristas: por un lado constituye un proceso de desarrollo de software y por otro lado, es un modelo de licenciamiento.
+*Open Source* **(*)** tiene dos aristas: por un lado constituye un proceso de desarrollo de software y por otro lado, es un modelo de licenciamiento.
 
 En este caso *Open Source* significa un modelo de colaboración para el desarrollo del proyecto. 
 
@@ -48,7 +48,7 @@ Entonces, mediante el licenciamiento de este trabajo bajo la CC BY SA 4.0 el mis
 
 Por otra parte, se crea un *proyecto colaborativo* que comienza con una contribución inicial que son todos los *commits* que conforman el respositorio *"El caso judicial Oracle America, INC c.Google, LLC No.C-10-03561-WHA* para que a través de un proceso de contribuciones de terceros interesados se produzcan mejoras a través de solicitudes de cambios (pull request) al libro *El caso judicial Oracle America INC c. Google LLC No.-C-10-03561* y de dicha forma se constituiría nuevas posibles versiones, ya con la participación de todos los involucrados.  Las contribuciones pueden ser de las más variadas: por ejemplo se podrían submitir solicitudes de cambios: **(1)** para incorporar nuevas preguntas al listado de las 30 ya existentes o mejorarlas las ya existentes, **(2)** para incorporar nuevos CAPITULOS. Por ejemplo, se podrían incorporar las opiniones brindadas en el 2015 y en el 2019 por los distintos Procuradores Generales de EE.UU (bajo la administración de Obama y Trump) cuando ambos rechazaron la Petición I y II de Writ of Certiorari presentada por Google (la última siendo aceptada por la Corte Suprema de EE.UU y que dió origen a la sentencia definitiva de SCOTUS en abril de 2021), **(3)** para sugerir  modificaciones de posibles errores en general o para sugerir mejoras de expresión, **(4)** agregados de notas de referencia, **(5)** mejoramiento de la estructura de los capitulos o de su indice, etc.
 
-
+**(*)** Según la OSI (Open Source Initiative) técnicamente "Open Source" es una definición para ser usada únicamente por aquellas licencias de software que han sido submmitidas al comité revisión de la OSI, debatida en la lista de revisión, y finalmente aprobadas por la OSI. En realidad existen licencias que sus autores no se han interesado en subimitir la licencia a la OSI. Así por ejemplo las licencias de software administradas por la FSF (Free Software Foundation) han sido reconocidas por la OSI como licencias que cumplen con los requerimientos de la OSI para ser consideradas Open Source. En la práctica existen proyectos que utilizan la palabra "open source" para referirse a licencias de software que cumplen con los requisitos definidos por las FSF y la OSI. Aunque, también existen casos en donde se utiliza la denominación de open source para cierto tipo de licencias que en realidad no han sido reconoicidas por la FSF ( y por ende no se listan en su sitio de internet) ni han sido aprobadas por la OSI.         
 
 # Contribuciones al Proyecto
 
