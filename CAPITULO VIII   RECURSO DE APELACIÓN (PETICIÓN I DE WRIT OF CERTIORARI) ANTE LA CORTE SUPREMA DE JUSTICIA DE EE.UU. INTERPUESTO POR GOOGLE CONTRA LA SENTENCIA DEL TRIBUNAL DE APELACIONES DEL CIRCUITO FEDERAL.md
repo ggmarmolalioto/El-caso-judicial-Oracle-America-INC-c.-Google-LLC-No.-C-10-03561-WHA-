@@ -1,10 +1,10 @@
-CAPITULO VIII
+# CAPITULO VIII
  
-RECURSO DE APELACIÓN (PETICIÓN I DE WRIT OF CERTIORARI) ANTE LA CORTE SUPREMA DE JUSTICIA DE EE.UU. INTERPUESTO POR GOOGLE CONTRA LA SENTENCIA DEL TRIBUNAL DE APELACIONES DEL CIRCUITO FEDERAL
+# RECURSO DE APELACIÓN (PETICIÓN I DE WRIT OF CERTIORARI) ANTE LA CORTE SUPREMA DE JUSTICIA DE EE.UU. INTERPUESTO POR GOOGLE CONTRA LA SENTENCIA DEL TRIBUNAL DE APELACIONES DEL CIRCUITO FEDERAL
 
 Contra esta sentencia del Tribunal de Apelaciones del Circuito Federal que determinó que el código fuente declarado y la estructura, secuencia y organización de los paquetes de las API de JAVA era protegible bajo el sistema de derecho de autor de EE.UU., Google con fecha 6 de octubre del 2014 presentó una Petición I de Writ of Certiorari [91] ante la Corte Suprema de Justicia de EE.UU. (SCOTUS). 
 
-ARGUMENTOS DE GOOGLE CONTRA LA SENTENCIA I DEL TRIBUNAL DE APELACIONES DEL CIRCUITO FEDERAL 
+# ARGUMENTOS DE GOOGLE CONTRA LA SENTENCIA I DEL TRIBUNAL DE APELACIONES DEL CIRCUITO FEDERAL 
 
      Google sostuvo que la decisión del Tribunal de Apelaciones del Circuito Federal del 9 de mayo de 2014 era contraria a derecho, ello conforme a lo dispuesto en el artículo 102, inciso b), del Título 17 USC. 
      
@@ -23,6 +23,7 @@ ARGUMENTOS DE GOOGLE CONTRA LA SENTENCIA I DEL TRIBUNAL DE APELACIONES DEL CIRCU
      Así los métodos se agrupaban en clases, y las clases en paquetes. 
      
      El “código fuente” de cada método consiste en:
+     
 (i)	un “código fuente declarado” (en inglés “declaring source code”) o encabezado del método (en inglés “method header”) o simplemente declaración (en inglés “declaration”), y 
 
 (ii)	un código fuente implementado (en inglés “implementing source code”) o cuerpo del método (en inglés “method body”). 
@@ -35,7 +36,7 @@ ARGUMENTOS DE GOOGLE CONTRA LA SENTENCIA I DEL TRIBUNAL DE APELACIONES DEL CIRCU
      De esta manera, los programadores utilizan estos comandos abreviados para operar el método (programas pre-escritos que conforman la librería de software estándar de Java). 
      Estos comandos abreviados poseen un formato especifico: 
 
-java.package.Class.method(input)
+**java.package.Class.method(input)**
 
      Cada “comando abreviado” deriva directamente del “código declarado” o encabezado de método”, que de igual forma que el comando abreviado, especifica el nombre del método, clase, paquete, y el input.  
      
