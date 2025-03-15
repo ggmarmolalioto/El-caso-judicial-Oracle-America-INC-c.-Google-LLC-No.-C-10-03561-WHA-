@@ -1,10 +1,10 @@
-CAPITULO II
+# CAPITULO II
 
-LA TECNOLOGÍA JAVA
+# LA TECNOLOGÍA JAVA
 
-Temario. La plataforma Java y el lenguaje de programación Java. La librería de software estándar de Java. Los paquetes, clases y métodos de Java. Diagrama de una API de JAVA de Sun Microsystems (según la Corte Suprema de EE.UU. en su sentencia de abril 5 de 2021) 
+**Temario**. La plataforma Java y el lenguaje de programación Java. La librería de software estándar de Java. Los paquetes, clases y métodos de Java. Diagrama de una API de JAVA de Sun Microsystems (según la Corte Suprema de EE.UU. en su sentencia de abril 5 de 2021) 
 
-LA PLATAFORMA JAVA Y EL LENGUAJE DE PROGRAMACIÓN JAVA 
+# LA PLATAFORMA JAVA Y EL LENGUAJE DE PROGRAMACIÓN JAVA 
 
 Java, por un lado, constituye una plataforma de software que permite ejecutar programas de software escritos en el lenguaje de programación Java . 
      
@@ -12,15 +12,14 @@ Y, por otro lado, Java es el lenguaje de programación mediante el cual un progr
      
 La plataforma Java  posee varios componentes, que son los siguientes: 
      
-(i) herramientas para asistir en el desarrollo de código fuente escrito en el lenguaje de programación Java (en inglés “Java development kit” o “JDK”), 
-(ii) el compilador de Java (en inglés “javac compiler”) que convierte declaraciones en lenguaje de programación Java en declaraciones de código byte de Java, 
-(iii) el ambiente de ejecución de Java (en inglés “runtime environment”) que consiste en: 
+-(i) herramientas para asistir en el desarrollo de código fuente escrito en el lenguaje de programación Java (en inglés “Java development kit” o “JDK”), 
+-(ii) el compilador de Java (en inglés “javac compiler”) que convierte declaraciones en lenguaje de programación Java en declaraciones de código byte de Java, 
+-(iii) el ambiente de ejecución de Java (en inglés “runtime environment”) que consiste en: 
 (a) la máquina virtual de Java (en inglés “Java virtual machine” o “JVM ) diseñada para operar en distinto tipo de computadoras y sistemas operativos, y 
 (b) la librería de software estándar de Java o librería de clases de Java (Java standard library o class library o también denominada como “Java packages” o “API packages” en los escritos de las partes y resoluciones judiciales), y, por último 
-(iv) la documentación para cada una de las ediciones de la plataforma Java.
+-(iv) la documentación para cada una de las ediciones de la plataforma Java.
 
-
- EL PRINCIPIO “WRITE ONCE, RUN ANYWHERE” (WORA)
+# EL PRINCIPIO “WRITE ONCE, RUN ANYWHERE” (WORA)
      
 Sun Microsystems, Inc  desarrolló la plataforma Java Standard Edition (“Java SE”) juntamente con otras ediciones de la plataforma Java . 
      
@@ -38,12 +37,12 @@ En Java, conforme a sus reglas, el código fuente primero se convierte en lo que
      
 Entonces, la plataforma Java a través de la utilización de la máquina virtual de Java permite a los desarrolladores escribir programas que son capaces de ejecutarse en diferentes computadoras o hardware sin tener que reescribir  sus programas para cada tipo diferente de computadora. 
      
-Esto se conoció como el “write once, run anywhere” (WORA).  
+Esto se conoció como el **“write once, run anywhere”** (WORA).  
 
 En definitiva, un programa escrito en Java podría correr o ejecutarse en cualquier sistema operativo o hardware, siempre que tuviese instalado la máquina virtual de Java.
 
 
-LA LIBRERÍA DE SOFTWARE ESTÁNDAR DE JAVA  . LOS PAQUETES, CLASES Y MÉTODOS DE JAVA 
+# LA LIBRERÍA DE SOFTWARE ESTÁNDAR DE JAVA. LOS PAQUETES, CLASES Y MÉTODOS DE JAVA 
 
 La librería de software estándar de Java contiene programas de computación “pre-escritos ” (denominados o conocidos en inglés como “buit in packages” ) los cuales pueden ser utilizados o no  por los programadores para escribir sus propios programas de computación. 
     
@@ -59,7 +58,7 @@ Dicho de otra forma, los paquetes agrupan a las clases, y las clases agrupan a l
 
 Este conjunto organizado de programas de computación pre-escritos (en inglés “pre-written programs” una forma habitual de denominar a los programas o subrutinas que constituyen o conforman las librerías de software en general) se lo ha denominado en el juicio , individualmente como aplicación de programación de interface o API, o colectivamente, como paquetes de API de Java.
 
-Ahora bien, durante el litigio el significado de la terminología API no ha sido precisa, y esto ha sido reconocido por el Juez de la Corte de Distrito. 
+Ahora bien, durante el litigio el significado de la **terminología API** no ha sido precisa, y esto ha sido reconocido por el Juez de la Corte de Distrito. 
 
 Así, una de las partes (Oracle) ha mencionado que el término API es un camaleón, ya que puede significar varias cosas, algunas simples y otras muy complejas . 
 
@@ -67,7 +66,7 @@ Más allá de ello, en el juicio, las partes litigantes, los amicis curiae, y lo
 
 (i)	al conjunto de los 37 paquetes de Java; 
 (ii)	a un paquete de Java en particular; 
-(iii)	 a las “declaraciones de las API de Java” por cuanto las API sólo estarían conformadas por las declaraciones de código (y no así por el código implementado), y 
+(iii) a las “declaraciones de las API de Java” por cuanto las API sólo estarían conformadas por las declaraciones de código (y no así por el código implementado), y 
 (iv)	interfaces de software (Google y sus amicis curiae). 
 
 Para Google, y para varios de los Amici Curiae que han presentado opinión en el juicio a su favor, las API constituyen sólo el código fuente declarado (o en inglés “method headers”) , por ende, conforme su postura, sería redundante afirmar API y código declarado o declaraciones de las API de Java, ya que constituye lo mismo. 
@@ -76,9 +75,8 @@ Véase en la referencia de más abajo el código fuente declarado y el código i
 
 En definitiva, la disputa judicial entre las partes se centra en: 
 
-(i)	el “código fuente declarado” (en inglés “declaring code”) o “declaraciones” (en inglés “declarations”) o “métodos de encabezados” (en inglés “method headers”),  
-Y no en:
-(ii)	el “código fuente implementado” de las API de Java (por Sun Microsystems, el cual no fue copiado por Google, habiendo realizado Google su propia implementación para Android).     
+**(i)** el “código fuente declarado” (en inglés “declaring code”) o “declaraciones” (en inglés “declarations”) o “métodos de encabezados” (en inglés “method headers”),  
+Y no en: **(ii)** el “código fuente implementado” de las API de Java (por Sun Microsystems, el cual no fue copiado por Google, habiendo realizado Google su propia implementación para Android).     
 
 Continuando, los “métodos de Java” permiten a los desarrolladores construir otros programas de computación . 
 
@@ -92,7 +90,7 @@ Es decir que una vez declarado el método de Java puede ser utilizado infinidad 
 
 Para ilustrar el código fuente (el declarado y el implementado) de un método, clases, paquete de Java (esquema 1) y su invocación -a través de un comando con su respectivo formato (esquema 2)- se hace referencia al mismo ejemplo citado por el Juez de la Corte de Distrito del Norte de California, como sigue: 
 
-ESQUEMA 1 CÓDIGO FUENTE (ESCRITO EN LENGUAJE JAVA) DECLARADO E IMPLEMENTADO DE UN “MÉTODO DE JAVA”
+# ESQUEMA 1 CÓDIGO FUENTE (ESCRITO EN LENGUAJE JAVA) DECLARADO E IMPLEMENTADO DE UN “MÉTODO DE JAVA”
 
      package java.lang;                             (declaración del paquete java.lang)   
      public class Math {                            (declaración de la clase Math)	
@@ -104,11 +102,11 @@ ESQUEMA 1 CÓDIGO FUENTE (ESCRITO EN LENGUAJE JAVA) DECLARADO E IMPLEMENTADO DE 
      
 En la declaración del método de Java max se puede ver que se comienza con la palabra public que significa que otros programas o métodos de Java fuera de la clase pueden llamar a ese método, ya que si en su lugar figurase private significaría que el método sólo estaría disponible para otros métodos agrupados dentro de la misma clase (pero no fuera de ella). 
 
-La palabra static significa que el método puede ser invocado sin la necesidad de tener que crearse una instancia de clase. 
+La palabra *static* significa que el método puede ser invocado sin la necesidad de tener que crearse una instancia de clase. 
 
-La palabra int significa que un número entero es devuelto por el método. 
+La palabra *int* significa que un número entero es devuelto por el método. 
 
-Por su parte max es el nombre del método. 
+Por su parte *max* es el nombre del método. 
 
 Y finalmente (int x, int y) son los argumentos que necesariamente deben pasar por el método, estableciéndose que será en forma de número entero. 
 
@@ -120,11 +118,11 @@ Por otra parte, para poder usarse dicho método de Java (max) por un programador
 
 Así, el programa del desarrollador deberá incluir mediante una llamada o invocación al método de Java bajo el formato de comando ya determinado.
 
-ESQUEMA 2. LLAMADA O INVOCACIÓN DEL MÉTODO JAVA BAJO EL FORMATO DE COMANDO DETERMINADO.
+# ESQUEMA 2. LLAMADA O INVOCACIÓN DEL MÉTODO JAVA BAJO EL FORMATO DE COMANDO DETERMINADO.
 
-int a = java.lang.Math.max (2,3)
+**int a = java.lang.Math.max (2,3)**
      
-El programador al escribir el código fuente de la invocación o llamada al método de Java debe hacerlo mediante un formato de comando determinado, como sigue java.lang.Math.max () el cual respeta además un determinado orden de posición, a saber: paquete java.lang, clase Math, método max. 
+El programador al escribir el código fuente de la invocación o llamada al método de Java debe hacerlo mediante un formato de comando determinado, como sigue **java.lang.Math.max ()** el cual respeta además un determinado orden de posición, a saber: paquete **java.lang**, clase **Math**, método **max**. 
 
 Con lo cual, para poder reutilizar el método de Java Max (el cual constituye la rutina o funcionalidad de la cual necesita y se quiere servir), el programador debe invocar o hacer un llamamiento al código fuente declarado del método de Java Max (ver Esquema 1) a través del formato comando determinado (ver Esquema 2).  
 
@@ -134,11 +132,11 @@ Para ello, es necesario que, mediante dicho formato de comando determinado se pr
 
 Así, entonces mediante la llamada del código fuente declarado a través del formato de comando determinado se invoca al código fuente implementado del método de Java
 
-COMANDO----CODIGO FUENTE DECLARADO----CODIGO FUENTE IMPLEMENTADO
+**COMANDO----CODIGO FUENTE DECLARADO----CODIGO FUENTE IMPLEMENTADO**
 
 Sin el código fuente declarado del método de Java, la llamada al método de Java a través del correspondiente formato determinado, no podría producir la invocación al código fuente implementado, y por ende no podría llevarse a cabo ninguna actividad (es decir no se ejecutaría ninguna función).      
 
-DIAGRAMA DE UNA API DE JAVA DE SUN MICROSYSTEMS (SEGÚN LA CORTE SUPREMA DE EE.UU. EN SU SENTENCIA DE ABRIL 5 DE 2021)
+# DIAGRAMA DE UNA API DE JAVA DE SUN MICROSYSTEMS (SEGÚN LA CORTE SUPREMA DE EE.UU. EN SU SENTENCIA DE ABRIL 5 DE 2021)
 
 [IMAGEN ver en ISSUE]
 
