@@ -3,11 +3,11 @@
 # PRELIMINAR
    
  
-     Desde los mismos escritos judiciales presentados por las partes, y desde las mismas resoluciones judiciales emitidas en el pleito en las diferentes instancias procesales, se narra el pleito iniciado en los EE.UU. en agosto de 2010 por parte de la empresa Oracle America, Inc. contra la empresa Google LLC . 
+Desde los mismos escritos judiciales presentados por las partes, y desde las mismas resoluciones judiciales emitidas en el pleito en las diferentes instancias procesales, se narra el pleito iniciado en los EE.UU. en agosto de 2010 por parte de la empresa Oracle America, Inc. contra la empresa Google LLC . 
 
-     Se recorren los argumentos expuestos por las partes en sus escritos de inicio y contestación de demanda, la sentencia de la Corte de Distrito del Norte de California, las sentencias de la Corte Federal de Apelaciones del Circuito Noveno del año 2014 y 2018, las distintas apelaciones interpuestas por las partes, y finalmente se narran los argumentos expuestos por la Corte Suprema de los EE.UU. tanto los del voto de la mayoría, como los de la minoría. 
+Se recorren los argumentos expuestos por las partes en sus escritos de inicio y contestación de demanda, la sentencia de la Corte de Distrito del Norte de California, las sentencias de la Corte Federal de Apelaciones del Circuito Noveno del año 2014 y 2018, las distintas apelaciones interpuestas por las partes, y finalmente se narran los argumentos expuestos por la Corte Suprema de los EE.UU. tanto los del voto de la mayoría, como los de la minoría. 
 
-     El pleito se refiere a la infracción de derechos de autor y patentes de invención de: 
+El pleito se refiere a la infracción de derechos de autor y patentes de invención de: 
 
 (a) un tipo de código fuente denominado en el trámite del juicio como “código fuente declarado” (en inglés “declaring code”) o “archivos de cabecera” (en inglés “header files”) o “declaraciones” (en inglés “declarations”) de 37 paquetes de la librería de software estándar de Java (en inglés Java standard software library) o librería de clase (en inglés “library class”) denominados en el juicio como las API de Java, 
 
