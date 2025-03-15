@@ -1,8 +1,8 @@
-CAPÍTULO X
+# CAPÍTULO X
 
-SENTENCIA [103] II  DEL TRIBUNAL DE APELACIONES DEL CIRCUITO FEDERAL DE EE.UU. RELACIONADA AL USO JUSTO (O LEGITIMO)
+# SENTENCIA [103] II  DEL TRIBUNAL DE APELACIONES DEL CIRCUITO FEDERAL DE EE.UU. RELACIONADA AL USO JUSTO (O LEGITIMO)
 
-ARGUMENTOS RELACIONADOS CON EL USO JUSTO (O LEGÍTIMO) 
+# ARGUMENTOS RELACIONADOS CON EL USO JUSTO (O LEGÍTIMO) 
 Recuérdese que el Tribunal de Apelaciones del Circuito Federal en su sentencia del 9 de mayo de 2014 (sentencia I: Copyrighability”) sentenció a favor de Oracle en relación a la protección del código fuente declarado y a su estructura, secuencia y organización (sus siglas en inglés “SSO”) pero no resolvió al respecto de si el uso realizado por Google encuadraba dentro del uso justo (conforme artículo 107, Titulo 17, USC. “Limitaciones a los Derechos Exclusivos”), sino que ordenó que se llevara a cabo un segundo juicio para que se determinara si el uso realizado por Google en relación al código declarado y a la estructura, secuencia y organización de los paquetes de las API de Java podría ser considerado como “uso justo” (o legítimo). 
 Así las cosas, habiéndose llevado a cabo este segundo juicio, el Jurado después de escuchar durante una semana los argumentos dado por las partes, y luego de tres días de deliberación emitió veredicto unánime a favor de Google y así conforme a ello la Corte de Distrito emitió sentencia (en inglés “final judgement”) con fecha 8 de junio de 2016, concediendo que el uso realizado por Google había sido “uso justo” (o legítimo). 
 Posteriormente a ello Oracle presentó su recurso de apelación, y con fecha 27 de marzo de 2018 el Tribunal de Apelaciones del Circuito Federal, integrado por los jueces O´Malley, Plager y Taranto, revirtió la decisión del grado anterior fallando a favor de Oracle y reconociendo que el uso realizado por Google no constituía un uso justo de acuerdo con lo establecido en el artículo 107, del Título 17 del USC. 
@@ -15,35 +15,51 @@ El análisis a realizarse por los jueces implica realizar un balance de estos cu
 Desde un punto de vista del derecho procesal de lo EE.UU., teniendo en cuenta que el “fair use” constituye una “defensa afirmativa” contra un reclamo por infracción de derechos, Google tenía la carga de probar que los factores jugaban a su favor, sin que ello significase que debía lograrlo respecto de los cuatro factores. 
 
 
-PRIMER FACTOR. EL PROPÓSITO Y EL CARÁCTER DEL USO
+# PRIMER FACTOR. EL PROPÓSITO Y EL CARÁCTER DEL USO
+
 Este factor implica si el uso tuvo naturaleza “comercial” o por el contrario fue para propósitos “educacionales no lucrativos”. 
+
 A su vez, este factor posee dos componentes, el primero, ya mencionado, es si el uso es de naturaleza comercial o si lo es para fines de educación o de interés público, y el segundo componente se relaciona a si la obra nueva creada es “transformativa” o si simplemente suplanta a la original. 
-     El uso de la obra protegida que es “comercial” tiende a sopesar en contra del uso justo. 
-     Ahora bien, a través de distintos casos judiciales en EE.UU., se ha reconocido que en la mayoría de ellos se busca algún grado o medida de uso comercial, con lo cual, enfatizar excesivamente en la motivación comercial del copista podría llevar a causar una posición más que restrictiva o exagerada del uso justo.  
-     Google ha sostenido que (1) teniendo en cuenta que Android se licencia mediante una licencia de código abierto (Licencia Apache versión 2) el Jurado podría haber concluido que Android no posee propósitos comerciales, y (2) que el Jurado podría haber razonablemente encontrado que los ingresos de Google provienen de la publicidad de su buscador, el cual es preexistente a Android. 
-     El Tribunal de Apelaciones del Circuito Federal sostuvo que ninguno de ambos argumentos tenía mérito ya que, en primer lugar, se sostuvo que la pregunta no es si el único motivo del uso es la ganancia monetaria, sino si el usuario puede beneficiarse de la explotación del material protegido por derechos de autor sin pagar por ello, y a su vez, aunque los ingresos de Google provengan de la publicidad, y no de Android, el carácter de “comercial” no depende de cómo Google obtenga ganancias. 
-     En definitiva, el beneficio económico directo no es requerido para demostrar “uso comercial”. 
-     Por estas razones, el Tribunal de Apelaciones del Circuito Federal entendió que el uso de los paquetes de las API de Java sopesaba en contra del uso justo, en definitiva, Google no había hecho un uso justo.
-     En relación al requisito de “uso transformativo”, si bien la ley de derechos de autor de EE.UU. no lo establece, con la denominación de “transformativo” la Corte Suprema de los EE.UU. ha establecido que el propósito central del primer factor del uso justo es determinar si la nueva obra “es transformativa y, en su caso en que extensión o grado”. 
-     Se expresa entonces que un uso es “transformativo” si agrega algo nuevo, con propósitos y carácter distinto, que alteran el primer uso con una “nueva expresión, significado o mensaje”. 
-     Una de las preguntas críticas que surgen en el análisis de este uso transformativo, es si la nueva obra creada “reemplaza, sustituye o suplanta el objeto” de la creación originaria o si simplemente agrega algo nuevo. 
-     Así la pregunta anterior debe entenderse dando una mirada a la enunciación proporcionada por el artículo 107 en cuanto a que el uso se refiere a críticas, comentarios, noticias, etc. 
-     Así la Corte Suprema de EE.UU. ha reconocido que las parodias, como también otras obras que comentan y producen críticas, son por su naturaleza suficientemente transformativas para encajar claramente en la excepción del uso justo  [106]. 
-     Por ello para encuadrar en el estándar requerido de “transformativo” la segunda obra en cuestión debe alterar la obra original con una nueva expresión, significado o mensaje, o servir con un propósito diferente de aquel tenido en cuenta por la primera obra. 
-     Cuando el segundo uso posee los mismos propósitos que el de la obra del mismo autor, tal uso debilita y compromete la alegación de que el uso es justo. 
-     También, cuanto más “transformativo” es el carácter de la segunda obra menos importancia cobra el significado de comercialización.
-     El Juez de Distrito mencionó respecto del código declarado copiado por Google, que éste servía para cumplir la misma función en ambas obras, es decir en Android y Java, porque por definición el código declarado en el lenguaje de programación Java cumple con los propósitos específicos de definición. 
-     Sin embargo, concluyó que el Jurado podría haber encontrado de forma razonable que la selección de algunos -no así de todos- de los paquetes de las API de Java, con su nuevo código implementado “adaptado a las limitaciones de sistema del nuevo ambiente para los teléfonos móviles inteligentes, junto con los nuevos métodos, clases y paquetes escritos o desarrollados por Google para la plataforma de teléfonos móviles inteligentes Android, constituyen un contexto nuevo dándole nueva expresión, nuevo significado o mensaje al código duplicado por Google. 
-     Por otro lado, Oracle sostuvo que el uso de Google no era transformativo porque no altera las API con una nueva expresión, significado o mensaje. 
-     Basándose Oracle en que Google había reconocido en el juicio que el uso de Google de los paquetes de las API de la librería de software estándar de Java tenía el mismo propósito que el de Oracle, Oracle sostenía que era irrazonable que se pudiera entender por el Jurado o por el Juez de Distrito, que Google había producido una “transformación” de las API de tal forma que se pudiera superar el alto grado comercial que poseía el uso por parte de Google. 
-     Por su parte, Google sostenía que, aunque que el código declarado y su estructura, secuencia y organización pudieran ejecutar la misma función en Android que en Java, si podía entenderse que podría existir un propósito diferente, y por ende transformativo, teniendo en cuenta que el objetivo de Android fue crear una plataforma innovadora para los teléfonos móviles inteligentes.   
+
+El uso de la obra protegida que es “comercial” tiende a sopesar en contra del uso justo. 
+
+Ahora bien, a través de distintos casos judiciales en EE.UU., se ha reconocido que en la mayoría de ellos se busca algún grado o medida de uso comercial, con lo cual, enfatizar excesivamente en la motivación comercial del copista podría llevar a causar una posición más que restrictiva o exagerada del uso justo.  
+
+Google ha sostenido que (1) teniendo en cuenta que Android se licencia mediante una licencia de código abierto (Licencia Apache versión 2) el Jurado podría haber concluido que Android no posee propósitos comerciales, y (2) que el Jurado podría haber razonablemente encontrado que los ingresos de Google provienen de la publicidad de su buscador, el cual es preexistente a Android. 
+
+El Tribunal de Apelaciones del Circuito Federal sostuvo que ninguno de ambos argumentos tenía mérito ya que, en primer lugar, se sostuvo que la pregunta no es si el único motivo del uso es la ganancia monetaria, sino si el usuario puede beneficiarse de la explotación del material protegido por derechos de autor sin pagar por ello, y a su vez, aunque los ingresos de Google provengan de la publicidad, y no de Android, el carácter de “comercial” no depende de cómo Google obtenga ganancias. 
+En definitiva, el beneficio económico directo no es requerido para demostrar “uso comercial”. 
+
+Por estas razones, el Tribunal de Apelaciones del Circuito Federal entendió que el uso de los paquetes de las API de Java sopesaba en contra del uso justo, en definitiva, Google no había hecho un uso justo.
+
+En relación al requisito de “uso transformativo”, si bien la ley de derechos de autor de EE.UU. no lo establece, con la denominación de “transformativo” la Corte Suprema de los EE.UU. ha establecido que el propósito central del primer factor del uso justo es determinar si la nueva obra “es transformativa y, en su caso en que extensión o grado”. 
+
+Se expresa entonces que un uso es “transformativo” si agrega algo nuevo, con propósitos y carácter distinto, que alteran el primer uso con una “nueva expresión, significado o mensaje”. 
+
+Una de las preguntas críticas que surgen en el análisis de este uso transformativo, es si la nueva obra creada “reemplaza, sustituye o suplanta el objeto” de la creación originaria o si simplemente agrega algo nuevo. 
+
+Así la pregunta anterior debe entenderse dando una mirada a la enunciación proporcionada por el artículo 107 en cuanto a que el uso se refiere a críticas, comentarios, noticias, etc. 
+
+Así la Corte Suprema de EE.UU. ha reconocido que las parodias, como también otras obras que comentan y producen críticas, son por su naturaleza suficientemente transformativas para encajar claramente en la excepción del uso justo  [106]. 
+
+Por ello para encuadrar en el estándar requerido de “transformativo” la segunda obra en cuestión debe alterar la obra original con una nueva expresión, significado o mensaje, o servir con un propósito diferente de aquel tenido en cuenta por la primera obra. 
+
+Cuando el segundo uso posee los mismos propósitos que el de la obra del mismo autor, tal uso debilita y compromete la alegación de que el uso es justo. 
+
+También, cuanto más “transformativo” es el carácter de la segunda obra menos importancia cobra el significado de comercialización.
+
+El Juez de Distrito mencionó respecto del código declarado copiado por Google, que éste servía para cumplir la misma función en ambas obras, es decir en Android y Java, porque por definición el código declarado en el lenguaje de programación Java cumple con los propósitos específicos de definición. 
+Sin embargo, concluyó que el Jurado podría haber encontrado de forma razonable que la selección de algunos -no así de todos- de los paquetes de las API de Java, con su nuevo código implementado “adaptado a las limitaciones de sistema del nuevo ambiente para los teléfonos móviles inteligentes, junto con los nuevos métodos, clases y paquetes escritos o desarrollados por Google para la plataforma de teléfonos móviles inteligentes Android, constituyen un contexto nuevo dándole nueva expresión, nuevo significado o mensaje al código duplicado por Google. 
+Por otro lado, Oracle sostuvo que el uso de Google no era transformativo porque no altera las API con una nueva expresión, significado o mensaje. 
+Basándose Oracle en que Google había reconocido en el juicio que el uso de Google de los paquetes de las API de la librería de software estándar de Java tenía el mismo propósito que el de Oracle, Oracle sostenía que era irrazonable que se pudiera entender por el Jurado o por el Juez de Distrito, que Google había producido una “transformación” de las API de tal forma que se pudiera superar el alto grado comercial que poseía el uso por parte de Google. 
+Por su parte, Google sostenía que, aunque que el código declarado y su estructura, secuencia y organización pudieran ejecutar la misma función en Android que en Java, si podía entenderse que podría existir un propósito diferente, y por ende transformativo, teniendo en cuenta que el objetivo de Android fue crear una plataforma innovadora para los teléfonos móviles inteligentes.   
      El Tribunal de Apelaciones del Circuito Federal entendió que los argumentos brindados por Google no eran válidos, por lo tanto, el uso de los paquetes de las API de Java por parte de Google no había sido transformativo por las siguientes razones:
 
 (i)	no se encontraba listado dentro de la enumeración propuesta por el artículo 107, 
 
 (ii)	el propósito de los paquetes de las API en Android era el mismo que el propósito de los paquetes en la plataforma Java, 
 
-(iii)	Google no había efectuado una alteración de la expresión del contenido o del mensaje del material protegido de Oracle,
+(iii) Google no había efectuado una alteración de la expresión del contenido o del mensaje del material protegido de Oracle,
 
 (iv)	los teléfonos inteligentes no eran un nuevo contexto, haciéndose referencia a que ya se había implementado las API de Java por Oracle en el producto Sava-Je para teléfonos móviles. 
 
@@ -77,7 +93,8 @@ A su vez, este factor posee dos componentes, el primero, ya mencionado, es si el
      Por lo cual, teniendo en cuenta el uso comercial y no transformativo realizado por Google, se concluyó al respecto del primer factor que jugaba en contra de otorgarse una excepción por uso justo o legítimo. 
 
 
-SEGUNDO FACTOR. NATURALEZA DE LA OBRA PROTEGIDA
+# SEGUNDO FACTOR. NATURALEZA DE LA OBRA PROTEGIDA
+
      Este segundo factor se relaciona con el reconocimiento de que algunas obras protegidas por el derecho de autor de EE.UU. están más cerca que otras obras del “núcleo de la protección conferida por el derecho de autor”, con la consecuencia de que el uso justo es más difícil de establecer cuando se trata de la copia del tipo de las últimas obras, es decir de aquellas que se encuentran más alejadas de ese núcleo de protección. 
      Así entonces, este factor se trata de si la obra es de carácter “informativo o creativo”. 
      Se ha reconocido por el Circuito Noveno y otros Circuitos, que este segundo factor no es típicamente significativo en el análisis total del balance del uso justo.
@@ -89,7 +106,8 @@ SEGUNDO FACTOR. NATURALEZA DE LA OBRA PROTEGIDA
      Por lo cual, basándose en ello, se dispuso por el Tribunal de Apelaciones del Circuito Federal que el segundo factor es en favor de conceder la excepción del uso justo a favor de Google.
 
 
-TERCER FACTOR. CANTIDAD Y SUSTANCIALIDAD DE LA PARTE UTILIZADA EN RELACIÓN A LA OBRA PROTEGIDA POR DERECHOS DE AUTOR EN SU CONJUNTO
+# TERCER FACTOR. CANTIDAD Y SUSTANCIALIDAD DE LA PARTE UTILIZADA EN RELACIÓN A LA OBRA PROTEGIDA POR DERECHOS DE AUTOR EN SU CONJUNTO
+
      El tercer factor se focaliza en la “cantidad y sustancialidad de la porción utilizada de la obra protegida” (Java SE), no de la obra en infracción (Android). 
      El lenguaje del artículo 107 deja claro que lo tomado o utilizado no podría excusarse por el simple hecho de que es insustancial respecto de la obra en infracción. 
      Y por su parte el hecho de que una parte sustancial de la obra en infracción haya sido copiada en forma idéntica de la obra originaria es evidencia del valor cualitativo del material copiado. 
@@ -115,7 +133,8 @@ TERCER FACTOR. CANTIDAD Y SUSTANCIALIDAD DE LA PARTE UTILIZADA EN RELACIÓN A LA
      Se agrega, según propias palabras de Google “fue una buena práctica comercial aprovechar la comunidad existente de desarrolladores, minimizando el monto de nuevo material creado y maximizando el conocimiento existente”
      Por ello, concluye el Tribunal de Apelaciones del Circuito Federal que, en el mejor de los casos este factor es neutral o favorece a Oracle.
 
-CUARTO FACTOR. EL EFECTO DEL USO SOBRE EL MERCADO POTENCIAL O EL VALOR DE LA OBRA PROTEGIDA POR DERECHOS DE AUTOR 
+# CUARTO FACTOR. EL EFECTO DEL USO SOBRE EL MERCADO POTENCIAL O EL VALOR DE LA OBRA PROTEGIDA POR DERECHOS DE AUTOR 
+
      Este cuarto factor refleja la idea de que el uso justo se limita a que la copia realizada por terceros materialmente no perjudique la comerciabilidad de la obra copiada. 
      Este factor requiere que los tribunales no sólo consideren la extensión del daño causado en el mercado por acciones particulares del presunto infractor, sino también, si de la conducta irrestricta y generalizada que lleva a cabo el acusado podría resultar un impacto sustancialmente adverso en el mercado potencial para la obra original. 
      La Corte Suprema de EE.UU. ha reconocido en el caso Harper & Row que el cuarto factor es indudablemente el elemento individual más importante del uso justo. 
@@ -130,20 +149,32 @@ CUARTO FACTOR. EL EFECTO DEL USO SOBRE EL MERCADO POTENCIAL O EL VALOR DE LA OBR
      Téngase presente que un titular de derechos posee facultades exclusivas para determinar ¿cuándo? ¿cómo? y ¿de qué forma? lanzar el material protegido a nuevos mercados, sea por el mismo titular de derechos o mediante licenciamiento a terceros. 
      Así en el Noveno Circuito se ha reconocido que aún en el caso que un autor haya desautorizado cualquier intención de publicar su obra dentro del periodo de protección, tiene derecho a la protección bajo la ley de derechos de autor, ya que la consideración relevante es el mercado potencial, y, en segundo lugar, tiene derecho a cambiar de opinión. 
      En definitiva, solo el titular de derechos de autor tiene la facultad de decidir de entrar a un mercado o no.
+     
      En el caso particular, la Corte de Distrito expresó que podría interpretarse que el uso del código declarado y la estructura, secuencia y organización en Android no causaba daño en el mercado para la obra protegida (Java SE), teniendo en cuenta que su mercado, el de Java SE, era el de las computadoras de escritorios y las portátiles. 
      Para llegar a esta conclusión el Juez de Distrito mencionó que antes de que Android fuera publicado y comercializado, Sun Microsystems había hecho disponible todos los paquetes de las API de Java bajo una licencia de código abierto, la licencia GPLv2 o Licencia Pública General, versión 2. 
      Dicha implementación de las API de Java de código abierto de Sun Microsystems llevo el nombre de “OpenJDK”. 
+     
      Entonces, el Juez de Distrito interpretó que se podría concluir que el impacto de Android en el mercado de la obra protegida, podría ser lo mismo que lo que Sun Microsystems esperaba que fuera a través del proyecto de OpenJDK. 
+     
      Expresa el Tribunal de Apelaciones del Circuito Federal que conforme surge de las constancias del juicio con relación al daño en el mercado actual, Java SE había sido usado por años en dispositivos móviles, incluyéndose a los primeros teléfonos inteligentes, todo ello antes que Android. 
+     
      Puntualmente existen constancias en el pleito que incluía Java SE en los teléfonos inteligentes de Nokia, Danger, SavaJe y Blackberry. 
+     
      Por lo tanto, que Android haya competido directamente con Java SE en el mercado de teléfonos móviles es suficiente para rechazar los argumentos de Google. 
+     
      Con relación a las “tabletas”, la prueba rendida en el juicio demuestra que Oracle licenciaba Java SE en Amazon Kindle. 
+     
      Después de la publicación de Android, la empresa Amazon tenía dos opciones que competían entre sí, la de Oracle con Java SE (comercial con pago de royalties), y la de Google con Android (open source, con licencia Apache v2). 
      Amazon escogió Android. 
+     
      Es decir, Amazon no escogió la versión open source de Oracle OpenJDK, sino Android. 
+     
      De la prueba rendida en el juicio también surge que los fabricantes de dispositivos no veían a OpenJDK como una opción comercialmente viable, teniendo en cuenta los términos de su licencia GPLv2, es decir, que cualquier modificación en los paquetes de Java, al distribuirse el producto, gatillaba la obligación de compartir esas modificaciones. 
+     
      Por ello, la prueba en el juicio demuestra que Android fue usado como un sustituto para Java SE y eso tuvo un impacto directo en el mercado.
+     
      Agrega el Tribunal de Apelaciones del Circuito Federal que aún para el caso de que no estuviera en discusión que Oracle hubiese licenciado Java SE en los teléfonos móviles antes de que Android fuera lanzado, el punto es que el “uso justo” se focaliza no sólo en el daño en un “mercado actual”, sino también en el daño en un “mercado potencial”. 
+     
      Entonces el tribunal inferior ha concentrado su teoría sólo en el mercado actual -computadoras de escritorios y portátiles-, es decir en el mercado en que Oracle ya había entrado, cuando en realidad debió haber considerado: 
 (i)	¿cómo la copia de Google podía haber afectado los potenciales mercados? 
 (ii)	que Oracle podría entrar en un futuro [en tal mercado], o incluso, 
@@ -159,7 +190,7 @@ CUARTO FACTOR. EL EFECTO DEL USO SOBRE EL MERCADO POTENCIAL O EL VALOR DE LA OBR
      Por las razones expuestas el Tribunal de Apelaciones del Circuito Federal entendió que teniendo en cuenta las constancias de la causa que demuestran un actual y potencial daño, concluye que la conducta de Google resultaría en un impacto adverso sustancial para el mercado potencial para la obra original y sus obras derivadas, por lo que de acuerdo con ello sostuvo que el cuarto factor se encuentra a favor de Oracle.
 
 
-EL BALANCE DE LOS CUATRO FACTORES DEL USO JUSTO
+# EL BALANCE DE LOS CUATRO FACTORES DEL USO JUSTO
      Habiendo realizado el Tribunal de Apelaciones del Circuito Federal un estudio individual de los cuatro factores, concluyó que permitir que Google explotara comercialmente la obra protegida de Oracle no contribuía con el avance de los propósitos del sistema de derecho de autor de los EE.UU. 
      No hay nada justo o legítimo en tomar una obra protegida, copiarla exacta y usarla para los mismos propósitos y función que la obra original en una plataforma en competencia. 
      Nuevamente, aun ignorándose la prueba arrimada al juicio y asumiendo que Oracle no había licenciado Java SE en el contexto de los teléfonos móviles inteligentes, sin duda los teléfonos móviles inteligentes constituyen un “mercado potencial”.
