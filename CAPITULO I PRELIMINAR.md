@@ -1,6 +1,6 @@
-CAPITULO I 
+# CAPITULO I 
 
-PRELIMINAR
+# PRELIMINAR
    
  
      Desde los mismos escritos judiciales presentados por las partes, y desde las mismas resoluciones judiciales emitidas en el pleito en las diferentes instancias procesales, se narra el pleito iniciado en los EE.UU. en agosto de 2010 por parte de la empresa Oracle America, Inc. contra la empresa Google LLC . 
